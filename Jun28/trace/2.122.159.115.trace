@@ -1,0 +1,14 @@
+traceroute to 2.122.159.115 (2.122.159.115), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  12.644 ms  13.142 ms  13.477 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  15.482 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  16.078 ms  17.299 ms
+ 5  64.15.7.49 (64.15.7.49)  17.680 ms  18.007 ms 64.15.7.57 (64.15.7.57)  14.518 ms
+ 6  451be0ea.cst.lightpath.net (65.19.120.234)  18.324 ms 451be0de.cst.lightpath.net (65.19.120.222)  16.600 ms 64.15.2.70 (64.15.2.70)  14.666 ms
+ 7  * * *
+ 8  ae-228-3604.edge3.London15.Level3.net (4.69.167.102)  92.102 ms ae-118-3504.edge3.London15.Level3.net (4.69.167.86)  95.532 ms ae-117-3503.edge3.London15.Level3.net (4.69.167.82)  94.498 ms
+ 9  ae-118-3504.edge3.London15.Level3.net (4.69.167.86)  95.410 ms ae-115-3501.edge3.London15.Level3.net (4.69.167.74)  95.478 ms ae-225-3601.edge3.London15.Level3.net (4.69.167.90)  93.868 ms
+10  unknown.Level3.net (212.187.193.186)  97.964 ms  113.198 ms  111.693 ms
+11  * * *
+12  * * *
+13  *

@@ -1,0 +1,9 @@
+traceroute to 41.78.164.225 (41.78.164.225), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  63.343 ms *  64.266 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  68.845 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  69.494 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  70.112 ms
+ 5  64.15.7.41 (64.15.7.41)  72.017 ms  72.631 ms 65.19.119.213 (65.19.119.213)  67.965 ms
+ 6  64.15.0.86 (64.15.0.86)  74.335 ms 451be0de.cst.lightpath.net (65.19.120.222)  25.949 ms 451be0ea.cst.lightpath.net (65.19.120.234)  22.395 ms
+ 7  * te0-3-0-6.rcr21.ewr02.atlas.cogentco.com (154.54.11.77)  28.772 ms *
+ 8  be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  30.064 ms be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  27.502 ms

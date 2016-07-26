@@ -1,0 +1,31 @@
+traceroute to 50.247.15.253 (50.247.15.253), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  14.595 ms  14.767 ms  15.122 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  16.836 ms  16.896 ms  16.969 ms
+ 5  64.15.7.41 (64.15.7.41)  15.899 ms 65.19.119.193 (65.19.119.193)  16.703 ms 64.15.7.41 (64.15.7.41)  16.016 ms
+ 6  64.15.2.70 (64.15.2.70)  17.925 ms  13.842 ms  15.328 ms
+ 7  64.15.0.198 (64.15.0.198)  42.468 ms  41.760 ms  41.745 ms
+ 8  c-eth-0-3-0-pe05.350ecermak.il.ibone.comcast.net (68.86.86.38)  39.610 ms  37.668 ms  39.551 ms
+ 9  he-2-0-0-0-cr01.350ecermak.il.ibone.comcast.net (68.86.86.33)  41.015 ms he-2-1-0-0-cr01.350ecermak.il.ibone.comcast.net (68.86.86.37)  38.610 ms he-2-0-0-0-cr01.350ecermak.il.ibone.comcast.net (68.86.86.33)  39.252 ms
+10  be-7922-ar02.pontiac.mi.michigan.comcast.net (68.86.90.46)  38.665 ms  39.991 ms  40.126 ms
+11  xe-11-0-0-0-sur01.newhaven.mi.michigan.comcast.net (68.85.223.90)  43.332 ms xe-0-1-0-0-sur02.newhaven.mi.michigan.comcast.net (68.85.222.217)  45.332 ms  44.495 ms
+12  te-7-0-acr01.newhaven.mi.michigan.comcast.net (68.85.188.150)  44.090 ms te-7-1-acr01.newhaven.mi.michigan.comcast.net (68.85.188.170)  44.365 ms te-7-0-acr01.newhaven.mi.michigan.comcast.net (68.85.188.150)  43.743 ms
+13  c-98-224-159-159.hsd1.mi.comcast.net (98.224.159.159)  46.439 ms  46.047 ms  45.732 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

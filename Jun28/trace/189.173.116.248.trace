@@ -1,0 +1,16 @@
+traceroute to 189.173.116.248 (189.173.116.248), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  20.252 ms  20.706 ms  21.027 ms
+ 4  * * *
+ 5  * 64.15.7.57 (64.15.7.57)  24.079 ms  24.376 ms
+ 6  64.15.2.74 (64.15.2.74)  27.240 ms  23.560 ms 64.15.3.238 (64.15.3.238)  22.352 ms
+ 7  * * *
+ 8  * ae-1-51.edge1.NewYork2.Level3.net (4.69.138.194)  30.125 ms *
+ 9  ae-1-51.edge1.NewYork2.Level3.net (4.69.138.194)  28.398 ms * ae-2-52.edge1.NewYork2.Level3.net (4.69.138.226)  18.158 ms
+10  ix-21-0.tcore2.AEQ-Ashburn.as6453.net (216.6.87.65)  30.288 ms Tata-level3-2x10G.NewYork.Level3.net (4.68.62.186)  18.862 ms ix-21-0.tcore2.AEQ-Ashburn.as6453.net (216.6.87.65)  21.100 ms
+11  if-5-5.tcore1.NYY-New-York.as6453.net (216.6.90.5)  104.440 ms  105.550 ms  103.462 ms
+12  if-1-2.tcore1.PDI-Palo-Alto.as6453.net (66.198.127.5)  102.493 ms  101.149 ms if-6-20.tcore1.EQL-Los-Angeles.as6453.net (64.86.252.66)  99.674 ms
+13  if-3-2.tcore1.LVW-Los-Angeles.as6453.net (66.198.127.26)  107.092 ms  109.136 ms  108.473 ms
+14  if-2-2.tcore2.LVW-Los-Angeles.as6453.net (66.110.59.2)  106.285 ms *  107.753 ms
+15  dsl-189-173-116-248-dyn.prod-infinitum.com.mx (189.173.116.248)  196.378 ms if-6-20.tcore1.EQL-Los-Angeles.as6453.net (64.86.252.66)  107.572 ms  108.668 ms

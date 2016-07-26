@@ -1,0 +1,19 @@
+traceroute to 79.166.243.236 (79.166.243.236), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * be2262.ccr42.fra03.atlas.cogentco.com (154.54.37.34)  225.483 ms
+12  be2228.ccr21.muc01.atlas.cogentco.com (154.54.38.50)  113.856 ms be2229.ccr22.muc01.atlas.cogentco.com (154.54.38.58)  109.202 ms  113.124 ms
+13  be2200.ccr21.vie01.atlas.cogentco.com (130.117.49.2)  118.509 ms be2229.ccr22.muc01.atlas.cogentco.com (154.54.38.58)  112.152 ms be2223.ccr21.vie01.atlas.cogentco.com (130.117.49.138)  125.882 ms
+14  be2046.ccr21.sof02.atlas.cogentco.com (130.117.1.21)  155.980 ms  156.657 ms  155.149 ms
+15  be2118.rcr11.ath01.atlas.cogentco.com (154.54.36.54)  164.528 ms  163.400 ms  165.764 ms
+16  149.11.120.34 (149.11.120.34)  165.034 ms  162.641 ms be2118.rcr11.ath01.atlas.cogentco.com (154.54.36.54)  163.909 ms
+17  tengigaeth00-01-00-02.adr00.ccr.hol.gr (62.38.96.29)  165.079 ms  181.938 ms  179.965 ms
+18  tengigaeth00-01-00-02.adr00.ccr.hol.gr (62.38.96.29)  180.527 ms 62.38.93.109 (62.38.93.109)  187.252 ms  180.279 ms

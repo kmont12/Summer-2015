@@ -1,0 +1,19 @@
+traceroute to 36.77.151.223 (36.77.151.223), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 451be0de.cst.lightpath.net (65.19.120.222)  21.897 ms  23.298 ms
+ 7  * * *
+ 8  154.54.47.29 (154.54.47.29)  31.543 ms  29.668 ms  30.298 ms
+ 9  be2632.ccr42.jfk02.atlas.cogentco.com (154.54.28.90)  30.908 ms be2149.ccr42.dca01.atlas.cogentco.com (154.54.31.125)  27.202 ms  28.998 ms
+10  hu0-0-0-0.mpd21.dca01.atlas.cogentco.com (154.54.7.13)  28.300 ms be2149.ccr42.dca01.atlas.cogentco.com (154.54.31.125)  32.083 ms hu0-0-0-0.ccr22.dca01.atlas.cogentco.com (154.54.3.133)  32.669 ms
+11  be2169.ccr42.atl01.atlas.cogentco.com (154.54.31.97)  42.017 ms  44.332 ms *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  180.240.190.13 (180.240.190.13)  268.350 ms  267.277 ms  269.200 ms
+17  226.128-240-180.static.telin.sg (180.240.128.226)  258.838 ms 61.subnet118-98-61.astinet.telkom.net.id (118.98.61.61)  260.299 ms 226.128-240-180.static.telin.sg (180.240.128.226)  259.632 ms
+18  61.subnet118-98-61.astinet.telkom.net.id (118.98.61.61)  260.930 ms 61.94.115.201 (61.94.115.201)  253.260 ms  256.281 ms

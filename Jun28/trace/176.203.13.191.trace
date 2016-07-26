@@ -1,0 +1,5 @@
+traceroute to 176.203.13.191 (176.203.13.191), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  11.817 ms * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  23.037 ms  23.780 ms  24.310 ms
+ 4  ool-4353f68d.dyn.optonline.net (67.83.246.141)  25.771 ms rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  26.786 ms ool-4353f68d.dyn.optonline.net (67.83.246.141)  26.371 ms

@@ -1,0 +1,14 @@
+traceroute to 90.201.196.88 (90.201.196.88), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  45.218 ms  48.288 ms  50.182 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  59.154 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  55.420 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  60.053 ms
+ 5  65.19.119.213 (65.19.119.213)  56.270 ms 64.15.7.41 (64.15.7.41)  57.076 ms  58.119 ms
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  60.877 ms 64.15.0.86 (64.15.0.86)  18.486 ms 451be0de.cst.lightpath.net (65.19.120.222)  36.687 ms
+ 7  * * *
+ 8  ae-238-3614.edge6.London1.Level3.net (4.69.166.85)  94.041 ms ae-237-3613.edge6.London1.Level3.net (4.69.166.81)  95.469 ms ae-238-3614.edge6.London1.Level3.net (4.69.166.85)  93.914 ms
+ 9  ae-238-3614.edge6.London1.Level3.net (4.69.166.85)  92.351 ms ae-240-3616.edge6.London1.Level3.net (4.69.166.93)  95.437 ms ae-239-3615.edge6.London1.Level3.net (4.69.166.89)  94.804 ms
+10  unknown.Level3.net (212.113.9.54)  102.868 ms  170.738 ms  171.414 ms
+11  * * *
+12  * * *
+13  *

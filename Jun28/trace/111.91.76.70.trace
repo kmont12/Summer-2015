@@ -1,0 +1,10 @@
+traceroute to 111.91.76.70 (111.91.76.70), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  12.223 ms  17.642 ms  18.276 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  20.041 ms  20.615 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  19.436 ms
+ 5  65.19.119.213 (65.19.119.213)  18.834 ms 64.15.7.33 (64.15.7.33)  21.162 ms  21.761 ms
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  22.375 ms 64.15.0.86 (64.15.0.86)  25.000 ms  20.435 ms
+ 7  rtr7-ge2-1.in.nycmnyzr.cv.net (64.15.0.106)  22.214 ms  20.722 ms  22.414 ms
+ 8  tenge10-3.br03.ash01.pccwbtn.net (63.218.92.117)  23.793 ms * *
+ 9  63-218-107-194.static.pccwglobal.net (63.218.107.194)  377.347 ms TenGE0-2-0-15.br03.sin02.pccwbtn.net (63.218.228.182)  355.329 ms

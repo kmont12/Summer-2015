@@ -1,0 +1,10 @@
+traceroute to 73.50.26.70 (73.50.26.70), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * 67.59.229.205 (67.59.229.205)  19.657 ms  20.246 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  22.656 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  23.840 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  24.378 ms
+ 5  64.15.7.49 (64.15.7.49)  21.370 ms 64.15.7.57 (64.15.7.57)  23.193 ms 65.19.119.209 (65.19.119.209)  21.915 ms
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  25.491 ms  13.784 ms  17.558 ms
+ 7  rtr7-ge2-1.in.nycmnyzr.cv.net (64.15.0.106)  24.398 ms  24.651 ms  21.164 ms
+ 8  * * *
+ 9  he-1-3-0-8-cr02.ashburn.va.ibone.comcast.net (68.86.85.69)  28.734 ms he-1-3-0-0-cr02.ashburn.va.ibone.comcast.net (68.86.83.65)  21.626 ms

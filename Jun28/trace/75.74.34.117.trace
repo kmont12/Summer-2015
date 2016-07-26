@@ -1,0 +1,13 @@
+traceroute to 75.74.34.117 (75.74.34.117), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  17.257 ms * *
+ 4  * * *
+ 5  * * *
+ 6  * 451be0ea.cst.lightpath.net (65.19.120.234)  17.582 ms *
+ 7  * * rtr7-ge2-1.in.nycmnyzr.cv.net (64.15.0.106)  76.727 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * be-7922-ar01.pompanobeach.fl.pompano.comcast.net (68.86.90.186)  113.650 ms  115.242 ms
+12  et-6-0-0-0-ar02.staterd7.fl.pompano.comcast.net (69.139.182.42)  116.241 ms et-7-0-0-0-ar02.staterd7.fl.pompano.comcast.net (68.86.164.234)  69.924 ms

@@ -1,0 +1,16 @@
+traceroute to 90.204.187.47 (90.204.187.47), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * 65.19.119.193 (65.19.119.193)  31.823 ms
+ 6  64.15.2.70 (64.15.2.70)  41.522 ms 451be0de.cst.lightpath.net (65.19.120.222)  18.137 ms *
+ 7  * * *
+ 8  ae-239-3615.edge6.London1.Level3.net (4.69.166.89)  100.311 ms ae-240-3616.edge6.London1.Level3.net (4.69.166.93)  99.875 ms ae-237-3613.edge6.London1.Level3.net (4.69.166.81)  100.701 ms
+ 9  ae-239-3615.edge6.London1.Level3.net (4.69.166.89)  149.075 ms ae-238-3614.edge6.London1.Level3.net (4.69.166.85)  148.515 ms ae-239-3615.edge6.London1.Level3.net (4.69.166.89)  149.528 ms
+10  unknown.Level3.net (212.113.9.54)  101.083 ms  101.485 ms  101.886 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * *

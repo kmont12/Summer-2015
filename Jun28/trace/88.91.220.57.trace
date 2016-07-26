@@ -1,0 +1,9 @@
+traceroute to 88.91.220.57 (88.91.220.57), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  21.800 ms  22.271 ms  22.701 ms
+ 4  ool-4353f68d.dyn.optonline.net (67.83.246.141)  23.111 ms rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  24.905 ms *
+ 5  * * *
+ 6  * * 451be0de.cst.lightpath.net (65.19.120.222)  95.644 ms
+ 7  * * *
+ 8  ae-115-3501.bar1.Copenhagen1.Level3.net (4.69.159.17)  122.989 ms ae-116-3502.bar1.Copenhagen1.Level3.net (4.69.159.21)  175.933 ms ae-115-3501.bar1.Copenhagen1.Level3.net (4.69.159.17)  142.318 ms

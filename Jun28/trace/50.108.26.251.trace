@@ -1,0 +1,16 @@
+traceroute to 50.108.26.251 (50.108.26.251), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  ae-4-90.edge3.Washington4.Level3.net (4.69.149.210)  24.760 ms ae-1-60.edge3.Washington4.Level3.net (4.69.149.18)  25.305 ms *
+10  4.53.116.46 (4.53.116.46)  27.114 ms  27.714 ms  26.515 ms
+11  ae2---0.cor02.asbn.va.frontiernet.net (74.40.2.177)  59.090 ms  57.288 ms *
+12  * * ae1---0.cor02.chcg.il.frontiernet.net (74.40.2.193)  115.586 ms
+13  * ae0---0.car01.mskg.mi.frontiernet.net (74.40.2.122)  90.495 ms  89.308 ms
+14  ae0---0.adr01.mskg.mi.frontiernet.net (74.42.151.110)  316.889 ms  313.342 ms  312.232 ms
+15  * * *

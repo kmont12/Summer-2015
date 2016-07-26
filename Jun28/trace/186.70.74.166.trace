@@ -1,0 +1,5 @@
+traceroute to 186.70.74.166 (186.70.74.166), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  26.140 ms  26.764 ms  27.761 ms
+ 4  ool-4353f68d.dyn.optonline.net (67.83.246.141)  40.747 ms rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  40.305 ms ool-4353f68d.dyn.optonline.net (67.83.246.141)  41.139 ms

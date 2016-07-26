@@ -1,0 +1,23 @@
+traceroute to 27.33.29.221 (27.33.29.221), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * 67.59.229.205 (67.59.229.205)  20.972 ms  21.406 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  28.745 ms  29.449 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  25.976 ms
+ 5  65.19.119.197 (65.19.119.197)  24.929 ms 64.15.7.33 (64.15.7.33)  24.047 ms 64.15.7.57 (64.15.7.57)  24.474 ms
+ 6  * 451be0de.cst.lightpath.net (65.19.120.222)  81.281 ms  81.289 ms
+ 7  * te0-3-0-6.rcr21.ewr02.atlas.cogentco.com (154.54.11.77)  86.789 ms *
+ 8  be2601.rcr24.jfk01.atlas.cogentco.com (154.54.40.49)  85.862 ms * *
+ 9  * * be2483.ccr22.cle04.atlas.cogentco.com (154.54.29.201)  79.741 ms
+10  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  87.101 ms be2483.ccr22.cle04.atlas.cogentco.com (154.54.29.201)  49.135 ms *
+11  * * be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  245.887 ms
+12  be2132.ccr21.sfo01.atlas.cogentco.com (154.54.30.53)  285.378 ms  283.796 ms be2133.ccr22.sfo01.atlas.cogentco.com (154.54.30.65)  284.695 ms
+13  be2164.ccr21.sjc01.atlas.cogentco.com (154.54.28.34)  287.160 ms  286.567 ms be2165.ccr22.sjc01.atlas.cogentco.com (154.54.28.66)  285.972 ms
+14  be2095.rcr21.b001848-1.sjc01.atlas.cogentco.com (154.54.3.138)  287.730 ms *  288.308 ms
+15  38.122.92.214 (38.122.92.214)  445.200 ms  444.689 ms  444.106 ms
+16  syd-gls-har-agr2-po-10.tpgi.com.au (203.29.129.142)  442.353 ms  443.357 ms *
+17  syd-gls-har-bras1-tg-0-1-0.tpgi.com.au (203.219.17.66)  394.841 ms  395.377 ms  394.155 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  *

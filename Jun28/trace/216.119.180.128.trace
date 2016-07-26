@@ -1,0 +1,31 @@
+traceroute to 216.119.180.128 (216.119.180.128), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  43.110 ms  145.341 ms 64.15.2.74 (64.15.2.74)  25.998 ms
+ 7  * * *
+ 8  be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  24.585 ms be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  26.810 ms be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  24.246 ms
+ 9  be2630.ccr42.jfk02.atlas.cogentco.com (154.54.27.122)  22.706 ms be2149.ccr42.dca01.atlas.cogentco.com (154.54.31.125)  26.242 ms  27.258 ms
+10  hu0-0-0-0.mpd22.dca01.atlas.cogentco.com (154.54.7.25)  25.048 ms hu0-0-0-0.mpd21.dca01.atlas.cogentco.com (154.54.7.13)  23.770 ms hu0-0-0-0.mpd22.dca01.atlas.cogentco.com (154.54.7.25)  25.630 ms
+11  hu0-0-0-0.mpd22.dca01.atlas.cogentco.com (154.54.7.25)  24.765 ms be2168.ccr41.atl01.atlas.cogentco.com (154.54.31.93)  37.836 ms be2169.ccr42.atl01.atlas.cogentco.com (154.54.31.97)  35.453 ms
+12  be2034.ccr21.atl04.atlas.cogentco.com (154.54.6.114)  38.117 ms be2035.ccr21.atl04.atlas.cogentco.com (154.54.6.122)  34.139 ms  32.948 ms
+13  38.122.46.101 (38.122.46.101)  45.755 ms  45.868 ms  45.948 ms
+14  static-24-245-113-32.cpe.metrocast.net (24.245.113.32)  45.992 ms static-24-245-112-32.cpe.metrocast.net (24.245.112.32)  46.041 ms static-24-245-113-32.cpe.metrocast.net (24.245.113.32)  45.771 ms
+15  * * static-24-245-113-32.cpe.metrocast.net (24.245.113.32)  48.882 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

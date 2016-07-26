@@ -1,0 +1,14 @@
+traceroute to 49.204.236.36 (49.204.236.36), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  13.385 ms  14.861 ms  15.501 ms
+ 4  ool-4353f68d.dyn.optonline.net (67.83.246.141)  18.575 ms  19.675 ms  20.089 ms
+ 5  64.15.7.57 (64.15.7.57)  17.058 ms 64.15.7.33 (64.15.7.33)  17.431 ms  17.943 ms
+ 6  64.15.3.250 (64.15.3.250)  20.343 ms  19.540 ms r1-gig1-0-0.in.nycmnyzr.cv.net (64.15.0.30)  18.178 ms
+ 7  * * *
+ 8  ae-2-70.edge2.Washington4.Level3.net (4.69.149.80)  20.047 ms ae-2-52.edge1.NewYork2.Level3.net (4.69.138.226)  15.986 ms ae-2-70.edge2.Washington4.Level3.net (4.69.149.80)  21.173 ms
+ 9  ae-2-52.edge1.NewYork2.Level3.net (4.69.138.226)  15.121 ms ae-2-70.edge2.Washington4.Level3.net (4.69.149.80)  18.899 ms ae-4-90.edge2.Washington4.Level3.net (4.69.149.208)  48.924 ms
+10  Tata-level3-2x10G.NewYork.Level3.net (4.68.62.186)  18.117 ms  16.266 ms  16.671 ms
+11  if-11-2.thar2.NJY-Newark.as6453.net (216.6.87.138)  115.510 ms * 63.243.128.38 (63.243.128.38)  105.695 ms
+12  if-9-2.tcore2.WYN-Marseille.as6453.net (80.231.200.13)  108.166 ms  107.995 ms  107.936 ms
+13  80.231.200.30 (80.231.200.30)  214.406 ms  208.091 ms if-7-2.tcore1.L78-London.as6453.net (66.198.70.26)  114.519 ms

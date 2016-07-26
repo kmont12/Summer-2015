@@ -1,0 +1,9 @@
+traceroute to 203.79.117.122 (203.79.117.122), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  8.270 ms  9.247 ms  9.868 ms
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  19.724 ms  20.736 ms  21.498 ms
+ 4  67.83.246.141 (67.83.246.141)  22.899 ms  23.538 ms  24.186 ms
+ 5  64.15.7.57 (64.15.7.57)  22.191 ms 65.19.119.197 (65.19.119.197)  26.269 ms  27.340 ms
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  30.099 ms 451be0ea.cst.lightpath.net (65.19.120.234)  49.428 ms 451be0de.cst.lightpath.net (65.19.120.222)  48.708 ms
+ 7  * te0-3-0-6.rcr21.ewr02.atlas.cogentco.com (154.54.11.77)  56.583 ms *
+ 8  be2601.rcr24.jfk01.atlas.cogentco.com (154.54.40.49)  55.944 ms

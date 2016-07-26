@@ -1,0 +1,13 @@
+traceroute to 124.40.244.201 (124.40.244.201), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 451be0ea.cst.lightpath.net (65.19.120.234)  12.541 ms 64.15.2.70 (64.15.2.70)  15.435 ms
+ 7  * * *
+ 8  ae-1-60.edge1.LosAngeles6.Level3.net (4.69.144.16)  91.648 ms ae-2-70.edge1.LosAngeles6.Level3.net (4.69.144.80)  91.032 ms  89.158 ms
+ 9  * * ae-1-60.edge1.LosAngeles6.Level3.net (4.69.144.16)  92.157 ms
+10  FLAG-TELECO.edge1.LosAngeles6.Level3.net (4.26.0.6)  88.408 ms  90.385 ms  89.756 ms
+11  so-2-1-0.0.pjr02.wad001.flagtel.com (85.95.26.86)  280.995 ms  288.142 ms so-2-0-0.0.pjr02.wad001.flagtel.com (85.95.26.82)  294.637 ms
+12  ge-2-0-0.0.pjr02.hkg005.flagtel.com (85.95.26.102)  268.447 ms ge-0-3-0.0.pjr02.hkg005.flagtel.com (85.95.26.89)  280.660 ms ge-5-0-0.0.pjr02.hkg005.flagtel.com (85.95.26.205)  281.043 ms

@@ -1,0 +1,31 @@
+traceroute to 65.26.205.79 (65.26.205.79), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  7.677 ms * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  19.852 ms  20.525 ms  21.556 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  23.929 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  24.520 ms *
+ 5  * * 65.19.119.193 (65.19.119.193)  22.595 ms
+ 6  64.15.3.250 (64.15.3.250)  24.909 ms 64.15.3.238 (64.15.3.238)  15.231 ms *
+ 7  0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  15.768 ms  19.740 ms *
+ 8  bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  274.175 ms  280.226 ms bu-ether27.nycmny837aw-bcr00.tbone.rr.com (107.14.17.219)  281.217 ms
+ 9  bu-ether22.chcgildt87w-bcr00.tbone.rr.com (107.14.19.34)  270.216 ms  268.901 ms bu-ether12.chcgildt87w-bcr00.tbone.rr.com (66.109.6.25)  262.212 ms
+10  ae15.tr00.chcgildt.mwrtn.rr.com (66.109.6.205)  47.520 ms  45.963 ms  46.817 ms
+11  ae1.kenowibl02h.midwest.rr.com (65.31.113.43)  59.704 ms  60.246 ms  59.356 ms
+12  tge7-0.kenowibl03m.wi.rr.com (24.164.234.90)  51.508 ms  49.287 ms  48.559 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

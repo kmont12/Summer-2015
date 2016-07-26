@@ -1,0 +1,10 @@
+traceroute to 68.34.166.33 (68.34.166.33), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  42.246 ms  43.136 ms  43.682 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  44.667 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  45.711 ms  47.233 ms
+ 5  65.19.119.213 (65.19.119.213)  44.137 ms * 64.15.7.57 (64.15.7.57)  45.177 ms
+ 6  64.15.3.226 (64.15.3.226)  48.132 ms  40.461 ms  40.543 ms
+ 7  * * *
+ 8  he-1-13-0-0-cr01.newyork.ny.ibone.comcast.net (68.86.87.97)  39.593 ms he-1-14-0-0-cr01.newyork.ny.ibone.comcast.net (68.86.87.109)  40.254 ms  39.369 ms
+ 9  be-10206-cr01.350ecermak.il.ibone.comcast.net (68.86.86.226)  70.956 ms  92.282 ms  92.266 ms

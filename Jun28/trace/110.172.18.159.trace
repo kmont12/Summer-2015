@@ -1,0 +1,8 @@
+traceroute to 110.172.18.159 (110.172.18.159), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  33.797 ms  34.801 ms  35.351 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  36.461 ms  36.960 ms ool-4353f68d.dyn.optonline.net (67.83.246.141)  37.415 ms
+ 5  64.15.7.49 (64.15.7.49)  37.872 ms * *
+ 6  451be0ea.cst.lightpath.net (65.19.120.234)  38.296 ms 64.15.0.86 (64.15.0.86)  27.759 ms 451be0de.cst.lightpath.net (65.19.120.222)  26.720 ms
+ 7  * * rtr7-ge2-1.in.nycmnyzr.cv.net (64.15.0.106)  28.281 ms

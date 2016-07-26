@@ -1,0 +1,18 @@
+traceroute to 64.86.76.91 (64.86.76.91), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * r1-gig1-0-0.in.nycmnyzr.cv.net (64.15.0.30)  16.866 ms 64.15.3.238 (64.15.3.238)  17.884 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * if-5-5.tcore1.NYY-New-York.as6453.net (216.6.90.5)  245.951 ms  240.991 ms
+12  if-12-2.tcore2.TV2-Tokyo.as6453.net (66.110.59.62)  226.088 ms if-1-2.tcore1.PDI-Palo-Alto.as6453.net (66.198.127.5)  238.999 ms  237.805 ms
+13  if-2-2.tcore2.PDI-Palo-Alto.as6453.net (66.198.127.2)  234.633 ms  235.423 ms  238.172 ms
+14  if-2-0-0-10.core1.PV4-Piti.as6453.net (180.87.9.45)  223.653 ms  222.253 ms if-9-2.tcore1.TV2-Tokyo.as6453.net (180.87.180.18)  199.250 ms
+15  if-2-0-0-10.core1.PV4-Piti.as6453.net (180.87.9.45)  236.939 ms  236.200 ms  239.357 ms
+16  ix-0-0-4.core1.PV4-Piti.as6453.net (180.87.9.50)  268.511 ms  266.933 ms  269.211 ms
+17  core-majuro-R117.103.88.138.minta.mh (117.103.88.138)  272.660 ms * *

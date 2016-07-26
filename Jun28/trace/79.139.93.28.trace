@@ -1,0 +1,12 @@
+traceroute to 79.139.93.28 (79.139.93.28), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 451be0de.cst.lightpath.net (65.19.120.222)  16.620 ms 64.15.2.74 (64.15.2.74)  19.083 ms
+ 7  * * *
+ 8  be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  27.121 ms  27.588 ms be2601.rcr24.jfk01.atlas.cogentco.com (154.54.40.49)  26.589 ms
+ 9  be2632.ccr42.jfk02.atlas.cogentco.com (154.54.28.90)  25.163 ms be2630.ccr42.jfk02.atlas.cogentco.com (154.54.27.122)  26.060 ms be2317.ccr41.lon13.atlas.cogentco.com (154.54.30.186)  100.126 ms
+10  be2490.ccr42.lon13.atlas.cogentco.com (154.54.42.86)  98.069 ms be2194.ccr41.ams03.atlas.cogentco.com (130.117.50.242)  103.751 ms be2488.ccr42.ams03.atlas.cogentco.com (154.54.39.109)  104.726 ms
+11  be2488.ccr42.ams03.atlas.cogentco.com (154.54.39.109)  725.173 ms be2187.ccr42.ham01.atlas.cogentco.com (154.54.74.126)  114.423 ms  122.255 ms

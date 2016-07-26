@@ -1,0 +1,10 @@
+traceroute to 187.232.52.214 (187.232.52.214), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  99.829 ms  99.953 ms  100.070 ms
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  114.124 ms  114.200 ms  114.761 ms
+ 4  67.83.246.137 (67.83.246.137)  130.755 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  130.716 ms  130.750 ms
+ 5  65.19.119.209 (65.19.119.209)  126.446 ms 65.19.119.213 (65.19.119.213)  130.589 ms 64.15.7.57 (64.15.7.57)  130.636 ms
+ 6  64.15.2.74 (64.15.2.74)  130.722 ms  24.338 ms  24.409 ms
+ 7  * * *
+ 8  ae-1-60.edge2.Washington4.Level3.net (4.69.149.16)  35.311 ms ae-2-70.edge2.Washington4.Level3.net (4.69.149.80)  23.806 ms ae-3-80.edge2.Washington4.Level3.net (4.69.149.144)  25.214 ms
+ 9  ae-2-70.edge2.Washington4.Level3.net (4.69.149.80)  30.678 ms ae-1-60.edge2.Washington4.Level3.net (4.69.149.16)  30.910 ms ae-2-70.edge2.Washington4.Level3.net (4.69.149.80)  30.807 ms

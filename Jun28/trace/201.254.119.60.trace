@@ -1,0 +1,18 @@
+traceroute to 201.254.119.60 (201.254.119.60), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * 67.59.229.205 (67.59.229.205)  8.770 ms  13.279 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  20.966 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  24.897 ms  25.552 ms
+ 5  65.19.119.213 (65.19.119.213)  22.903 ms  23.952 ms 65.19.119.193 (65.19.119.193)  16.343 ms
+ 6  64.15.0.86 (64.15.0.86)  26.130 ms 64.15.2.70 (64.15.2.70)  16.836 ms 451be0de.cst.lightpath.net (65.19.120.222)  15.084 ms
+ 7  * * *
+ 8  ae-4-90.edge5.Dallas3.Level3.net (4.69.145.209)  57.147 ms ae-2-70.edge5.Dallas3.Level3.net (4.69.145.78)  55.827 ms 4.69.145.14 (4.69.145.14)  58.098 ms
+ 9  * ae-1-60.edge5.Dallas3.Level3.net (4.69.145.14)  55.543 ms ae-4-90.edge5.Dallas3.Level3.net (4.69.145.209)  52.883 ms
+10  TELEFONICA.edge5.Dallas3.Level3.net (4.59.36.54)  279.148 ms TELEFONICA.edge5.Dallas3.Level3.net (4.71.122.6)  301.686 ms TELEFONICA.edge5.Dallas3.Level3.net (4.59.36.26)  279.010 ms
+11  * * *
+12  * * 1-1-0-grtmiabr3.net.telefonicaglobalsolutions.com (5.53.3.177)  216.559 ms
+13  tasa-grtbueba1-ae5.net.telefonicaglobalsolutions.com (213.140.39.117)  298.028 ms  318.241 ms *
+14  200.51.233.58 (200.51.233.58)  316.517 ms  292.822 ms  315.236 ms
+15  200.51.233.58 (200.51.233.58)  317.372 ms  317.769 ms *
+16  * 200.51.233.58 (200.51.233.58)  323.983 ms *
+17  * * *

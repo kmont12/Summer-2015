@@ -1,0 +1,15 @@
+traceroute to 94.242.228.140 (94.242.228.140), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * be2380.rcr21.lux01.atlas.cogentco.com (154.54.78.94)  121.113 ms
+12  be2380.rcr21.lux01.atlas.cogentco.com (154.54.78.94)  113.125 ms be2381.rcr21.lux01.atlas.cogentco.com (154.54.78.98)  118.909 ms 154.25.1.117 (154.25.1.117)  121.916 ms
+13  te0-0-2-2.nr13.b038844-0.lux01.atlas.cogentco.com (154.25.1.121)  117.861 ms universal-cdn.demarc.cogentco.com (149.6.66.110)  120.094 ms  115.962 ms
+14  149.6.66.238 (149.6.66.238)  116.868 ms 83.243.12.9 (83.243.12.9)  114.211 ms Hosted.By.Evoluso.com (94.242.228.140)  115.070 ms

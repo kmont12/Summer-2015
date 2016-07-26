@@ -1,0 +1,11 @@
+traceroute to 31.47.95.2 (31.47.95.2), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * 67.59.229.205 (67.59.229.205)  21.198 ms  22.161 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  31.803 ms  32.482 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  33.074 ms
+ 5  * 64.15.7.41 (64.15.7.41)  41.972 ms  45.563 ms
+ 6  64.15.0.86 (64.15.0.86)  46.066 ms * *
+ 7  * * *
+ 8  * ae-236-3612.edge5.London1.Level3.net (4.69.166.61)  362.504 ms *
+ 9  * ae-234-3610.edge5.london1.Level3.net (4.69.166.53)  107.391 ms  109.297 ms
+10  FLAG-TELECO.edge5.London1.Level3.net (212.187.138.54)  108.522 ms  108.883 ms  109.569 ms

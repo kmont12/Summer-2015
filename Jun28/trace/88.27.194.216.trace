@@ -1,0 +1,19 @@
+traceroute to 88.27.194.216 (88.27.194.216), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  16.035 ms  16.473 ms  16.876 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  30.530 ms ool-4353f68d.dyn.optonline.net (67.83.246.141)  29.931 ms rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  30.696 ms
+ 5  65.19.119.213 (65.19.119.213)  30.889 ms 64.15.7.33 (64.15.7.33)  29.247 ms 65.19.119.193 (65.19.119.193)  29.023 ms
+ 6  451be0ea.cst.lightpath.net (65.19.120.234)  31.339 ms * *
+ 7  * * *
+ 8  * * *
+ 9  * ae-2-52.edge1.Miami2.Level3.net (4.69.138.107)  78.044 ms *
+10  TELEFONICA.edge1.Miami2.Level3.net (4.71.212.118)  143.284 ms TELEFONICA.edge1.Miami2.Level3.net (4.59.240.210)  144.418 ms  145.136 ms
+11  xe7-0-0-0-grtwaseq6.red.telefonica-wholesale.net (94.142.121.162)  149.303 ms * *
+12  * * *
+13  * * *
+14  rima-3-0-0-0-grtbcntb1.net.telefonicaglobalsolutions.com (94.142.103.178)  275.092 ms 213.140.50.247 (213.140.50.247)  250.276 ms  257.758 ms
+15  62.Red-80-58-86.staticIP.rima-tde.net (80.58.86.62)  252.165 ms xe-1-1-2-0-grtbcntb1.red.telefonica-wholesale.net (84.16.13.73)  257.085 ms 62.Red-80-58-86.staticIP.rima-tde.net (80.58.86.62)  252.449 ms
+16  * * *
+17  * * *
+18  * *

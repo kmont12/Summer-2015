@@ -1,0 +1,15 @@
+traceroute to 88.6.130.149 (88.6.130.149), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  15.943 ms  16.488 ms  16.789 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  18.361 ms  18.953 ms  19.283 ms
+ 5  64.15.7.33 (64.15.7.33)  17.992 ms  18.622 ms 65.19.119.193 (65.19.119.193)  16.989 ms
+ 6  64.15.2.70 (64.15.2.70)  20.412 ms 64.15.0.86 (64.15.0.86)  17.582 ms 64.15.2.70 (64.15.2.70)  16.238 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  TELEFONICA.edge1.Miami2.Level3.net (4.71.208.22)  141.723 ms  143.525 ms 4.59.242.2 (4.59.242.2)  146.565 ms
+11  et-3-0-0-0-grtmiana2.net.telefonicaglobalsolutions.com (84.16.12.237)  168.071 ms  169.474 ms  147.590 ms
+12  * * xe1-0-3-0-grtwaseq1.red.telefonica-wholesale.net (94.142.126.205)  174.658 ms
+13  ge0-3-0-4-grtlontlw1.net.telefonicaglobalsolutions.com (94.142.116.126)  265.780 ms xe4-0-0-0-grtpartv1.net.telefonicaglobalsolutions.com (94.142.126.78)  261.179 ms xe0-3-0-0-grtpartv1.red.telefonica-wholesale.net (94.142.116.198)  267.020 ms
+14  xe-3-0-5-0-grtmadad1.net.telefonicaglobalsolutions.com (84.16.12.249)  287.805 ms

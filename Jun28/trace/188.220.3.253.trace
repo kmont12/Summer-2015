@@ -1,0 +1,9 @@
+traceroute to 188.220.3.253 (188.220.3.253), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  1.035 ms * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  13.677 ms  14.390 ms  14.984 ms
+ 4  ool-4353f68d.dyn.optonline.net (67.83.246.141)  17.377 ms  17.906 ms  18.420 ms
+ 5  65.19.119.213 (65.19.119.213)  15.504 ms *  16.149 ms
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  19.391 ms 451be0ea.cst.lightpath.net (65.19.120.234)  127.696 ms 451be0de.cst.lightpath.net (65.19.120.222)  128.299 ms
+ 7  * * *
+ 8  ae-238-3614.edge6.London1.Level3.net (4.69.166.85)  197.475 ms  200.058 ms

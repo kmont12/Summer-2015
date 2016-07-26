@@ -1,0 +1,14 @@
+traceroute to 187.250.218.32 (187.250.218.32), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  13.546 ms  14.083 ms  14.481 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  15.157 ms ool-4353f68d.dyn.optonline.net (67.83.246.141)  15.797 ms *
+ 5  * * 65.19.119.209 (65.19.119.209)  50.141 ms
+ 6  * 64.15.2.74 (64.15.2.74)  44.601 ms  44.435 ms
+ 7  * * *
+ 8  ae-1-60.edge2.Washington4.Level3.net (4.69.149.16)  19.879 ms ae-4-90.edge2.Washington4.Level3.net (4.69.149.208)  30.620 ms ae-3-80.edge2.Washington4.Level3.net (4.69.149.144)  30.708 ms
+ 9  ae-2-70.edge2.Washington4.Level3.net (4.69.149.80)  57.167 ms  39.029 ms ae-3-80.edge2.Washington4.Level3.net (4.69.149.144)  24.637 ms
+10  * ix-21-0.tcore2.AEQ-Ashburn.as6453.net (216.6.87.65)  56.386 ms *
+11  if-14-8.tcore2.LVW-Los-Angeles.as6453.net (64.86.252.197)  89.160 ms  189.802 ms  85.660 ms
+12  if-6-20.tcore1.EQL-Los-Angeles.as6453.net (64.86.252.66)  92.865 ms *  87.736 ms
+13  206.82.129.102 (206.82.129.102)  110.112 ms  111.047 ms  108.605 ms

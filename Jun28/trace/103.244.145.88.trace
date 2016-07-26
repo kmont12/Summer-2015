@@ -1,0 +1,15 @@
+traceroute to 103.244.145.88 (103.244.145.88), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  19.954 ms  20.226 ms *
+ 4  * * ool-4353f68d.dyn.optonline.net (67.83.246.141)  24.890 ms
+ 5  64.15.7.33 (64.15.7.33)  23.477 ms 65.19.119.213 (65.19.119.213)  23.155 ms 64.15.7.57 (64.15.7.57)  24.033 ms
+ 6  64.15.2.70 (64.15.2.70)  24.290 ms 451be0ea.cst.lightpath.net (65.19.120.234)  16.359 ms 451be0de.cst.lightpath.net (65.19.120.222)  27.516 ms
+ 7  * * *
+ 8  ae-1-60.edge4.Frankfurt1.Level3.net (4.69.154.8)  110.214 ms  108.780 ms ae-4-90.edge4.Frankfurt1.Level3.net (4.69.154.200)  106.332 ms
+ 9  ae-4-90.edge4.Frankfurt1.Level3.net (4.69.154.200)  109.502 ms ae-2-70.edge4.Frankfurt1.Level3.net (4.69.154.72)  111.896 ms  106.277 ms
+10  TRANS-WORLD.edge4.Frankfurt1.Level3.net (212.162.25.90)  123.978 ms  110.817 ms  111.099 ms
+11  * * *
+12  * * *
+13  180.94.74.18 (180.94.74.18)  317.685 ms  315.024 ms  317.085 ms
+14  * * *

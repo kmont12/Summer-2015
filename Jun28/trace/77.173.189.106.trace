@@ -1,0 +1,17 @@
+traceroute to 77.173.189.106 (77.173.189.106), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  19.759 ms  20.287 ms  20.597 ms
+ 4  ool-4353f68d.dyn.optonline.net (67.83.246.141)  24.765 ms  25.592 ms rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  21.442 ms
+ 5  * 65.19.119.213 (65.19.119.213)  22.617 ms  23.725 ms
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  26.069 ms  21.739 ms 64.15.0.86 (64.15.0.86)  26.489 ms
+ 7  te0-3-0-6.rcr21.ewr02.atlas.cogentco.com (154.54.11.77)  28.846 ms * *
+ 8  be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  27.415 ms be2601.rcr24.jfk01.atlas.cogentco.com (154.54.40.49)  26.133 ms be2600.rcr23.jfk01.atlas.cogentco.com (154.54.40.29)  24.146 ms
+ 9  be2630.ccr42.jfk02.atlas.cogentco.com (154.54.27.122)  25.553 ms be2317.ccr41.lon13.atlas.cogentco.com (154.54.30.186)  97.713 ms be2629.ccr41.jfk02.atlas.cogentco.com (154.54.27.66)  26.384 ms
+10  be2490.ccr42.lon13.atlas.cogentco.com (154.54.42.86)  97.561 ms be2488.ccr42.ams03.atlas.cogentco.com (154.54.39.109)  103.280 ms be2317.ccr41.lon13.atlas.cogentco.com (154.54.30.186)  95.614 ms
+11  be2440.agr21.ams03.atlas.cogentco.com (130.117.50.6)  104.609 ms be2194.ccr41.ams03.atlas.cogentco.com (130.117.50.242)  101.689 ms be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  102.639 ms
+12  130.117.76.122 (130.117.76.122)  105.254 ms be2434.agr21.ams03.atlas.cogentco.com (130.117.2.241)  104.342 ms 130.117.76.122 (130.117.76.122)  104.103 ms
+13  jointtransit.ibr1.asd-nh.ip4.as5615.net (217.170.20.132)  103.674 ms 130.117.76.122 (130.117.76.122)  115.956 ms  113.730 ms
+14  jointtransit.ibr1.asd-nh.ip4.as5615.net (217.170.20.132)  99.817 ms * *
+15  * * *
+16  * *

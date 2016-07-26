@@ -1,0 +1,13 @@
+names=["allcdf","nonpeak","peak"]
+out=open("stats",'w')
+for item in names:
+    f=open(item.rstrip(),'r')
+    miss=0
+    count=0
+    for line in f:
+        count+=1
+        if float(line.rstrip())<80:
+            miss+=1
+    out.write(item+ "\t"+str(float(miss)/count)+"\n")
+    f.close()
+out.close()

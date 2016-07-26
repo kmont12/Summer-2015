@@ -1,0 +1,13 @@
+traceroute to 37.9.56.53 (37.9.56.53), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * 67.59.229.205 (67.59.229.205)  15.082 ms  15.757 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  21.437 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  22.191 ms  22.877 ms
+ 5  64.15.7.57 (64.15.7.57)  20.005 ms  20.665 ms 65.19.119.209 (65.19.119.209)  19.292 ms
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  26.274 ms * *
+ 7  * * *
+ 8  * * *
+ 9  * ae-236-3612.edge5.London1.Level3.net (4.69.166.61)  104.459 ms ae-233-3609.edge5.london1.Level3.net (4.69.166.49)  103.712 ms
+10  xe-0-0-0.rt0.tcx.ukservers.com (212.187.138.198)  105.716 ms  106.403 ms  105.065 ms
+11  * * *
+12  * * no.rdns-yet.ukservers.com (37.9.56.53)  110.072 ms

@@ -1,0 +1,16 @@
+traceroute to 86.58.121.4 (86.58.121.4), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 451be0de.cst.lightpath.net (65.19.120.222)  35.293 ms 451be0ea.cst.lightpath.net (65.19.120.234)  36.286 ms
+ 7  64.15.0.196 (64.15.0.196)  39.808 ms  42.625 ms  43.228 ms
+ 8  ash-bb1-link.telia.net (213.248.68.33)  39.239 ms  40.837 ms  40.282 ms
+ 9  ash-bb4-link.telia.net (213.155.130.2)  41.389 ms ash-bb4-link.telia.net (213.155.136.38)  41.972 ms ash-bb4-link.telia.net (213.155.130.58)  43.738 ms
+10  ffm-bb2-link.telia.net (213.155.135.58)  120.072 ms * ffm-bb2-link.telia.net (80.91.246.63)  120.674 ms
+11  win-bb2-link.telia.net (80.91.246.143)  128.668 ms win-bb2-link.telia.net (62.115.136.137)  129.769 ms win-bb2-link.telia.net (62.115.139.228)  131.858 ms
+12  win-b4-link.telia.net (62.115.112.211)  144.131 ms win-b4-link.telia.net (62.115.112.219)  143.046 ms win-b4-link.telia.net (62.115.137.3)  145.454 ms
+13  sbb-ic-139293-win-b4.c.telia.net (213.248.99.158)  160.756 ms  163.190 ms  162.625 ms
+14  peer-AS3212.sbb.rs (82.117.193.194)  144.960 ms  143.553 ms  144.484 ms
+15  10ge-e1-1.mar.ip.triera.net (213.161.2.217)  133.718 ms  134.439 ms  134.859 ms

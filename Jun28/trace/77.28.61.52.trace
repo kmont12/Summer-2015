@@ -1,0 +1,14 @@
+traceroute to 77.28.61.52 (77.28.61.52), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  14.364 ms  16.059 ms  17.511 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  22.842 ms  23.297 ms  23.714 ms
+ 5  64.15.7.57 (64.15.7.57)  22.291 ms * *
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  24.102 ms  12.864 ms  18.179 ms
+ 7  rtr7-ge2-1.in.nycmnyzr.cv.net (64.15.0.106)  21.236 ms * *
+ 8  * ash-b2-link.telia.net (213.248.96.137)  39.083 ms  39.259 ms
+ 9  ash-bb4-link.telia.net (80.91.245.67)  33.294 ms ash-bb4-link.telia.net (213.155.136.38)  25.886 ms ash-bb3-link.telia.net (213.155.130.87)  20.378 ms
+10  * * *
+11  * * win-bb2-link.telia.net (213.155.131.213)  135.300 ms
+12  sfia-b2-link.telia.net (213.155.133.213)  165.316 ms sfia-b2-link.telia.net (62.115.135.29)  162.386 ms sfia-b2-link.telia.net (80.91.251.57)  163.260 ms
+13  magyar-ic-152602-sfia-b2.c.telia.net (80.239.135.186)  163.676 ms magyar-ic-310128-sfia-b2.c.telia.net (62.115.45.38)  165.749 ms magyar-ic-152602-sfia-b2.c.telia.net (80.239.135.186)  168.236 ms

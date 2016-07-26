@@ -1,0 +1,2 @@
+traceroute to 104.235.93.36 (104.235.93.36), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  188.733 ms  189.314 ms

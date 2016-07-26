@@ -1,0 +1,17 @@
+traceroute to 41.211.4.122 (41.211.4.122), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  51.280 ms  51.391 ms  51.519 ms
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  67.854 ms  67.969 ms  70.472 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  80.687 ms  80.713 ms  80.753 ms
+ 5  65.19.119.213 (65.19.119.213)  80.490 ms 64.15.7.57 (64.15.7.57)  80.500 ms 64.15.7.33 (64.15.7.33)  80.618 ms
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  80.746 ms 64.15.0.86 (64.15.0.86)  24.080 ms 451be0de.cst.lightpath.net (65.19.120.222)  24.078 ms
+ 7  * * *
+ 8  be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  29.464 ms be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  31.026 ms be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  31.508 ms
+ 9  be2629.ccr41.jfk02.atlas.cogentco.com (154.54.27.66)  31.377 ms be2148.ccr41.dca01.atlas.cogentco.com (154.54.31.117)  31.397 ms be2631.ccr41.jfk02.atlas.cogentco.com (154.54.27.238)  66.505 ms
+10  hu0-0-0-0.mpd21.dca01.atlas.cogentco.com (154.54.7.13)  66.538 ms be2149.ccr42.dca01.atlas.cogentco.com (154.54.31.125)  44.100 ms  66.580 ms
+11  be2177.ccr41.iad02.atlas.cogentco.com (154.54.41.205)  66.589 ms hu0-0-0-1.mpd22.dca01.atlas.cogentco.com (154.54.27.17)  47.448 ms hu0-0-0-1.ccr22.dca01.atlas.cogentco.com (154.54.24.221)  44.638 ms
+12  be2177.ccr41.iad02.atlas.cogentco.com (154.54.41.205)  44.384 ms be2113.ccr41.iad02.atlas.cogentco.com (154.54.6.169)  44.334 ms 38.122.63.70 (38.122.63.70)  140.224 ms
+13  lis1-cr1-te0-0-6.cprm.net (195.8.0.205)  148.041 ms  136.856 ms 38.122.63.70 (38.122.63.70)  136.658 ms
+14  lis1-br1-gi14-0-0.cprm.net (195.8.0.166)  134.747 ms  135.567 ms lis1-cr1-te0-0-6.cprm.net (195.8.0.205)  136.506 ms
+15  lis1-br1-gi14-0-0.cprm.net (195.8.0.166)  134.126 ms  137.163 ms dolphin.cprm.net (195.8.10.110)  237.075 ms
+16  41.242.112.138 (41.242.112.138)  237.634 ms dolphin.cprm.net (195.8.10.110)  252.996 ms 41.242.112.138 (41.242.112.138)  251.254 ms

@@ -1,0 +1,13 @@
+traceroute to 103.22.172.162 (103.22.172.162), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 451be0de.cst.lightpath.net (65.19.120.222)  42.278 ms 64.15.2.70 (64.15.2.70)  41.592 ms
+ 7  * * *
+ 8  * * *
+ 9  FLAG-TELECO.ear3.NewYork1.Level3.net (4.78.132.122)  48.252 ms  47.520 ms  46.829 ms
+10  xe-2-2-0.0.pjr02.nyc007.flagtel.com (85.95.25.150)  221.327 ms xe-8-0-2.0.cjr02.prs001.flagtel.com (85.95.25.158)  223.845 ms xe-2-2-0.0.pjr02.nyc007.flagtel.com (85.95.25.150)  224.903 ms
+11  xe-2-2-1.0-pjr04.mmb004.flagtel.com (85.95.26.153)  236.756 ms xe-2-0-0.0.pjr04.mmb004.flagtel.com (85.95.25.185)  241.717 ms xe-2-2-0.0.cjr01.prs001.flagtel.com (62.216.131.33)  143.864 ms
+12  85.95.26.193 (85.95.26.193)  230.604 ms  229.864 ms

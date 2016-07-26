@@ -1,0 +1,16 @@
+traceroute to 162.216.46.151 (162.216.46.151), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  25.130 ms  26.930 ms  28.143 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  42.467 ms  43.089 ms ool-4353f68d.dyn.optonline.net (67.83.246.141)  42.233 ms
+ 5  64.15.7.41 (64.15.7.41)  41.529 ms 64.15.7.49 (64.15.7.49)  43.793 ms 65.19.119.213 (65.19.119.213)  41.237 ms
+ 6  64.15.2.74 (64.15.2.74)  43.925 ms * *
+ 7  * * *
+ 8  * * *
+ 9  154.54.31.117 (154.54.31.117)  51.308 ms  56.883 ms be2149.ccr42.dca01.atlas.cogentco.com (154.54.31.125)  24.237 ms
+10  be2148.ccr41.dca01.atlas.cogentco.com (154.54.31.117)  22.888 ms hu0-0-0-1.mpd22.dca01.atlas.cogentco.com (154.54.27.17)  18.800 ms hu0-0-0-1.ccr22.dca01.atlas.cogentco.com (154.54.24.221)  26.972 ms
+11  * * be2168.ccr41.atl01.atlas.cogentco.com (154.54.31.93)  64.877 ms
+12  be2171.ccr42.atl01.atlas.cogentco.com (154.54.31.109)  61.268 ms be2172.ccr21.iah01.atlas.cogentco.com (154.54.29.18)  87.538 ms  86.380 ms
+13  154.54.29.18 (154.54.29.18)  86.898 ms * be2146.ccr22.dfw01.atlas.cogentco.com (154.54.25.242)  94.299 ms
+14  te0-0-0-0.rcr21.dfw04.atlas.cogentco.com (154.54.80.14)  113.419 ms te0-7-0-0.rcr21.dfw04.atlas.cogentco.com (154.54.80.18)  115.447 ms  115.923 ms
+15  te0-7-0-0.rcr21.dfw04.atlas.cogentco.com (154.54.80.18)  112.444 ms  114.922 ms te0-0-2-3.nr11.b024643-0.dfw04.atlas.cogentco.com (154.24.23.50)  113.914 ms

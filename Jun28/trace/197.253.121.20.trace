@@ -1,0 +1,5 @@
+traceroute to 197.253.121.20 (197.253.121.20), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  7.230 ms * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  22.874 ms  24.366 ms  25.603 ms
+ 4  ool-4353f68d.dyn.optonline.net (67.83.246.141)  28.388 ms  29.096 ms  29.451 ms

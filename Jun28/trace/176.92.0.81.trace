@@ -1,0 +1,5 @@
+traceroute to 176.92.0.81 (176.92.0.81), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  57.632 ms  58.065 ms  58.700 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  67.017 ms ool-4353f68d.dyn.optonline.net (67.83.246.141)  67.387 ms  67.763 ms

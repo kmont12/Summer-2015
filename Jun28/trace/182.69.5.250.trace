@@ -1,0 +1,21 @@
+traceroute to 182.69.5.250 (182.69.5.250), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  23.933 ms  25.315 ms  25.961 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  38.977 ms  40.201 ms  40.352 ms
+ 5  64.15.7.33 (64.15.7.33)  40.498 ms * 65.19.119.193 (65.19.119.193)  32.132 ms
+ 6  64.15.2.74 (64.15.2.74)  39.953 ms  34.285 ms 451be0de.cst.lightpath.net (65.19.120.222)  33.096 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  hu0-0-0-0.ccr22.dca01.atlas.cogentco.com (154.54.3.133)  49.252 ms hu0-0-0-1.ccr22.dca01.atlas.cogentco.com (154.54.24.221)  54.854 ms hu0-0-0-0.ccr22.dca01.atlas.cogentco.com (154.54.3.133)  54.126 ms
+11  hu0-0-0-0.mpd22.dca01.atlas.cogentco.com (154.54.7.25)  52.904 ms be2170.ccr41.atl01.atlas.cogentco.com (154.54.31.105)  67.380 ms  68.832 ms
+12  be2172.ccr21.iah01.atlas.cogentco.com (154.54.29.18)  101.389 ms be2168.ccr41.atl01.atlas.cogentco.com (154.54.31.93)  67.999 ms be2173.ccr22.iah01.atlas.cogentco.com (154.54.29.118)  99.999 ms
+13  be2172.ccr21.iah01.atlas.cogentco.com (154.54.29.18)  100.668 ms be2065.ccr21.lax01.atlas.cogentco.com (154.54.5.66)  139.758 ms  137.423 ms
+14  be2017.ccr21.lax04.atlas.cogentco.com (154.54.0.237)  138.590 ms be2019.ccr21.lax04.atlas.cogentco.com (154.54.88.10)  139.138 ms be2017.ccr21.lax04.atlas.cogentco.com (154.54.0.237)  137.989 ms
+15  be2019.ccr21.lax04.atlas.cogentco.com (154.54.88.10)  136.760 ms 38.122.147.122 (38.122.147.122)  151.017 ms be2019.ccr21.lax04.atlas.cogentco.com (154.54.88.10)  100.284 ms
+16  182.79.255.9 (182.79.255.9)  334.218 ms  331.166 ms 182.79.252.58 (182.79.252.58)  329.589 ms
+17  * 182.79.248.50 (182.79.248.50)  328.446 ms 182.79.255.9 (182.79.255.9)  333.218 ms
+18  * * *
+19  * * *
+20  abts-north-static-170.130.160.122.airtelbroadband.in (122.160.130.170)  349.001 ms abts-north-static-178.130.160.122.airtelbroadband.in (122.160.130.178)  348.550 ms

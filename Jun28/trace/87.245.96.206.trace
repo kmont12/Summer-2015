@@ -1,0 +1,19 @@
+traceroute to 87.245.96.206 (87.245.96.206), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  14.512 ms  16.704 ms  18.684 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  22.191 ms  22.498 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  21.842 ms
+ 5  * * 64.15.7.57 (64.15.7.57)  21.473 ms
+ 6  64.15.0.86 (64.15.0.86)  23.048 ms * 451be0de.cst.lightpath.net (65.19.120.222)  37.895 ms
+ 7  * * te0-4-0-6.rcr21.ewr02.atlas.cogentco.com (154.54.11.245)  45.020 ms
+ 8  be2600.rcr23.jfk01.atlas.cogentco.com (154.54.40.29)  46.503 ms be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  46.893 ms  47.245 ms
+ 9  be2630.ccr42.jfk02.atlas.cogentco.com (154.54.27.122)  119.152 ms be2317.ccr41.lon13.atlas.cogentco.com (154.54.30.186)  181.053 ms be2632.ccr42.jfk02.atlas.cogentco.com (154.54.28.90)  115.899 ms
+10  be2489.ccr42.par01.atlas.cogentco.com (154.54.39.114)  186.174 ms be2490.ccr42.lon13.atlas.cogentco.com (154.54.42.86)  180.914 ms be2489.ccr42.par01.atlas.cogentco.com (154.54.39.114)  98.473 ms
+11  be2295.ccr21.zrh01.atlas.cogentco.com (130.117.3.54)  115.248 ms * *
+12  * * te8-6.mag01.zrh01.atlas.cogentco.com (130.117.48.166)  109.842 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * cable-dynamic-87-245-96-206.shinternet.ch (87.245.96.206)  114.877 ms !X

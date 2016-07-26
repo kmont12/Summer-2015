@@ -1,0 +1,5 @@
+traceroute to 5.70.37.194 (5.70.37.194), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  31.031 ms  31.485 ms  32.034 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  35.657 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  35.185 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  36.065 ms

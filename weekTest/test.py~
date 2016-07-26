@@ -1,0 +1,7 @@
+import subprocess
+
+f=open("USIP",'r')
+for ip in f:
+	ip=ip.rstrip()
+	subprocess.call("rm \""+ip+"  .out\"",shell =True)
+f.close()

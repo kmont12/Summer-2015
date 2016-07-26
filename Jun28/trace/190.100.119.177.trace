@@ -1,0 +1,20 @@
+traceroute to 190.100.119.177 (190.100.119.177), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  12.964 ms  13.470 ms  13.766 ms
+ 4  ool-4353f68d.dyn.optonline.net (67.83.246.141)  16.196 ms  17.156 ms  18.037 ms
+ 5  65.19.119.213 (65.19.119.213)  14.704 ms  18.321 ms 65.19.119.193 (65.19.119.193)  18.589 ms
+ 6  64.15.0.86 (64.15.0.86)  20.110 ms 451be0de.cst.lightpath.net (65.19.120.222)  19.343 ms 64.15.0.86 (64.15.0.86)  18.724 ms
+ 7  * * *
+ 8  4.69.138.107 (4.69.138.107)  52.680 ms  50.849 ms  51.845 ms
+ 9  ae-2-52.edge1.Miami2.Level3.net (4.69.138.107)  50.927 ms  48.807 ms  49.668 ms
+10  TELEFONICA.edge1.Miami2.Level3.net (4.59.242.2)  152.333 ms TELEFONICA.edge1.Miami2.Level3.net (4.59.240.214)  154.086 ms TELEFONICA.edge1.Miami2.Level3.net (4.71.208.22)  147.820 ms
+11  * hu0-10-0-0-grtmiabr5.net.telefonicaglobalsolutions.com (213.140.37.14)  154.915 ms xe0-3-0-0-grtsclem1.red.telefonica-wholesale.net (94.142.126.241)  256.154 ms
+12  * xe-6-1-5-0-grtvapem2.net.telefonicaglobalsolutions.com (94.142.121.189)  243.358 ms *
+13  vtr-ae-3-0-grtvapem2.net.telefonicaglobalsolutions.com (94.142.103.98)  314.564 ms * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * *

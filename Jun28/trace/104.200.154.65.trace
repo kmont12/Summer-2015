@@ -1,0 +1,1181 @@
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.0 (216.182.229.0)  1.339 ms 216.182.229.4 (216.182.229.4)  1.220 ms 216.182.229.0 (216.182.229.0)  1.353 ms
+ 2  100.64.2.169 (100.64.2.169)  1.240 ms 100.64.2.193 (100.64.2.193)  1.090 ms 100.64.2.149 (100.64.2.149)  2.833 ms
+ 3  100.64.0.232 (100.64.0.232)  1.153 ms 100.64.0.188 (100.64.0.188)  1.003 ms 100.64.0.18 (100.64.0.18)  1.108 ms
+ 4  100.64.16.217 (100.64.16.217)  0.590 ms 100.64.16.157 (100.64.16.157)  0.671 ms 100.64.16.201 (100.64.16.201)  0.701 ms
+ 5  205.251.245.175 (205.251.245.175)  1.380 ms  1.412 ms  1.444 ms
+ 6  54.239.110.22 (54.239.110.22)  29.060 ms 54.239.109.108 (54.239.109.108)  6.763 ms 54.239.109.40 (54.239.109.40)  15.255 ms
+ 7  54.239.109.91 (54.239.109.91)  1.677 ms 54.239.108.69 (54.239.108.69)  2.833 ms 54.239.108.35 (54.239.108.35)  1.243 ms
+ 8  dca2-edge-01.inet.qwest.net (65.120.78.81)  1.431 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.732 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.458 ms
+ 9  ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.586 ms ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.484 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.798 ms
+10  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.825 ms ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  12.292 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.457 ms
+11  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  3.157 ms  3.486 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  8.448 ms
+12  hu0-11-0-0.ccr41.dca01.atlas.cogentco.com (154.54.3.134)  3.017 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.435 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.118 ms
+13  be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  7.720 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.255 ms be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.788 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.987 ms  23.330 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.768 ms
+15  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.604 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  38.884 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.513 ms
+16  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  41.082 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.277 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.088 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.692 ms  63.908 ms  63.468 ms
+18  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  64.661 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.559 ms  82.960 ms
+19  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.722 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.704 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.499 ms
+20  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  84.212 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.592 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.690 ms
+21  154.24.42.222 (154.24.42.222)  84.612 ms  84.786 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.698 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.497 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.100 ms  85.330 ms
+23  104.200.154.65 (104.200.154.65)  83.413 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  87.553 ms 38.122.90.58 (38.122.90.58)  85.767 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.0 (216.182.229.0)  0.904 ms 216.182.229.8 (216.182.229.8)  1.406 ms  1.421 ms
+ 2  100.64.9.9 (100.64.9.9)  1.368 ms 100.64.2.53 (100.64.2.53)  1.175 ms 100.64.2.187 (100.64.2.187)  1.417 ms
+ 3  100.64.0.12 (100.64.0.12)  1.317 ms 100.64.0.236 (100.64.0.236)  1.546 ms 100.64.0.198 (100.64.0.198)  1.589 ms
+ 4  100.64.16.73 (100.64.16.73)  0.621 ms 100.64.16.203 (100.64.16.203)  0.783 ms 100.64.16.199 (100.64.16.199)  0.828 ms
+ 5  205.251.245.169 (205.251.245.169)  1.664 ms 205.251.245.175 (205.251.245.175)  1.538 ms 205.251.245.169 (205.251.245.169)  1.781 ms
+ 6  54.239.110.56 (54.239.110.56)  21.607 ms  13.633 ms 54.239.109.108 (54.239.109.108)  11.807 ms
+ 7  54.239.109.21 (54.239.109.21)  1.231 ms 54.239.108.137 (54.239.108.137)  1.282 ms 54.239.109.191 (54.239.109.191)  1.493 ms
+ 8  ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.529 ms ae-16.r05.asbnva02.us.bb.gin.ntt.net (168.143.232.49)  1.448 ms ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.593 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  4.546 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.626 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.879 ms
+10  * be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  5.142 ms  63.197 ms
+11  ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  287.519 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.642 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  4.221 ms
+12  be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.697 ms hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  2.593 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  3.051 ms
+13  be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.824 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.929 ms be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  7.587 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.103 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.908 ms be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.723 ms
+15  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.906 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.864 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.723 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.807 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.586 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.410 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.440 ms  82.215 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  54.415 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.208 ms  82.297 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.587 ms
+19  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.879 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.277 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.878 ms
+20  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  85.187 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.083 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.981 ms
+21  154.24.42.226 (154.24.42.226)  83.280 ms 154.24.42.222 (154.24.42.222)  85.131 ms 154.24.42.226 (154.24.42.226)  84.431 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.235 ms 38.122.90.58 (38.122.90.58)  84.718 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.836 ms
+23  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  87.707 ms 38.122.90.58 (38.122.90.58)  84.697 ms  85.078 ms
+24  104.200.154.65 (104.200.154.65)  83.391 ms  83.726 ms  83.171 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.329 ms  1.321 ms 216.182.229.10 (216.182.229.10)  1.074 ms
+ 2  100.64.9.193 (100.64.9.193)  1.430 ms 100.64.2.11 (100.64.2.11)  1.843 ms 100.64.9.191 (100.64.9.191)  1.551 ms
+ 3  100.64.0.62 (100.64.0.62)  1.310 ms 100.64.0.166 (100.64.0.166)  1.469 ms 100.64.0.132 (100.64.0.132)  1.500 ms
+ 4  100.64.16.221 (100.64.16.221)  0.601 ms 100.64.16.71 (100.64.16.71)  0.716 ms 100.64.16.85 (100.64.16.85)  0.728 ms
+ 5  205.251.245.169 (205.251.245.169)  1.946 ms 205.251.245.175 (205.251.245.175)  1.380 ms 205.251.245.169 (205.251.245.169)  1.978 ms
+ 6  54.239.108.126 (54.239.108.126)  3.494 ms  15.092 ms 54.239.109.108 (54.239.109.108)  37.206 ms
+ 7  54.239.109.19 (54.239.109.19)  1.168 ms 54.239.109.187 (54.239.109.187)  1.459 ms 54.239.109.91 (54.239.109.91)  2.343 ms
+ 8  ae-16.r05.asbnva02.us.bb.gin.ntt.net (168.143.232.49)  1.492 ms dca2-edge-01.inet.qwest.net (65.120.78.81)  1.278 ms ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.567 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.212 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  4.561 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.269 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.511 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.581 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.613 ms
+11  hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.630 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.394 ms hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  2.175 ms
+12  hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.280 ms hu0-11-0-0.ccr41.dca01.atlas.cogentco.com (154.54.3.134)  3.158 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  3.091 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.885 ms  23.949 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.805 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.576 ms be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.667 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.428 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.215 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.483 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  25.997 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.853 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.618 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.504 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.364 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  81.891 ms  82.302 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.856 ms  84.231 ms  82.892 ms
+19  be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  85.198 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.563 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.828 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.119 ms 154.24.42.222 (154.24.42.222)  84.703 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  85.303 ms
+21  154.24.42.226 (154.24.42.226)  83.415 ms  82.928 ms 154.24.42.222 (154.24.42.222)  84.931 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  83.573 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.097 ms 38.122.90.58 (38.122.90.58)  83.917 ms
+23  38.122.90.58 (38.122.90.58)  85.161 ms  84.423 ms 104.200.154.65 (104.200.154.65)  83.344 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.048 ms 216.182.229.14 (216.182.229.14)  0.918 ms 216.182.229.0 (216.182.229.0)  1.318 ms
+ 2  100.64.9.123 (100.64.9.123)  1.270 ms 100.64.9.115 (100.64.9.115)  1.546 ms 100.64.2.181 (100.64.2.181)  1.401 ms
+ 3  100.64.0.70 (100.64.0.70)  1.051 ms 100.64.0.188 (100.64.0.188)  1.448 ms 100.64.0.142 (100.64.0.142)  1.553 ms
+ 4  100.64.16.9 (100.64.16.9)  0.557 ms 100.64.16.167 (100.64.16.167)  0.745 ms 100.64.16.229 (100.64.16.229)  0.785 ms
+ 5  205.251.245.169 (205.251.245.169)  1.603 ms  1.642 ms 205.251.245.175 (205.251.245.175)  1.438 ms
+ 6  54.239.110.56 (54.239.110.56)  13.164 ms 54.239.109.108 (54.239.109.108)  18.100 ms 54.239.109.142 (54.239.109.142)  8.758 ms
+ 7  54.239.109.119 (54.239.109.119)  1.388 ms 54.239.108.203 (54.239.108.203)  1.206 ms 54.239.109.59 (54.239.109.59)  1.317 ms
+ 8  dca-edge-20.inet.qwest.net (67.133.224.193)  1.752 ms ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.461 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.542 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.121 ms  2.515 ms  2.452 ms
+10  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.951 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.538 ms ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  7.365 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.740 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.485 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.466 ms
+12  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.198 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  3.068 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  3.162 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.990 ms  23.313 ms be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  8.030 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.369 ms be2483.ccr22.cle04.atlas.cogentco.com (154.54.29.201)  26.201 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.285 ms
+15  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  25.532 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.319 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  41.126 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  53.668 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.762 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  53.761 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  81.938 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.557 ms  62.175 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.457 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  65.016 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.207 ms
+19  be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  83.659 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.397 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.449 ms
+20  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.061 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  84.542 ms  83.940 ms
+21  154.24.42.226 (154.24.42.226)  82.887 ms  83.116 ms  83.829 ms
+22  38.122.90.58 (38.122.90.58)  83.696 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.761 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.565 ms
+23  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.534 ms 104.200.154.65 (104.200.154.65)  83.524 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.698 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.0 (216.182.229.0)  1.620 ms 216.182.229.2 (216.182.229.2)  1.464 ms 216.182.229.12 (216.182.229.12)  1.052 ms
+ 2  100.64.2.73 (100.64.2.73)  1.366 ms 100.64.9.45 (100.64.9.45)  1.479 ms 100.64.2.187 (100.64.2.187)  1.291 ms
+ 3  100.64.0.236 (100.64.0.236)  1.947 ms 100.64.0.32 (100.64.0.32)  1.381 ms 100.64.0.234 (100.64.0.234)  1.978 ms
+ 4  100.64.16.157 (100.64.16.157)  0.584 ms 100.64.16.141 (100.64.16.141)  0.779 ms 100.64.16.157 (100.64.16.157)  0.819 ms
+ 5  205.251.245.175 (205.251.245.175)  1.453 ms 205.251.245.169 (205.251.245.169)  1.574 ms  1.609 ms
+ 6  54.239.109.142 (54.239.109.142)  7.155 ms 54.239.109.176 (54.239.109.176)  19.207 ms 54.239.109.142 (54.239.109.142)  31.256 ms
+ 7  54.239.109.23 (54.239.109.23)  1.215 ms 54.239.109.117 (54.239.109.117)  1.509 ms 54.239.109.125 (54.239.109.125)  7.105 ms
+ 8  ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.535 ms ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.445 ms dca2-edge-01.inet.qwest.net (65.120.78.81)  1.392 ms
+ 9  ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  2.290 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.723 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  2.196 ms
+10  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  3.168 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  3.601 ms  2.449 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.217 ms hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  2.476 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.150 ms
+12  hu0-11-0-0.ccr41.dca01.atlas.cogentco.com (154.54.3.134)  2.374 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.103 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.635 ms
+13  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.003 ms be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  8.125 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.922 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.051 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.467 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.534 ms
+15  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.082 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  126.291 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.856 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  55.243 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.948 ms  62.266 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  81.683 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  153.044 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.233 ms
+18  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  63.695 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.753 ms  82.617 ms
+19  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  82.933 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  84.097 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.800 ms
+20  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  84.115 ms  84.054 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  87.245 ms
+21  154.24.42.222 (154.24.42.222)  85.914 ms 154.24.42.226 (154.24.42.226)  83.742 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  83.965 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.605 ms 154.24.42.222 (154.24.42.222)  87.333 ms 38.122.90.58 (38.122.90.58)  84.400 ms
+23  104.200.154.65 (104.200.154.65)  84.899 ms 38.122.90.58 (38.122.90.58)  84.536 ms  84.449 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.6 (216.182.229.6)  1.692 ms  1.738 ms 216.182.229.2 (216.182.229.2)  1.148 ms
+ 2  100.64.9.123 (100.64.9.123)  1.049 ms 100.64.9.217 (100.64.9.217)  1.433 ms 100.64.9.151 (100.64.9.151)  0.975 ms
+ 3  100.64.0.108 (100.64.0.108)  2.670 ms 100.64.0.180 (100.64.0.180)  1.445 ms 100.64.0.102 (100.64.0.102)  2.709 ms
+ 4  100.64.16.99 (100.64.16.99)  0.579 ms 100.64.16.153 (100.64.16.153)  0.748 ms 100.64.16.87 (100.64.16.87)  0.800 ms
+ 5  205.251.245.175 (205.251.245.175)  1.464 ms 205.251.245.169 (205.251.245.169)  1.693 ms 205.251.245.175 (205.251.245.175)  1.499 ms
+ 6  54.239.109.6 (54.239.109.6)  2.177 ms 54.239.109.74 (54.239.109.74)  2.571 ms  1.689 ms
+ 7  54.239.108.69 (54.239.108.69)  1.502 ms 54.239.109.15 (54.239.109.15)  1.258 ms 54.239.108.171 (54.239.108.171)  1.541 ms
+ 8  dca-edge-20.inet.qwest.net (67.133.224.193)  19.529 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.582 ms dca2-edge-02.inet.qwest.net (65.126.19.89)  14.152 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  12.169 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.991 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.421 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  3.196 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.501 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.890 ms
+11  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.906 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.697 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.345 ms
+12  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.177 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  3.081 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.100 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.256 ms  23.195 ms be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  7.869 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.700 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.156 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.275 ms
+15  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.522 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  25.572 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  41.087 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.851 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.721 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.503 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.423 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.533 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  53.668 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.450 ms  83.363 ms  83.039 ms
+19  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  84.405 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.532 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.050 ms
+20  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  84.717 ms 154.24.42.226 (154.24.42.226)  82.473 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.701 ms
+21  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  85.174 ms 154.24.42.222 (154.24.42.222)  84.308 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  85.806 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.572 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.790 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.461 ms
+23  38.122.90.58 (38.122.90.58)  84.402 ms 104.200.154.65 (104.200.154.65)  82.704 ms 38.122.90.58 (38.122.90.58)  84.741 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.8 (216.182.229.8)  1.100 ms 216.182.229.2 (216.182.229.2)  0.972 ms 216.182.229.6 (216.182.229.6)  1.014 ms
+ 2  100.64.9.39 (100.64.9.39)  1.308 ms 100.64.9.67 (100.64.9.67)  2.490 ms 100.64.2.131 (100.64.2.131)  2.568 ms
+ 3  100.64.0.10 (100.64.0.10)  1.652 ms 100.64.0.190 (100.64.0.190)  1.215 ms 100.64.0.22 (100.64.0.22)  1.679 ms
+ 4  100.64.16.151 (100.64.16.151)  0.531 ms 100.64.16.155 (100.64.16.155)  0.815 ms 100.64.16.207 (100.64.16.207)  0.736 ms
+ 5  205.251.245.175 (205.251.245.175)  1.280 ms  1.327 ms  1.376 ms
+ 6  54.239.108.92 (54.239.108.92)  13.203 ms 54.239.109.6 (54.239.109.6)  30.350 ms 54.239.108.160 (54.239.108.160)  15.165 ms
+ 7  54.239.109.55 (54.239.109.55)  1.595 ms 54.239.110.31 (54.239.110.31)  1.641 ms 54.239.108.109 (54.239.108.109)  1.521 ms
+ 8  dca2-edge-01.inet.qwest.net (65.120.78.81)  1.246 ms dca2-edge-02.inet.qwest.net (72.165.86.89)  1.834 ms ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.720 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.768 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.651 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  10.525 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.300 ms  2.111 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  3.156 ms
+11  ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.460 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.972 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.147 ms
+12  hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  2.318 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.468 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.583 ms
+13  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.259 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.670 ms be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.731 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.172 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  22.953 ms  23.787 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.300 ms  40.900 ms  39.959 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.879 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.281 ms  50.775 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  65.012 ms  62.686 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.446 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.213 ms  82.933 ms  83.653 ms
+19  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.531 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.777 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  85.262 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.818 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  84.067 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.922 ms
+21  154.24.42.222 (154.24.42.222)  84.599 ms  85.381 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  83.915 ms
+22  38.122.90.58 (38.122.90.58)  85.319 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.764 ms  85.225 ms
+23  104.200.154.65 (104.200.154.65)  84.072 ms 38.122.90.58 (38.122.90.58)  85.598 ms 104.200.154.65 (104.200.154.65)  83.000 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.0 (216.182.229.0)  1.113 ms 216.182.229.14 (216.182.229.14)  1.160 ms 216.182.229.10 (216.182.229.10)  1.785 ms
+ 2  100.64.9.201 (100.64.9.201)  1.618 ms 100.64.2.53 (100.64.2.53)  1.410 ms 100.64.9.141 (100.64.9.141)  2.292 ms
+ 3  100.64.0.92 (100.64.0.92)  1.548 ms 100.64.0.144 (100.64.0.144)  1.448 ms 100.64.0.178 (100.64.0.178)  1.468 ms
+ 4  100.64.16.201 (100.64.16.201)  0.628 ms 100.64.16.85 (100.64.16.85)  0.729 ms 100.64.16.17 (100.64.16.17)  1.318 ms
+ 5  205.251.245.175 (205.251.245.175)  1.482 ms 205.251.245.169 (205.251.245.169)  1.672 ms 205.251.245.175 (205.251.245.175)  1.517 ms
+ 6  54.239.108.126 (54.239.108.126)  21.965 ms 54.239.109.40 (54.239.109.40)  10.718 ms 54.239.109.74 (54.239.109.74)  10.921 ms
+ 7  54.239.108.141 (54.239.108.141)  2.438 ms 54.239.108.103 (54.239.108.103)  1.234 ms 54.239.109.21 (54.239.109.21)  2.463 ms
+ 8  ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.587 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.272 ms ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  2.664 ms
+ 9  ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.498 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.611 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  10.486 ms
+10  * be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.720 ms  1.933 ms
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.506 ms  3.031 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.156 ms
+12  be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.485 ms hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  2.024 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.944 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.296 ms  23.356 ms  23.904 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.336 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.067 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.156 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.468 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.101 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.082 ms
+16  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.246 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.941 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.534 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.355 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  60.904 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.125 ms
+18  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.498 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.430 ms  83.877 ms
+19  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.899 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.787 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.745 ms
+20  154.24.42.222 (154.24.42.222)  84.537 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.267 ms 154.24.42.222 (154.24.42.222)  84.504 ms
+21  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  86.366 ms 154.24.42.222 (154.24.42.222)  85.383 ms 154.24.42.226 (154.24.42.226)  82.695 ms
+22  38.122.90.58 (38.122.90.58)  85.420 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.112 ms 38.122.90.58 (38.122.90.58)  85.525 ms
+23  38.122.90.58 (38.122.90.58)  86.518 ms  84.753 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.376 ms
+24  104.200.154.65 (104.200.154.65)  84.253 ms  85.553 ms  84.981 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.14 (216.182.229.14)  1.160 ms 216.182.229.12 (216.182.229.12)  1.104 ms 216.182.229.8 (216.182.229.8)  1.248 ms
+ 2  100.64.9.19 (100.64.9.19)  1.259 ms 100.64.2.135 (100.64.2.135)  2.022 ms 100.64.2.121 (100.64.2.121)  2.019 ms
+ 3  100.64.0.240 (100.64.0.240)  1.332 ms 100.64.0.44 (100.64.0.44)  1.684 ms 100.64.0.4 (100.64.0.4)  1.694 ms
+ 4  100.64.16.231 (100.64.16.231)  0.633 ms 100.64.16.201 (100.64.16.201)  0.668 ms 100.64.16.15 (100.64.16.15)  0.745 ms
+ 5  205.251.245.175 (205.251.245.175)  1.557 ms 205.251.245.169 (205.251.245.169)  1.671 ms 205.251.245.175 (205.251.245.175)  1.564 ms
+ 6  54.239.108.58 (54.239.108.58)  27.298 ms 54.239.110.22 (54.239.110.22)  17.477 ms 54.239.109.210 (54.239.109.210)  15.334 ms
+ 7  54.239.108.211 (54.239.108.211)  1.340 ms 54.239.109.195 (54.239.109.195)  1.375 ms 54.239.108.73 (54.239.108.73)  1.184 ms
+ 8  dca2-edge-02.inet.qwest.net (72.165.86.89)  1.751 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.442 ms dca2-edge-01.inet.qwest.net (67.133.224.205)  1.273 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.704 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.316 ms  1.495 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.319 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.985 ms ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  11.205 ms
+11  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  3.203 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.555 ms  3.483 ms
+12  hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  3.222 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  4.066 ms  2.358 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  24.154 ms be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.744 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.797 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.731 ms be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.876 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.636 ms
+15  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.365 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.984 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.623 ms
+16  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  42.629 ms  42.314 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.873 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  63.015 ms  63.282 ms  63.728 ms
+18  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.076 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.421 ms  82.646 ms
+19  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.278 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.392 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.991 ms
+20  154.24.42.226 (154.24.42.226)  82.321 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.069 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.419 ms
+21  154.24.42.222 (154.24.42.222)  87.472 ms  87.511 ms  84.781 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.221 ms  85.070 ms  84.696 ms
+23  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.937 ms 104.200.154.65 (104.200.154.65)  83.960 ms 38.122.90.58 (38.122.90.58)  84.041 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.8 (216.182.229.8)  1.026 ms 216.182.229.10 (216.182.229.10)  0.927 ms 216.182.229.2 (216.182.229.2)  1.308 ms
+ 2  100.64.2.135 (100.64.2.135)  1.343 ms 100.64.2.239 (100.64.2.239)  1.176 ms 100.64.9.137 (100.64.9.137)  1.139 ms
+ 3  100.64.0.28 (100.64.0.28)  1.300 ms 100.64.0.136 (100.64.0.136)  1.051 ms 100.64.0.206 (100.64.0.206)  1.200 ms
+ 4  100.64.16.135 (100.64.16.135)  93.774 ms 100.64.16.229 (100.64.16.229)  0.654 ms 100.64.16.83 (100.64.16.83)  72.460 ms
+ 5  205.251.245.169 (205.251.245.169)  1.557 ms  1.590 ms 205.251.245.175 (205.251.245.175)  1.384 ms
+ 6  54.239.109.176 (54.239.109.176)  9.210 ms 54.239.109.74 (54.239.109.74)  12.970 ms 54.239.108.126 (54.239.108.126)  19.553 ms
+ 7  54.239.108.143 (54.239.108.143)  1.275 ms 54.239.109.255 (54.239.109.255)  1.485 ms 54.239.108.137 (54.239.108.137)  1.236 ms
+ 8  dca2-edge-01.inet.qwest.net (67.133.224.205)  1.240 ms ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.402 ms dca2-edge-01.inet.qwest.net (65.120.78.81)  1.194 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.141 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.842 ms ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.443 ms
+10  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.564 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  3.930 ms  3.929 ms
+11  hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.447 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.214 ms  2.963 ms
+12  hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  2.802 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.084 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.195 ms
+13  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  22.635 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.581 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.117 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.330 ms be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.659 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.386 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.172 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.142 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.070 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.424 ms  52.414 ms  53.022 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.593 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.548 ms  62.843 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.157 ms  83.604 ms  83.490 ms
+19  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.070 ms  83.416 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.374 ms
+20  be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  86.557 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  84.445 ms 154.24.42.226 (154.24.42.226)  83.375 ms
+21  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.875 ms 154.24.42.226 (154.24.42.226)  83.660 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  85.936 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.400 ms 38.122.90.58 (38.122.90.58)  85.234 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.013 ms
+23  38.122.90.58 (38.122.90.58)  85.292 ms  85.334 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  87.084 ms
+24  38.122.90.58 (38.122.90.58)  88.788 ms  88.686 ms  88.851 ms
+25  104.200.154.65 (104.200.154.65)  83.371 ms  83.484 ms  84.757 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.6 (216.182.229.6)  1.836 ms  1.979 ms 216.182.229.12 (216.182.229.12)  1.311 ms
+ 2  100.64.9.147 (100.64.9.147)  1.349 ms 100.64.9.231 (100.64.9.231)  1.113 ms 100.64.2.63 (100.64.2.63)  1.360 ms
+ 3  100.64.0.102 (100.64.0.102)  1.051 ms 100.64.0.230 (100.64.0.230)  1.599 ms 100.64.0.204 (100.64.0.204)  1.643 ms
+ 4  100.64.16.213 (100.64.16.213)  1.354 ms 100.64.16.147 (100.64.16.147)  0.535 ms 100.64.16.221 (100.64.16.221)  1.361 ms
+ 5  205.251.245.175 (205.251.245.175)  1.385 ms 205.251.245.169 (205.251.245.169)  1.600 ms  1.623 ms
+ 6  54.239.108.126 (54.239.108.126)  27.978 ms 54.239.109.176 (54.239.109.176)  5.316 ms 54.239.108.126 (54.239.108.126)  20.775 ms
+ 7  54.239.109.17 (54.239.109.17)  1.206 ms 54.239.109.83 (54.239.109.83)  1.395 ms 54.239.109.15 (54.239.109.15)  1.240 ms
+ 8  dca2-edge-02.inet.qwest.net (65.126.19.89)  1.746 ms ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.541 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.269 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.935 ms  2.290 ms ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.427 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.468 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  3.686 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.499 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.068 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.226 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.461 ms
+12  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.147 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.630 ms hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  3.229 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.620 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.689 ms  23.875 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.137 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  22.467 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.732 ms
+15  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.759 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.099 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  41.017 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.920 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.838 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.268 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  63.114 ms  62.724 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.354 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  406.316 ms  407.902 ms  84.015 ms
+19  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.624 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  86.161 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.540 ms
+20  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.880 ms  83.265 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.662 ms
+21  154.24.42.222 (154.24.42.222)  84.461 ms  85.051 ms 154.24.42.226 (154.24.42.226)  83.949 ms
+22  38.122.90.58 (38.122.90.58)  83.827 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.709 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.629 ms
+23  38.122.90.58 (38.122.90.58)  84.279 ms  84.583 ms  83.804 ms
+24  104.200.154.65 (104.200.154.65)  83.546 ms  83.370 ms  83.620 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.4 (216.182.229.4)  0.845 ms 216.182.229.2 (216.182.229.2)  0.885 ms 216.182.229.0 (216.182.229.0)  1.232 ms
+ 2  100.64.2.67 (100.64.2.67)  1.177 ms 100.64.2.1 (100.64.2.1)  1.304 ms 100.64.2.149 (100.64.2.149)  1.718 ms
+ 3  100.64.0.232 (100.64.0.232)  1.266 ms 100.64.0.104 (100.64.0.104)  1.491 ms 100.64.0.98 (100.64.0.98)  1.519 ms
+ 4  100.64.16.197 (100.64.16.197)  0.607 ms 100.64.16.193 (100.64.16.193)  0.712 ms 100.64.16.77 (100.64.16.77)  0.731 ms
+ 5  205.251.245.175 (205.251.245.175)  1.380 ms 205.251.245.169 (205.251.245.169)  1.697 ms  1.704 ms
+ 6  54.239.108.58 (54.239.108.58)  28.711 ms 54.239.109.74 (54.239.109.74)  1.535 ms 54.239.108.228 (54.239.108.228)  6.886 ms
+ 7  54.239.108.245 (54.239.108.245)  3.676 ms 54.239.108.211 (54.239.108.211)  3.711 ms 54.239.110.41 (54.239.110.41)  1.413 ms
+ 8  ae-16.r05.asbnva02.us.bb.gin.ntt.net (168.143.232.49)  1.517 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.541 ms ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.587 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.610 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.557 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  2.102 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  4.248 ms  3.920 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.823 ms
+11  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  4.612 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.261 ms  7.212 ms
+12  hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.386 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.624 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  3.232 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.376 ms be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.808 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.089 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.207 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.883 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.679 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.699 ms  40.937 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  25.606 ms
+16  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.110 ms  60.863 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.675 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.149 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  63.038 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.668 ms
+18  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  64.455 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.295 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.510 ms
+19  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  85.024 ms  84.909 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  84.252 ms
+20  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.437 ms  85.139 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  82.965 ms
+21  154.24.42.222 (154.24.42.222)  83.937 ms  83.869 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  86.934 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.365 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.971 ms  84.821 ms
+23  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  87.252 ms 38.122.90.58 (38.122.90.58)  85.109 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  87.076 ms
+24  104.200.154.65 (104.200.154.65)  83.472 ms  83.137 ms 38.122.90.58 (38.122.90.58)  87.534 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.12 (216.182.229.12)  1.287 ms 216.182.229.14 (216.182.229.14)  1.142 ms 216.182.229.8 (216.182.229.8)  1.496 ms
+ 2  100.64.2.65 (100.64.2.65)  1.435 ms 100.64.9.181 (100.64.9.181)  1.548 ms 100.64.2.75 (100.64.2.75)  1.273 ms
+ 3  100.64.0.252 (100.64.0.252)  1.000 ms 100.64.0.228 (100.64.0.228)  1.379 ms 100.64.0.4 (100.64.0.4)  1.427 ms
+ 4  100.64.16.93 (100.64.16.93)  0.785 ms 100.64.16.161 (100.64.16.161)  0.635 ms 100.64.16.97 (100.64.16.97)  0.806 ms
+ 5  205.251.245.169 (205.251.245.169)  2.501 ms  1.612 ms  1.648 ms
+ 6  54.239.110.22 (54.239.110.22)  19.193 ms 54.239.108.92 (54.239.108.92)  61.043 ms 54.239.109.244 (54.239.109.244)  7.200 ms
+ 7  54.239.109.187 (54.239.109.187)  1.563 ms 54.239.109.223 (54.239.109.223)  1.427 ms 54.239.108.179 (54.239.108.179)  1.733 ms
+ 8  ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.470 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.514 ms dca2-edge-01.inet.qwest.net (65.120.78.81)  1.329 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.766 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.913 ms  1.982 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.845 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.819 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.857 ms
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.871 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.195 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.362 ms
+12  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.251 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.581 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  3.095 ms
+13  be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.834 ms be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  8.081 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.034 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.241 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.247 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.290 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.534 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  38.693 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.330 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.372 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.444 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.589 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.832 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.046 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.535 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.813 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  82.536 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  64.336 ms
+19  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.180 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  82.912 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  81.857 ms
+20  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.541 ms  84.910 ms 154.24.42.222 (154.24.42.222)  84.253 ms
+21  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.709 ms 154.24.42.226 (154.24.42.226)  83.620 ms  83.904 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  87.322 ms  87.187 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.378 ms
+23  104.200.154.65 (104.200.154.65)  82.565 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.352 ms 38.122.90.58 (38.122.90.58)  83.712 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.0 (216.182.229.0)  0.995 ms 216.182.229.4 (216.182.229.4)  1.289 ms 216.182.229.12 (216.182.229.12)  1.137 ms
+ 2  100.64.9.169 (100.64.9.169)  1.383 ms 100.64.2.95 (100.64.2.95)  1.157 ms 100.64.2.21 (100.64.2.21)  1.541 ms
+ 3  100.64.0.178 (100.64.0.178)  1.481 ms 100.64.0.154 (100.64.0.154)  1.491 ms 100.64.0.240 (100.64.0.240)  1.785 ms
+ 4  100.64.16.207 (100.64.16.207)  1.154 ms 100.64.16.5 (100.64.16.5)  1.059 ms 100.64.16.1 (100.64.16.1)  1.088 ms
+ 5  205.251.245.169 (205.251.245.169)  2.514 ms 205.251.245.175 (205.251.245.175)  1.345 ms 205.251.245.169 (205.251.245.169)  1.563 ms
+ 6  54.239.109.244 (54.239.109.244)  23.669 ms 54.239.108.194 (54.239.108.194)  5.577 ms 54.239.108.160 (54.239.108.160)  7.908 ms
+ 7  54.239.108.69 (54.239.108.69)  1.973 ms 54.239.109.117 (54.239.109.117)  1.442 ms 54.239.109.25 (54.239.109.25)  1.155 ms
+ 8  dca2-edge-01.inet.qwest.net (72.165.86.73)  1.290 ms dca2-edge-01.inet.qwest.net (67.133.224.205)  1.256 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.544 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.145 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  10.059 ms  2.612 ms
+10  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.709 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.475 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  3.086 ms
+11  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  3.105 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.414 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  2.470 ms
+12  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.158 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  3.018 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.493 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.752 ms  23.334 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.617 ms
+14  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.265 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.206 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.045 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.820 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.266 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.211 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.491 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  42.027 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.673 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  63.064 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  63.052 ms  64.175 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.150 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.243 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.051 ms
+19  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.272 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  85.098 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.979 ms
+20  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.581 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  86.678 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.357 ms
+21  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.920 ms 154.24.42.226 (154.24.42.226)  83.597 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.791 ms
+22  38.122.90.58 (38.122.90.58)  83.067 ms  83.251 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.842 ms
+23  38.122.90.58 (38.122.90.58)  83.918 ms  83.355 ms 104.200.154.65 (104.200.154.65)  82.936 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.12 (216.182.229.12)  0.939 ms 216.182.229.10 (216.182.229.10)  2.107 ms  2.264 ms
+ 2  100.64.2.171 (100.64.2.171)  1.055 ms 100.64.2.191 (100.64.2.191)  1.102 ms 100.64.2.99 (100.64.2.99)  1.200 ms
+ 3  100.64.0.178 (100.64.0.178)  1.243 ms 100.64.0.148 (100.64.0.148)  1.285 ms 100.64.0.208 (100.64.0.208)  0.951 ms
+ 4  100.64.16.227 (100.64.16.227)  0.540 ms 100.64.16.81 (100.64.16.81)  48.580 ms 100.64.16.21 (100.64.16.21)  0.699 ms
+ 5  205.251.245.169 (205.251.245.169)  2.457 ms 205.251.245.175 (205.251.245.175)  1.394 ms  1.391 ms
+ 6  54.239.110.56 (54.239.110.56)  15.887 ms 54.239.108.92 (54.239.108.92)  16.312 ms 54.239.108.194 (54.239.108.194)  31.713 ms
+ 7  54.239.108.245 (54.239.108.245)  1.566 ms 54.239.110.1 (54.239.110.1)  1.426 ms 54.239.110.5 (54.239.110.5)  1.427 ms
+ 8  dca-edge-20.inet.qwest.net (67.133.224.193)  1.726 ms dca2-edge-02.inet.qwest.net (65.126.19.89)  1.802 ms  1.803 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.682 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  27.334 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.649 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.146 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.169 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.621 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.388 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.162 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.880 ms
+12  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.233 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.222 ms hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  3.187 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  24.042 ms be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.679 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.232 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.773 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.305 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.599 ms
+15  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.727 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.241 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.156 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.026 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.409 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  42.600 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.072 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  81.827 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.884 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.563 ms  82.471 ms  82.397 ms
+19  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.193 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.366 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  84.064 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.956 ms  84.406 ms 154.24.42.226 (154.24.42.226)  82.603 ms
+21  154.24.42.226 (154.24.42.226)  83.225 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.531 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  86.433 ms
+22  38.122.90.58 (38.122.90.58)  84.738 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.946 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  83.935 ms
+23  38.122.90.58 (38.122.90.58)  84.461 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.608 ms 38.122.90.58 (38.122.90.58)  83.898 ms
+24  104.200.154.65 (104.200.154.65)  84.078 ms  84.127 ms  83.636 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.362 ms 216.182.229.8 (216.182.229.8)  0.905 ms 216.182.229.2 (216.182.229.2)  1.336 ms
+ 2  100.64.9.89 (100.64.9.89)  1.343 ms 100.64.9.195 (100.64.9.195)  1.351 ms 100.64.9.143 (100.64.9.143)  1.467 ms
+ 3  100.64.0.198 (100.64.0.198)  1.591 ms 100.64.0.192 (100.64.0.192)  1.607 ms 100.64.0.12 (100.64.0.12)  1.088 ms
+ 4  100.64.16.221 (100.64.16.221)  0.627 ms 100.64.16.217 (100.64.16.217)  0.607 ms 100.64.16.203 (100.64.16.203)  0.626 ms
+ 5  205.251.245.175 (205.251.245.175)  1.601 ms 205.251.245.169 (205.251.245.169)  1.694 ms  1.694 ms
+ 6  54.239.108.126 (54.239.108.126)  7.910 ms 54.239.110.22 (54.239.110.22)  1.504 ms 54.239.109.74 (54.239.109.74)  21.458 ms
+ 7  54.239.109.121 (54.239.109.121)  1.341 ms 54.239.110.35 (54.239.110.35)  1.294 ms 54.239.109.121 (54.239.109.121)  1.194 ms
+ 8  ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.337 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.113 ms dca2-edge-01.inet.qwest.net (65.120.78.81)  1.144 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  10.486 ms  2.518 ms  2.510 ms
+10  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.733 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.494 ms  2.654 ms
+11  hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  2.310 ms hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  2.224 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  3.104 ms
+12  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.240 ms hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  3.227 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  3.313 ms
+13  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.102 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.528 ms  23.561 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.960 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.008 ms  23.695 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.722 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.731 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  27.174 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.512 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.181 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.892 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.975 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  53.997 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.584 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.077 ms  84.731 ms  83.375 ms
+19  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  85.662 ms  85.474 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.539 ms
+20  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.569 ms  84.034 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  84.875 ms
+21  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  85.906 ms 154.24.42.222 (154.24.42.222)  84.329 ms  84.379 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.117 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.077 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.863 ms
+23  38.122.90.58 (38.122.90.58)  84.137 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.112 ms 38.122.90.58 (38.122.90.58)  84.957 ms
+24  104.200.154.65 (104.200.154.65)  84.246 ms 38.122.90.58 (38.122.90.58)  86.983 ms 104.200.154.65 (104.200.154.65)  84.125 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.519 ms 216.182.229.10 (216.182.229.10)  1.208 ms 216.182.229.2 (216.182.229.2)  1.495 ms
+ 2  100.64.9.189 (100.64.9.189)  1.878 ms 100.64.2.95 (100.64.2.95)  1.063 ms 100.64.2.17 (100.64.2.17)  1.673 ms
+ 3  100.64.0.48 (100.64.0.48)  1.216 ms 100.64.0.180 (100.64.0.180)  1.573 ms 100.64.0.196 (100.64.0.196)  1.356 ms
+ 4  100.64.16.85 (100.64.16.85)  0.832 ms 100.64.16.1 (100.64.16.1)  0.809 ms 100.64.16.231 (100.64.16.231)  0.823 ms
+ 5  205.251.245.175 (205.251.245.175)  4.440 ms  4.444 ms 205.251.245.169 (205.251.245.169)  1.676 ms
+ 6  54.239.108.126 (54.239.108.126)  5.378 ms 54.239.108.92 (54.239.108.92)  12.050 ms 54.239.109.74 (54.239.109.74)  24.607 ms
+ 7  54.239.109.49 (54.239.109.49)  1.381 ms 54.239.109.191 (54.239.109.191)  1.323 ms 54.239.108.75 (54.239.108.75)  1.107 ms
+ 8  dca2-edge-02.inet.qwest.net (65.126.19.89)  1.617 ms dca2-edge-01.inet.qwest.net (65.120.78.81)  1.116 ms ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  2.659 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  2.868 ms  1.878 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.550 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  1.906 ms ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  14.491 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.265 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.577 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  3.207 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.494 ms
+12  hu0-11-0-0.ccr41.dca01.atlas.cogentco.com (154.54.3.134)  3.214 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.103 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  3.105 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.386 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.761 ms  23.665 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.314 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.878 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.671 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  41.511 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.074 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.832 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.408 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  41.996 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.014 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.836 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  64.708 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  63.228 ms
+18  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.684 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.046 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.206 ms
+19  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.965 ms  82.973 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  82.975 ms
+20  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  84.066 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.478 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.722 ms
+21  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  86.618 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  85.565 ms 154.24.42.222 (154.24.42.222)  84.710 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.591 ms 154.24.42.222 (154.24.42.222)  86.527 ms 38.122.90.58 (38.122.90.58)  84.045 ms
+23  38.122.90.58 (38.122.90.58)  85.092 ms  85.230 ms 104.200.154.65 (104.200.154.65)  82.842 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  0.980 ms 216.182.229.14 (216.182.229.14)  1.033 ms 216.182.229.6 (216.182.229.6)  0.961 ms
+ 2  100.64.9.231 (100.64.9.231)  0.942 ms 100.64.9.215 (100.64.9.215)  1.425 ms 100.64.2.99 (100.64.2.99)  1.348 ms
+ 3  100.64.0.162 (100.64.0.162)  1.170 ms 100.64.0.100 (100.64.0.100)  1.524 ms 100.64.0.94 (100.64.0.94)  1.560 ms
+ 4  100.64.16.141 (100.64.16.141)  0.682 ms 100.64.16.37 (100.64.16.37)  0.662 ms 100.64.16.33 (100.64.16.33)  0.667 ms
+ 5  205.251.245.175 (205.251.245.175)  1.443 ms  1.462 ms  1.503 ms
+ 6  54.239.109.244 (54.239.109.244)  1.523 ms 54.239.109.142 (54.239.109.142)  21.127 ms 54.239.109.176 (54.239.109.176)  17.748 ms
+ 7  54.239.109.123 (54.239.109.123)  1.490 ms 54.239.108.207 (54.239.108.207)  1.153 ms 54.239.109.119 (54.239.109.119)  1.412 ms
+ 8  dca2-edge-01.inet.qwest.net (67.133.224.205)  1.093 ms ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.377 ms ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  2.777 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.885 ms  1.593 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.172 ms
+10  * be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.735 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.763 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.341 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.138 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.596 ms
+12  be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  8.062 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  3.395 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.472 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.462 ms  23.008 ms  23.387 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.201 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.375 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.908 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.112 ms  40.389 ms  41.315 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.085 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  42.850 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.721 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.663 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.460 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.165 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.947 ms  83.469 ms  83.215 ms
+19  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.699 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  82.018 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.009 ms
+20  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  84.378 ms 154.24.42.226 (154.24.42.226)  83.536 ms 154.24.42.222 (154.24.42.222)  84.463 ms
+21  154.24.42.222 (154.24.42.222)  84.700 ms 154.24.42.226 (154.24.42.226)  84.067 ms 154.24.42.222 (154.24.42.222)  85.438 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.314 ms  85.545 ms 38.122.90.58 (38.122.90.58)  82.942 ms
+23  38.122.90.58 (38.122.90.58)  83.750 ms  83.778 ms  83.517 ms
+24  104.200.154.65 (104.200.154.65)  83.897 ms  83.154 ms  83.605 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.14 (216.182.229.14)  1.190 ms 216.182.229.10 (216.182.229.10)  0.995 ms 216.182.229.12 (216.182.229.12)  1.476 ms
+ 2  100.64.9.101 (100.64.9.101)  0.992 ms 100.64.2.75 (100.64.2.75)  1.537 ms 100.64.9.145 (100.64.9.145)  1.397 ms
+ 3  100.64.0.148 (100.64.0.148)  1.182 ms 100.64.0.150 (100.64.0.150)  1.219 ms 100.64.0.238 (100.64.0.238)  1.240 ms
+ 4  100.64.16.79 (100.64.16.79)  14.047 ms 100.64.16.195 (100.64.16.195)  86.560 ms 100.64.16.129 (100.64.16.129)  86.546 ms
+ 5  205.251.245.175 (205.251.245.175)  1.526 ms 205.251.245.169 (205.251.245.169)  1.899 ms  1.576 ms
+ 6  54.239.109.108 (54.239.109.108)  1.625 ms 54.239.108.160 (54.239.108.160)  11.062 ms 54.239.109.142 (54.239.109.142)  12.263 ms
+ 7  54.239.108.111 (54.239.108.111)  1.109 ms 54.239.109.93 (54.239.109.93)  1.393 ms 54.239.110.31 (54.239.110.31)  1.895 ms
+ 8  dca2-edge-02.inet.qwest.net (67.133.224.193)  1.732 ms ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.505 ms dca-edge-20.inet.qwest.net (67.133.224.193)  1.782 ms
+ 9  ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.522 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.735 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.557 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  3.920 ms * be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.779 ms
+11  ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.189 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.312 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.726 ms
+12  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.077 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.180 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  22.998 ms
+13  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.363 ms  23.155 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.907 ms
+14  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.060 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.687 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.826 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.290 ms  40.191 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.937 ms
+16  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  60.625 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.275 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.899 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.782 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.646 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.327 ms
+18  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  65.057 ms  65.200 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.753 ms
+19  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  84.288 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.993 ms  84.933 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.809 ms  83.603 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.455 ms
+21  154.24.42.226 (154.24.42.226)  83.143 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.280 ms 154.24.42.226 (154.24.42.226)  83.223 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.008 ms  84.701 ms 38.122.90.58 (38.122.90.58)  83.791 ms
+23  38.122.90.58 (38.122.90.58)  83.848 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.572 ms 38.122.90.58 (38.122.90.58)  84.083 ms
+24  104.200.154.65 (104.200.154.65)  82.204 ms  81.921 ms  83.130 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.195 ms 216.182.229.8 (216.182.229.8)  1.443 ms  1.473 ms
+ 2  100.64.9.203 (100.64.9.203)  1.492 ms 100.64.2.29 (100.64.2.29)  0.997 ms 100.64.2.75 (100.64.2.75)  1.533 ms
+ 3  100.64.0.38 (100.64.0.38)  1.717 ms 100.64.0.12 (100.64.0.12)  1.712 ms 100.64.0.96 (100.64.0.96)  1.162 ms
+ 4  100.64.16.95 (100.64.16.95)  0.556 ms 100.64.16.71 (100.64.16.71)  0.563 ms 100.64.16.211 (100.64.16.211)  0.560 ms
+ 5  205.251.245.169 (205.251.245.169)  1.583 ms  1.575 ms 205.251.245.175 (205.251.245.175)  1.404 ms
+ 6  54.239.109.176 (54.239.109.176)  16.983 ms 54.239.110.22 (54.239.110.22)  30.945 ms 54.239.109.176 (54.239.109.176)  5.680 ms
+ 7  54.239.109.57 (54.239.109.57)  2.137 ms 54.239.108.179 (54.239.108.179)  1.121 ms 54.239.109.23 (54.239.109.23)  3.095 ms
+ 8  dca2-edge-02.inet.qwest.net (65.126.19.89)  1.746 ms dca2-edge-01.inet.qwest.net (67.133.224.205)  1.214 ms ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.541 ms
+ 9  ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.522 ms  1.589 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  5.880 ms
+10  ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  7.325 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.755 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.252 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.710 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.315 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.563 ms
+12  be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.715 ms hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  3.459 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.234 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.777 ms be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  7.771 ms  7.797 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.600 ms  23.973 ms  23.458 ms
+15  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.961 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.570 ms  39.020 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.447 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  60.951 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  42.829 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.655 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  81.975 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  60.555 ms
+18  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  82.979 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.113 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.074 ms
+19  be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.711 ms  84.234 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.201 ms
+20  154.24.42.222 (154.24.42.222)  84.290 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  82.958 ms 154.24.42.226 (154.24.42.226)  83.473 ms
+21  154.24.42.226 (154.24.42.226)  84.182 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.452 ms 154.24.42.226 (154.24.42.226)  83.544 ms
+22  38.122.90.58 (38.122.90.58)  84.660 ms 154.24.42.222 (154.24.42.222)  87.961 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.874 ms
+23  38.122.90.58 (38.122.90.58)  85.558 ms  85.008 ms  84.823 ms
+24  104.200.154.65 (104.200.154.65)  83.894 ms 38.122.90.58 (38.122.90.58)  87.224 ms 104.200.154.65 (104.200.154.65)  84.164 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.8 (216.182.229.8)  1.803 ms 216.182.229.2 (216.182.229.2)  0.959 ms 216.182.229.8 (216.182.229.8)  1.804 ms
+ 2  100.64.9.125 (100.64.9.125)  1.364 ms 100.64.2.251 (100.64.2.251)  1.343 ms 100.64.9.215 (100.64.9.215)  1.313 ms
+ 3  100.64.0.236 (100.64.0.236)  1.076 ms 100.64.0.58 (100.64.0.58)  1.437 ms 100.64.0.74 (100.64.0.74)  1.687 ms
+ 4  100.64.16.67 (100.64.16.67)  0.655 ms 100.64.16.225 (100.64.16.225)  0.700 ms 100.64.16.23 (100.64.16.23)  0.685 ms
+ 5  205.251.245.175 (205.251.245.175)  1.939 ms  1.476 ms 205.251.245.169 (205.251.245.169)  1.569 ms
+ 6  54.239.109.142 (54.239.109.142)  19.567 ms 54.239.110.56 (54.239.110.56)  24.275 ms 54.239.109.40 (54.239.109.40)  5.185 ms
+ 7  54.239.110.35 (54.239.110.35)  1.380 ms 54.239.109.123 (54.239.109.123)  1.452 ms 54.239.110.33 (54.239.110.33)  1.470 ms
+ 8  dca2-edge-01.inet.qwest.net (67.133.224.205)  1.156 ms dca2-edge-02.inet.qwest.net (72.165.86.89)  1.678 ms ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.791 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.739 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  11.124 ms  10.929 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.555 ms  1.965 ms  2.540 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.680 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.108 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  3.070 ms
+12  hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  3.152 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.412 ms hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  3.000 ms
+13  be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  8.400 ms  7.966 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.773 ms
+14  be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.847 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.561 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.947 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.224 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.217 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  41.205 ms
+16  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  42.513 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.717 ms  52.348 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.800 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  63.471 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.159 ms
+18  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.260 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.049 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  83.731 ms
+19  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.672 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  82.919 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  82.822 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  85.121 ms 154.24.42.226 (154.24.42.226)  83.283 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.543 ms
+21  154.24.42.226 (154.24.42.226)  83.746 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  83.729 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  86.231 ms
+22  154.24.42.226 (154.24.42.226)  85.106 ms 38.122.90.58 (38.122.90.58)  83.724 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.855 ms
+23  38.122.90.58 (38.122.90.58)  84.176 ms  84.734 ms  84.699 ms
+24  38.122.90.58 (38.122.90.58)  85.842 ms 104.200.154.65 (104.200.154.65)  83.822 ms  84.098 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.8 (216.182.229.8)  1.316 ms 216.182.229.2 (216.182.229.2)  1.251 ms 216.182.229.10 (216.182.229.10)  1.360 ms
+ 2  100.64.2.11 (100.64.2.11)  1.131 ms 100.64.2.177 (100.64.2.177)  1.245 ms 100.64.9.103 (100.64.9.103)  1.548 ms
+ 3  100.64.0.140 (100.64.0.140)  1.256 ms 100.64.0.88 (100.64.0.88)  2.063 ms 100.64.0.70 (100.64.0.70)  2.111 ms
+ 4  100.64.16.85 (100.64.16.85)  0.531 ms 100.64.16.21 (100.64.16.21)  0.568 ms 100.64.16.29 (100.64.16.29)  0.570 ms
+ 5  205.251.245.175 (205.251.245.175)  1.335 ms  1.359 ms  1.405 ms
+ 6  54.239.108.58 (54.239.108.58)  24.063 ms 54.239.108.92 (54.239.108.92)  5.825 ms 54.239.109.6 (54.239.109.6)  3.990 ms
+ 7  54.239.108.137 (54.239.108.137)  1.196 ms 54.239.108.171 (54.239.108.171)  1.081 ms 54.239.108.39 (54.239.108.39)  1.123 ms
+ 8  dca2-edge-02.inet.qwest.net (65.126.19.89)  1.650 ms ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.486 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.444 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.640 ms  1.680 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  6.398 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  3.579 ms ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  7.034 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.732 ms
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.351 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.511 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.562 ms
+12  be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.628 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.170 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  2.707 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.959 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.854 ms  23.886 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.987 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.631 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.937 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.375 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.930 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.781 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.777 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.176 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  42.045 ms
+17  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  54.350 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.240 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.772 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.279 ms  83.937 ms  82.827 ms
+19  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.983 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.057 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.645 ms
+20  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.428 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  86.514 ms 154.24.42.226 (154.24.42.226)  83.652 ms
+21  154.24.42.226 (154.24.42.226)  86.348 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.703 ms 154.24.42.222 (154.24.42.222)  85.320 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.099 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.111 ms 38.122.90.58 (38.122.90.58)  85.046 ms
+23  104.200.154.65 (104.200.154.65)  83.554 ms 38.122.90.58 (38.122.90.58)  84.977 ms 104.200.154.65 (104.200.154.65)  83.091 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.4 (216.182.229.4)  1.228 ms 216.182.229.2 (216.182.229.2)  1.191 ms 216.182.229.4 (216.182.229.4)  1.220 ms
+ 2  100.64.9.89 (100.64.9.89)  1.696 ms 100.64.9.215 (100.64.9.215)  1.067 ms 100.64.9.193 (100.64.9.193)  1.164 ms
+ 3  100.64.0.14 (100.64.0.14)  1.260 ms 100.64.0.176 (100.64.0.176)  1.002 ms 100.64.0.54 (100.64.0.54)  1.289 ms
+ 4  100.64.16.219 (100.64.16.219)  0.546 ms 100.64.16.13 (100.64.16.13)  0.566 ms 100.64.16.33 (100.64.16.33)  2.438 ms
+ 5  205.251.245.169 (205.251.245.169)  1.672 ms 205.251.245.175 (205.251.245.175)  1.342 ms 205.251.245.169 (205.251.245.169)  1.692 ms
+ 6  54.239.109.74 (54.239.109.74)  23.179 ms 54.239.108.160 (54.239.108.160)  6.930 ms 54.239.108.194 (54.239.108.194)  24.302 ms
+ 7  54.239.108.139 (54.239.108.139)  1.156 ms 54.239.109.223 (54.239.109.223)  1.421 ms 54.239.108.35 (54.239.108.35)  1.154 ms
+ 8  dca2-edge-02.inet.qwest.net (65.126.19.89)  1.683 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.224 ms ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.306 ms
+ 9  ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.495 ms ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  5.905 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  2.888 ms
+10  * be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.787 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.339 ms
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.833 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  3.273 ms hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  2.221 ms
+12  hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.927 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.219 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  3.215 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.711 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  26.547 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.759 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.503 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.293 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  24.007 ms
+15  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.300 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.048 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.688 ms
+16  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.268 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.928 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.969 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  63.377 ms  62.492 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  55.177 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.320 ms  83.878 ms  84.012 ms
+19  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.071 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  83.904 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.770 ms
+20  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  84.080 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.498 ms  85.292 ms
+21  154.24.42.222 (154.24.42.222)  85.156 ms 154.24.42.226 (154.24.42.226)  85.071 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  86.924 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.505 ms  84.294 ms 38.122.90.58 (38.122.90.58)  84.156 ms
+23  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  87.197 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.987 ms 38.122.90.58 (38.122.90.58)  83.610 ms
+24  104.200.154.65 (104.200.154.65)  83.841 ms  84.353 ms  84.093 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.209 ms 216.182.229.10 (216.182.229.10)  1.174 ms 216.182.229.6 (216.182.229.6)  1.626 ms
+ 2  100.64.2.141 (100.64.2.141)  1.444 ms 100.64.9.99 (100.64.9.99)  1.100 ms 100.64.2.125 (100.64.2.125)  1.082 ms
+ 3  100.64.0.34 (100.64.0.34)  1.377 ms 100.64.0.242 (100.64.0.242)  1.582 ms 100.64.0.254 (100.64.0.254)  1.631 ms
+ 4  100.64.16.67 (100.64.16.67)  0.589 ms 100.64.16.133 (100.64.16.133)  0.597 ms 100.64.16.1 (100.64.16.1)  0.618 ms
+ 5  205.251.245.175 (205.251.245.175)  1.395 ms 205.251.245.169 (205.251.245.169)  1.607 ms 205.251.245.175 (205.251.245.175)  1.405 ms
+ 6  54.239.108.228 (54.239.108.228)  12.019 ms 54.239.108.160 (54.239.108.160)  20.727 ms 54.239.108.228 (54.239.108.228)  11.384 ms
+ 7  54.239.108.71 (54.239.108.71)  1.124 ms 54.239.108.203 (54.239.108.203)  1.086 ms 54.239.108.69 (54.239.108.69)  1.394 ms
+ 8  dca2-edge-01.inet.qwest.net (72.165.86.73)  1.128 ms ae-11.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.25)  1.446 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.106 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  2.008 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.496 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  4.748 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.412 ms ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  7.165 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.652 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.340 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.564 ms  2.657 ms
+12  hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  3.188 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.850 ms  7.657 ms
+13  be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  7.598 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.754 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.294 ms
+14  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.045 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.325 ms  23.156 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  41.042 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.778 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.574 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.507 ms  52.912 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.880 ms
+17  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  54.717 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.164 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.617 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.985 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  65.141 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.863 ms
+19  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.138 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.235 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.979 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.796 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.124 ms  83.991 ms
+21  154.24.42.226 (154.24.42.226)  83.949 ms 154.24.42.222 (154.24.42.222)  83.818 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.802 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.740 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.331 ms  84.496 ms
+23  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.181 ms 38.122.90.58 (38.122.90.58)  84.585 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  87.138 ms
+24  104.200.154.65 (104.200.154.65)  83.721 ms  82.940 ms 38.122.90.58 (38.122.90.58)  86.987 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.372 ms 216.182.229.14 (216.182.229.14)  1.084 ms 216.182.229.2 (216.182.229.2)  1.343 ms
+ 2  100.64.2.95 (100.64.2.95)  1.558 ms 100.64.9.225 (100.64.9.225)  1.106 ms 100.64.2.181 (100.64.2.181)  1.470 ms
+ 3  100.64.0.22 (100.64.0.22)  1.530 ms 100.64.0.118 (100.64.0.118)  2.150 ms 100.64.0.46 (100.64.0.46)  1.554 ms
+ 4  100.64.16.135 (100.64.16.135)  0.619 ms 100.64.16.231 (100.64.16.231)  0.536 ms 100.64.16.195 (100.64.16.195)  0.603 ms
+ 5  205.251.245.175 (205.251.245.175)  1.391 ms 205.251.245.169 (205.251.245.169)  1.593 ms  1.637 ms
+ 6  54.239.108.160 (54.239.108.160)  2.012 ms 54.239.109.108 (54.239.109.108)  10.702 ms 54.239.108.228 (54.239.108.228)  8.396 ms
+ 7  54.239.109.223 (54.239.109.223)  1.389 ms 54.239.108.207 (54.239.108.207)  1.084 ms 54.239.108.203 (54.239.108.203)  1.270 ms
+ 8  ae-11.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.25)  1.330 ms ae-16.r05.asbnva02.us.bb.gin.ntt.net (168.143.232.49)  1.318 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.408 ms
+ 9  ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.407 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.533 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.859 ms
+10  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.688 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  3.696 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.387 ms
+11  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.926 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.990 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.056 ms
+12  be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.721 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  3.052 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.282 ms
+13  be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  7.602 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.079 ms be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.528 ms
+14  be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.828 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.353 ms  22.486 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  41.096 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.041 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.810 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.496 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.648 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.103 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.479 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.191 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  63.317 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.951 ms  84.020 ms  85.512 ms
+19  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.704 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  82.874 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.667 ms
+20  154.24.42.222 (154.24.42.222)  84.452 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.329 ms 154.24.42.222 (154.24.42.222)  84.914 ms
+21  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  85.955 ms 154.24.42.226 (154.24.42.226)  83.456 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.466 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.537 ms 154.24.42.226 (154.24.42.226)  85.532 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.110 ms
+23  104.200.154.65 (104.200.154.65)  84.203 ms 38.122.90.58 (38.122.90.58)  84.079 ms 104.200.154.65 (104.200.154.65)  83.833 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.4 (216.182.229.4)  1.161 ms 216.182.229.2 (216.182.229.2)  1.195 ms 216.182.229.4 (216.182.229.4)  1.504 ms
+ 2  100.64.9.41 (100.64.9.41)  2.154 ms 100.64.2.227 (100.64.2.227)  1.691 ms 100.64.2.191 (100.64.2.191)  1.192 ms
+ 3  100.64.0.102 (100.64.0.102)  1.564 ms 100.64.0.110 (100.64.0.110)  1.560 ms 100.64.0.146 (100.64.0.146)  1.271 ms
+ 4  100.64.16.27 (100.64.16.27)  0.626 ms 100.64.16.163 (100.64.16.163)  0.643 ms 100.64.16.151 (100.64.16.151)  0.665 ms
+ 5  205.251.245.169 (205.251.245.169)  1.587 ms  2.038 ms  2.022 ms
+ 6  54.239.109.176 (54.239.109.176)  25.037 ms 54.239.108.92 (54.239.108.92)  8.403 ms 54.239.109.108 (54.239.109.108)  22.508 ms
+ 7  54.239.108.67 (54.239.108.67)  1.179 ms 54.239.109.85 (54.239.109.85)  1.318 ms 54.239.109.57 (54.239.109.57)  1.649 ms
+ 8  dca2-edge-01.inet.qwest.net (67.133.224.205)  1.123 ms ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.495 ms dca2-edge-02.inet.qwest.net (72.165.86.89)  1.706 ms
+ 9  ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.328 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  5.184 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.664 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.459 ms  2.240 ms *
+11  hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.129 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.261 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.658 ms
+12  hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.259 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  3.341 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.692 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.053 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.216 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.457 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.048 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.211 ms be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.736 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.738 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.312 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.775 ms
+16  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  41.084 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.404 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.978 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.320 ms  81.916 ms  84.222 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.580 ms  83.171 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  64.899 ms
+19  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  82.678 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.258 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.179 ms
+20  154.24.42.222 (154.24.42.222)  84.771 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.553 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.332 ms
+21  154.24.42.222 (154.24.42.222)  85.947 ms  84.933 ms 154.24.42.226 (154.24.42.226)  83.770 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.663 ms 38.122.90.58 (38.122.90.58)  85.151 ms  84.845 ms
+23  38.122.90.58 (38.122.90.58)  85.310 ms  84.760 ms  84.996 ms
+24  104.200.154.65 (104.200.154.65)  83.036 ms  81.878 ms  82.437 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.8 (216.182.229.8)  1.320 ms 216.182.229.14 (216.182.229.14)  1.510 ms  1.527 ms
+ 2  100.64.9.187 (100.64.9.187)  1.107 ms 100.64.2.85 (100.64.2.85)  0.917 ms 100.64.2.93 (100.64.2.93)  1.616 ms
+ 3  100.64.0.22 (100.64.0.22)  1.253 ms 100.64.0.98 (100.64.0.98)  1.511 ms 100.64.0.112 (100.64.0.112)  1.525 ms
+ 4  100.64.16.145 (100.64.16.145)  0.727 ms 100.64.16.7 (100.64.16.7)  0.593 ms 100.64.16.149 (100.64.16.149)  0.563 ms
+ 5  205.251.245.175 (205.251.245.175)  1.376 ms  1.398 ms  1.424 ms
+ 6  54.239.110.56 (54.239.110.56)  2.549 ms 54.239.110.22 (54.239.110.22)  21.063 ms 54.239.108.194 (54.239.108.194)  18.288 ms
+ 7  54.239.108.107 (54.239.108.107)  4.030 ms 54.239.108.179 (54.239.108.179)  1.102 ms 54.239.108.107 (54.239.108.107)  3.115 ms
+ 8  dca2-edge-01.inet.qwest.net (67.133.224.205)  1.126 ms ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.361 ms dca2-edge-02.inet.qwest.net (67.133.224.193)  1.669 ms
+ 9  ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.353 ms ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.295 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.244 ms
+10  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.658 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.812 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.251 ms
+11  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.290 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  8.426 ms  7.286 ms
+12  hu0-11-0-0.ccr41.dca01.atlas.cogentco.com (154.54.3.134)  2.936 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.656 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.116 ms
+13  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.915 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.277 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.703 ms
+14  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.148 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.822 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  38.934 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.645 ms  39.656 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  25.902 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.253 ms  51.067 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  50.647 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.304 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.895 ms  62.281 ms
+18  be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  83.288 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.295 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  83.297 ms
+19  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.653 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  83.963 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.459 ms
+20  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.958 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  85.023 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.079 ms
+21  154.24.42.226 (154.24.42.226)  83.832 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  87.109 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.327 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.270 ms  85.158 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.044 ms
+23  38.122.90.58 (38.122.90.58)  84.706 ms  84.276 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  87.305 ms
+24  104.200.154.65 (104.200.154.65)  83.763 ms  83.651 ms *
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.6 (216.182.229.6)  1.151 ms 216.182.229.14 (216.182.229.14)  1.244 ms 216.182.229.10 (216.182.229.10)  1.419 ms
+ 2  100.64.2.103 (100.64.2.103)  1.096 ms 100.64.9.3 (100.64.9.3)  1.417 ms 100.64.9.147 (100.64.9.147)  1.407 ms
+ 3  100.64.0.66 (100.64.0.66)  1.124 ms 100.64.0.12 (100.64.0.12)  1.394 ms 100.64.0.208 (100.64.0.208)  2.256 ms
+ 4  100.64.16.227 (100.64.16.227)  1.382 ms 100.64.16.21 (100.64.16.21)  0.668 ms 100.64.16.151 (100.64.16.151)  1.373 ms
+ 5  205.251.245.169 (205.251.245.169)  1.855 ms 205.251.245.175 (205.251.245.175)  1.395 ms 205.251.245.169 (205.251.245.169)  1.849 ms
+ 6  54.239.108.228 (54.239.108.228)  1.841 ms 54.239.108.58 (54.239.108.58)  1.782 ms 54.239.110.22 (54.239.110.22)  2.541 ms
+ 7  54.239.108.207 (54.239.108.207)  1.242 ms 54.239.109.119 (54.239.109.119)  1.531 ms 54.239.109.25 (54.239.109.25)  2.243 ms
+ 8  ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.668 ms dca2-edge-02.inet.qwest.net (72.165.86.89)  1.793 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.570 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  5.069 ms  2.443 ms  5.081 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.329 ms  2.601 ms  2.347 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.212 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.268 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.462 ms
+12  hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.755 ms hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  2.710 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  8.604 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.477 ms be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  7.742 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  36.565 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.458 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.560 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.630 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.347 ms  40.259 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.022 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.069 ms  51.095 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.438 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.611 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.383 ms  82.398 ms
+18  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  81.974 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  82.972 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.587 ms
+19  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.937 ms  85.368 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.387 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.914 ms 154.24.42.226 (154.24.42.226)  83.274 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  84.244 ms
+21  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.966 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  85.671 ms 154.24.42.222 (154.24.42.222)  84.074 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.794 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.396 ms  84.664 ms
+23  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.850 ms 38.122.90.58 (38.122.90.58)  83.378 ms  84.922 ms
+24  104.200.154.65 (104.200.154.65)  83.869 ms  83.419 ms  83.603 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.12 (216.182.229.12)  1.251 ms 216.182.229.8 (216.182.229.8)  1.048 ms 216.182.229.10 (216.182.229.10)  1.241 ms
+ 2  100.64.2.9 (100.64.2.9)  1.289 ms 100.64.9.225 (100.64.9.225)  2.760 ms 100.64.2.235 (100.64.2.235)  1.400 ms
+ 3  100.64.0.136 (100.64.0.136)  1.182 ms 100.64.0.0 (100.64.0.0)  1.208 ms 100.64.0.28 (100.64.0.28)  1.262 ms
+ 4  100.64.16.217 (100.64.16.217)  22.578 ms 100.64.16.131 (100.64.16.131)  0.539 ms 100.64.16.203 (100.64.16.203)  0.551 ms
+ 5  205.251.245.175 (205.251.245.175)  1.281 ms 205.251.245.169 (205.251.245.169)  1.544 ms  1.537 ms
+ 6  54.239.109.108 (54.239.109.108)  15.567 ms  15.006 ms 54.239.109.142 (54.239.109.142)  40.165 ms
+ 7  54.239.108.135 (54.239.108.135)  1.124 ms 54.239.109.151 (54.239.109.151)  1.469 ms 54.239.110.3 (54.239.110.3)  1.329 ms
+ 8  ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.506 ms ae-16.r05.asbnva02.us.bb.gin.ntt.net (168.143.232.49)  1.358 ms ae-11.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.25)  1.553 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  6.296 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.749 ms  1.643 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.473 ms  3.366 ms  3.779 ms
+11  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.737 ms  2.456 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.355 ms
+12  hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.747 ms  2.994 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.892 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.995 ms  23.971 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.113 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  24.105 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.108 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.805 ms
+15  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.769 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.411 ms  25.740 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.258 ms  52.651 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  41.965 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  63.265 ms  62.604 ms  62.809 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.618 ms  82.964 ms  82.502 ms
+19  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.801 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.477 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.186 ms
+20  154.24.42.222 (154.24.42.222)  84.477 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  84.736 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.576 ms
+21  154.24.42.226 (154.24.42.226)  84.521 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  87.104 ms  84.767 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.100 ms  83.980 ms 38.122.90.58 (38.122.90.58)  83.835 ms
+23  38.122.90.58 (38.122.90.58)  84.532 ms  83.979 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.455 ms
+24  104.200.154.65 (104.200.154.65)  84.281 ms  84.290 ms  84.395 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.4 (216.182.229.4)  1.245 ms 216.182.229.6 (216.182.229.6)  0.891 ms 216.182.229.12 (216.182.229.12)  0.939 ms
+ 2  100.64.9.173 (100.64.9.173)  1.497 ms 100.64.9.21 (100.64.9.21)  1.314 ms 100.64.9.129 (100.64.9.129)  1.089 ms
+ 3  100.64.0.74 (100.64.0.74)  1.441 ms 100.64.0.174 (100.64.0.174)  1.496 ms 100.64.0.104 (100.64.0.104)  1.493 ms
+ 4  100.64.16.73 (100.64.16.73)  0.587 ms 100.64.16.91 (100.64.16.91)  0.631 ms 100.64.16.203 (100.64.16.203)  0.632 ms
+ 5  205.251.245.169 (205.251.245.169)  1.637 ms 205.251.245.175 (205.251.245.175)  1.569 ms  1.622 ms
+ 6  54.239.108.126 (54.239.108.126)  1.637 ms 54.239.108.228 (54.239.108.228)  6.005 ms 54.239.109.142 (54.239.109.142)  12.930 ms
+ 7  54.239.109.15 (54.239.109.15)  1.184 ms 54.239.109.121 (54.239.109.121)  1.382 ms 54.239.109.87 (54.239.109.87)  1.362 ms
+ 8  ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.288 ms  1.249 ms dca2-edge-01.inet.qwest.net (65.120.78.81)  1.116 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.267 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  21.442 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  2.842 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.124 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.796 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.465 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.348 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.525 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.516 ms
+12  hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  3.344 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.255 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  3.338 ms
+13  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.612 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.917 ms  23.058 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.083 ms be2483.ccr22.cle04.atlas.cogentco.com (154.54.29.201)  25.636 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.647 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  38.700 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.028 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  53.321 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  53.028 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.698 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.928 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.263 ms  84.363 ms  83.425 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.414 ms  83.688 ms  83.691 ms
+19  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.785 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  82.642 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  86.791 ms
+20  154.24.42.222 (154.24.42.222)  84.571 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  85.101 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.393 ms
+21  154.24.42.222 (154.24.42.222)  85.653 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.922 ms 154.24.42.222 (154.24.42.222)  84.442 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.090 ms 38.122.90.58 (38.122.90.58)  84.923 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.270 ms
+23  38.122.90.58 (38.122.90.58)  84.971 ms  85.369 ms  85.296 ms
+24  104.200.154.65 (104.200.154.65)  83.957 ms  84.917 ms  83.082 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.164 ms 216.182.229.10 (216.182.229.10)  1.520 ms  1.515 ms
+ 2  100.64.9.145 (100.64.9.145)  1.535 ms 100.64.2.81 (100.64.2.81)  1.532 ms 100.64.2.77 (100.64.2.77)  1.524 ms
+ 3  100.64.0.70 (100.64.0.70)  1.717 ms 100.64.0.90 (100.64.0.90)  1.737 ms 100.64.0.102 (100.64.0.102)  1.745 ms
+ 4  100.64.16.133 (100.64.16.133)  0.505 ms 100.64.16.213 (100.64.16.213)  0.527 ms 100.64.16.81 (100.64.16.81)  0.822 ms
+ 5  205.251.245.169 (205.251.245.169)  2.852 ms  2.849 ms 205.251.245.175 (205.251.245.175)  1.423 ms
+ 6  54.239.108.194 (54.239.108.194)  25.079 ms  24.573 ms 54.239.109.244 (54.239.109.244)  23.461 ms
+ 7  54.239.110.3 (54.239.110.3)  1.358 ms 54.239.108.247 (54.239.108.247)  1.109 ms  1.091 ms
+ 8  ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.408 ms ae-16.r05.asbnva02.us.bb.gin.ntt.net (168.143.232.49)  1.479 ms  1.574 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.491 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  7.108 ms  7.083 ms
+10  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.561 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.486 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.670 ms
+11  ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.070 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.463 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.343 ms
+12  hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  3.089 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.231 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.158 ms
+13  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.085 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.603 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.798 ms
+14  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.459 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  22.519 ms  22.455 ms
+15  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  25.436 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.621 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.139 ms
+16  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  41.953 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.793 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  50.839 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  81.827 ms  81.658 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.608 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  81.925 ms  83.069 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.114 ms
+19  be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  85.184 ms  85.078 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.059 ms
+20  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.704 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  85.887 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.217 ms
+21  154.24.42.226 (154.24.42.226)  85.075 ms 154.24.42.222 (154.24.42.222)  84.345 ms 154.24.42.226 (154.24.42.226)  84.940 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.618 ms 154.24.42.222 (154.24.42.222)  86.837 ms  86.358 ms
+23  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.915 ms 104.200.154.65 (104.200.154.65)  83.848 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.015 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.12 (216.182.229.12)  1.278 ms 216.182.229.0 (216.182.229.0)  1.342 ms 216.182.229.8 (216.182.229.8)  1.186 ms
+ 2  100.64.2.219 (100.64.2.219)  1.334 ms 100.64.2.241 (100.64.2.241)  1.340 ms 100.64.2.77 (100.64.2.77)  1.071 ms
+ 3  100.64.0.68 (100.64.0.68)  1.558 ms 100.64.0.70 (100.64.0.70)  1.596 ms 100.64.0.152 (100.64.0.152)  1.418 ms
+ 4  100.64.16.27 (100.64.16.27)  0.562 ms 100.64.16.207 (100.64.16.207)  0.592 ms 100.64.16.135 (100.64.16.135)  0.582 ms
+ 5  205.251.245.175 (205.251.245.175)  1.387 ms  1.405 ms  1.423 ms
+ 6  54.239.109.108 (54.239.109.108)  2.201 ms 54.239.109.142 (54.239.109.142)  19.338 ms 54.239.109.108 (54.239.109.108)  24.852 ms
+ 7  54.239.108.105 (54.239.108.105)  1.200 ms 54.239.109.127 (54.239.109.127)  1.336 ms  1.319 ms
+ 8  dca2-edge-02.inet.qwest.net (72.165.86.89)  1.688 ms ae-11.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.25)  1.439 ms dca2-edge-02.inet.qwest.net (65.126.19.89)  1.627 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.736 ms  1.799 ms  1.745 ms
+10  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.686 ms  1.808 ms *
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.661 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.419 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.070 ms
+12  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  25.394 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.978 ms hu0-11-0-0.ccr41.dca01.atlas.cogentco.com (154.54.3.134)  2.373 ms
+13  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.487 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  132.868 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  22.599 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.766 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.553 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.293 ms
+15  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  50.941 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.681 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.392 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  50.719 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  42.887 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.479 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.315 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.299 ms  82.999 ms
+18  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  65.028 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.650 ms  83.795 ms
+19  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.588 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.633 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.648 ms
+20  154.24.42.222 (154.24.42.222)  83.766 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.453 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.864 ms
+21  154.24.42.226 (154.24.42.226)  83.449 ms 154.24.42.222 (154.24.42.222)  85.072 ms  84.639 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.391 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.041 ms 38.122.90.58 (38.122.90.58)  85.637 ms
+23  38.122.90.58 (38.122.90.58)  85.487 ms  85.098 ms 104.200.154.65 (104.200.154.65)  83.064 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.10 (216.182.229.10)  1.205 ms 216.182.229.8 (216.182.229.8)  0.995 ms 216.182.229.12 (216.182.229.12)  0.943 ms
+ 2  100.64.2.67 (100.64.2.67)  1.312 ms 100.64.9.177 (100.64.9.177)  1.080 ms 100.64.2.203 (100.64.2.203)  1.373 ms
+ 3  100.64.0.148 (100.64.0.148)  1.650 ms 100.64.0.26 (100.64.0.26)  1.168 ms 100.64.0.114 (100.64.0.114)  1.361 ms
+ 4  100.64.16.231 (100.64.16.231)  76.954 ms  76.954 ms 100.64.16.21 (100.64.16.21)  33.612 ms
+ 5  205.251.245.175 (205.251.245.175)  1.388 ms 205.251.245.169 (205.251.245.169)  2.122 ms  2.122 ms
+ 6  54.239.109.244 (54.239.109.244)  13.082 ms 54.239.110.56 (54.239.110.56)  7.137 ms 54.239.108.160 (54.239.108.160)  22.516 ms
+ 7  54.239.108.137 (54.239.108.137)  1.178 ms 54.239.108.75 (54.239.108.75)  1.111 ms 54.239.108.141 (54.239.108.141)  1.110 ms
+ 8  dca2-edge-01.inet.qwest.net (67.133.224.205)  2.544 ms ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.412 ms dca2-edge-01.inet.qwest.net (67.133.224.205)  1.151 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  8.716 ms ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.259 ms  1.273 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.504 ms  3.402 ms  3.777 ms
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.445 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.363 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.088 ms
+12  hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.957 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.989 ms  2.937 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.744 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.936 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.111 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.717 ms be2483.ccr22.cle04.atlas.cogentco.com (154.54.29.201)  25.464 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.349 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.705 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  50.780 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.446 ms
+16  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.606 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.925 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.900 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.647 ms  62.867 ms  62.299 ms
+18  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.111 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.203 ms  83.698 ms
+19  be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  83.807 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  85.088 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.118 ms
+20  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.851 ms 154.24.42.226 (154.24.42.226)  84.061 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  82.895 ms
+21  154.24.42.226 (154.24.42.226)  83.899 ms  84.331 ms 154.24.42.222 (154.24.42.222)  85.219 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.694 ms  85.971 ms 154.24.42.222 (154.24.42.222)  86.996 ms
+23  38.122.90.58 (38.122.90.58)  84.514 ms  84.705 ms 104.200.154.65 (104.200.154.65)  83.926 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.14 (216.182.229.14)  2.413 ms  2.557 ms  2.577 ms
+ 2  100.64.9.35 (100.64.9.35)  1.101 ms 100.64.9.37 (100.64.9.37)  1.386 ms 100.64.9.249 (100.64.9.249)  1.045 ms
+ 3  100.64.0.80 (100.64.0.80)  2.460 ms 100.64.0.168 (100.64.0.168)  1.718 ms 100.64.0.170 (100.64.0.170)  1.744 ms
+ 4  100.64.16.5 (100.64.16.5)  0.642 ms 100.64.16.65 (100.64.16.65)  0.670 ms 100.64.16.39 (100.64.16.39)  7.618 ms
+ 5  205.251.245.169 (205.251.245.169)  2.426 ms 205.251.245.175 (205.251.245.175)  1.953 ms  1.478 ms
+ 6  54.239.110.22 (54.239.110.22)  20.282 ms 54.239.109.176 (54.239.109.176)  19.705 ms 54.239.108.194 (54.239.108.194)  3.551 ms
+ 7  54.239.109.253 (54.239.109.253)  1.382 ms 54.239.108.209 (54.239.108.209)  1.618 ms 54.239.110.39 (54.239.110.39)  1.429 ms
+ 8  dca2-edge-01.inet.qwest.net (72.165.86.73)  1.100 ms ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.422 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.359 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.293 ms ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  2.848 ms  2.797 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.462 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.503 ms ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  8.395 ms
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.589 ms  3.638 ms hu0-11-0-0.ccr41.dca01.atlas.cogentco.com (154.54.3.134)  2.428 ms
+12  hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  3.166 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.288 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.582 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.735 ms  23.717 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.174 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.254 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  38.355 ms  38.725 ms
+15  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.429 ms  51.770 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.585 ms
+16  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  41.848 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.920 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.974 ms
+17  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.688 ms  82.909 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.649 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.590 ms  82.710 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.596 ms
+19  be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.616 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  86.411 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.354 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.228 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.254 ms 154.24.42.226 (154.24.42.226)  83.720 ms
+21  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  85.990 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  86.031 ms 154.24.42.226 (154.24.42.226)  84.695 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.913 ms  84.755 ms  84.049 ms
+23  38.122.90.58 (38.122.90.58)  84.882 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  87.088 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.518 ms
+24  104.200.154.65 (104.200.154.65)  85.128 ms  83.650 ms  84.090 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.14 (216.182.229.14)  1.716 ms 216.182.229.10 (216.182.229.10)  0.823 ms 216.182.229.6 (216.182.229.6)  1.106 ms
+ 2  100.64.2.133 (100.64.2.133)  1.282 ms 100.64.9.201 (100.64.9.201)  1.150 ms 100.64.2.187 (100.64.2.187)  1.284 ms
+ 3  100.64.0.224 (100.64.0.224)  1.654 ms  1.683 ms 100.64.0.228 (100.64.0.228)  1.674 ms
+ 4  100.64.16.9 (100.64.16.9)  33.881 ms 100.64.16.203 (100.64.16.203)  51.242 ms 100.64.16.31 (100.64.16.31)  13.605 ms
+ 5  205.251.245.175 (205.251.245.175)  1.690 ms 205.251.245.169 (205.251.245.169)  1.541 ms  2.571 ms
+ 6  54.239.109.244 (54.239.109.244)  73.364 ms 54.239.109.6 (54.239.109.6)  31.547 ms 54.239.109.176 (54.239.109.176)  65.791 ms
+ 7  54.239.109.185 (54.239.109.185)  1.349 ms 54.239.109.225 (54.239.109.225)  1.313 ms 54.239.109.193 (54.239.109.193)  1.344 ms
+ 8  ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.415 ms dca2-edge-02.inet.qwest.net (65.126.19.89)  1.612 ms ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.451 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  7.813 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  9.048 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  3.306 ms
+10  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.396 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.352 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.717 ms
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.423 ms  3.551 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.253 ms
+12  be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.446 ms hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  2.824 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.328 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.898 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.542 ms be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.804 ms
+14  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.185 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  38.402 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.183 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  46.890 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.292 ms  51.552 ms
+16  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  63.498 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  43.731 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.852 ms
+17  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  55.545 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.888 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.306 ms
+18  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.677 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.619 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  81.939 ms
+19  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.195 ms  85.921 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.732 ms
+20  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.247 ms 154.24.42.226 (154.24.42.226)  83.459 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.443 ms
+21  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.534 ms  84.220 ms 154.24.42.222 (154.24.42.222)  85.165 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.667 ms 38.122.90.58 (38.122.90.58)  85.032 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.565 ms
+23  38.122.90.58 (38.122.90.58)  85.128 ms  86.030 ms  84.523 ms
+24  104.200.154.65 (104.200.154.65)  83.243 ms  83.333 ms  83.448 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.14 (216.182.229.14)  1.124 ms 216.182.229.10 (216.182.229.10)  1.108 ms 216.182.229.8 (216.182.229.8)  1.407 ms
+ 2  100.64.2.195 (100.64.2.195)  1.888 ms 100.64.2.143 (100.64.2.143)  1.083 ms 100.64.9.125 (100.64.9.125)  1.082 ms
+ 3  100.64.0.130 (100.64.0.130)  2.211 ms 100.64.0.18 (100.64.0.18)  1.060 ms 100.64.0.134 (100.64.0.134)  2.259 ms
+ 4  100.64.16.163 (100.64.16.163)  0.524 ms 100.64.16.65 (100.64.16.65)  0.381 ms 100.64.16.81 (100.64.16.81)  0.389 ms
+ 5  205.251.245.169 (205.251.245.169)  1.353 ms 205.251.245.175 (205.251.245.175)  2.694 ms 205.251.245.169 (205.251.245.169)  1.346 ms
+ 6  54.239.109.244 (54.239.109.244)  21.259 ms  19.263 ms 54.239.109.142 (54.239.109.142)  29.228 ms
+ 7  54.239.108.41 (54.239.108.41)  1.194 ms 54.239.109.185 (54.239.109.185)  1.408 ms 54.239.108.239 (54.239.108.239)  1.186 ms
+ 8  ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.486 ms ae-11.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.25)  1.519 ms dca2-edge-02.inet.qwest.net (72.165.86.89)  1.843 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.507 ms  2.501 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  11.871 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.494 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.925 ms *
+11  hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.322 ms  2.259 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.262 ms
+12  hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  3.049 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.381 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  2.557 ms
+13  be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  7.915 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.473 ms  23.424 ms
+14  be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.911 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.113 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.234 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.583 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.145 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.124 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.869 ms  51.534 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.443 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.605 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.182 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.193 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.582 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.304 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.242 ms
+19  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.502 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.827 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  83.737 ms
+20  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.397 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  85.348 ms 154.24.42.222 (154.24.42.222)  83.757 ms
+21  154.24.42.226 (154.24.42.226)  84.569 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.464 ms 154.24.42.222 (154.24.42.222)  84.433 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.476 ms 154.24.42.222 (154.24.42.222)  86.615 ms 154.24.42.226 (154.24.42.226)  85.636 ms
+23  104.200.154.65 (104.200.154.65)  83.783 ms 38.122.90.58 (38.122.90.58)  83.650 ms  84.565 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.4 (216.182.229.4)  0.938 ms 216.182.229.0 (216.182.229.0)  1.131 ms 216.182.229.2 (216.182.229.2)  1.337 ms
+ 2  100.64.2.191 (100.64.2.191)  1.059 ms 100.64.9.227 (100.64.9.227)  1.247 ms 100.64.9.157 (100.64.9.157)  1.293 ms
+ 3  100.64.0.10 (100.64.0.10)  1.316 ms 100.64.0.88 (100.64.0.88)  1.710 ms 100.64.0.218 (100.64.0.218)  1.157 ms
+ 4  100.64.16.15 (100.64.16.15)  0.583 ms 100.64.16.141 (100.64.16.141)  0.619 ms 100.64.16.3 (100.64.16.3)  0.608 ms
+ 5  205.251.245.175 (205.251.245.175)  2.080 ms  2.088 ms  2.104 ms
+ 6  54.239.108.194 (54.239.108.194)  3.579 ms 54.239.108.58 (54.239.108.58)  14.843 ms 54.239.108.92 (54.239.108.92)  21.432 ms
+ 7  54.239.108.239 (54.239.108.239)  1.125 ms 54.239.108.209 (54.239.108.209)  1.130 ms 54.239.108.243 (54.239.108.243)  2.540 ms
+ 8  dca2-edge-01.inet.qwest.net (65.120.78.81)  1.256 ms  1.277 ms ae-11.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.25)  1.466 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  8.892 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.759 ms  1.870 ms
+10  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.695 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  5.762 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.888 ms
+11  hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  2.134 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.229 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.243 ms
+12  hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  3.297 ms  2.861 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.969 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  24.048 ms  23.527 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.251 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.224 ms be2483.ccr22.cle04.atlas.cogentco.com (154.54.29.201)  25.779 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.317 ms
+15  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  50.987 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  38.979 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.402 ms
+16  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.419 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.380 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.333 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.405 ms  60.766 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.944 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.426 ms  82.614 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  83.801 ms
+19  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.566 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.161 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  82.848 ms
+20  154.24.42.226 (154.24.42.226)  83.114 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.680 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  85.510 ms
+21  154.24.42.226 (154.24.42.226)  83.555 ms  83.043 ms 154.24.42.222 (154.24.42.222)  84.106 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.677 ms  85.693 ms 154.24.42.226 (154.24.42.226)  84.693 ms
+23  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.559 ms 38.122.90.58 (38.122.90.58)  85.796 ms  84.806 ms
+24  38.122.90.58 (38.122.90.58)  86.967 ms 104.200.154.65 (104.200.154.65)  84.240 ms 38.122.90.58 (38.122.90.58)  87.190 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.4 (216.182.229.4)  0.852 ms 216.182.229.10 (216.182.229.10)  1.473 ms 216.182.229.6 (216.182.229.6)  1.294 ms
+ 2  100.64.9.239 (100.64.9.239)  1.898 ms 100.64.9.169 (100.64.9.169)  1.175 ms 100.64.2.39 (100.64.2.39)  1.133 ms
+ 3  100.64.0.66 (100.64.0.66)  1.436 ms 100.64.0.38 (100.64.0.38)  1.453 ms 100.64.0.150 (100.64.0.150)  1.557 ms
+ 4  100.64.16.77 (100.64.16.77)  0.598 ms 100.64.16.229 (100.64.16.229)  0.635 ms 100.64.16.225 (100.64.16.225)  0.635 ms
+ 5  205.251.245.169 (205.251.245.169)  1.692 ms 205.251.245.175 (205.251.245.175)  1.403 ms 205.251.245.169 (205.251.245.169)  1.675 ms
+ 6  54.239.109.40 (54.239.109.40)  64.523 ms  63.939 ms 54.239.109.6 (54.239.109.6)  8.078 ms
+ 7  54.239.108.173 (54.239.108.173)  1.174 ms 54.239.109.17 (54.239.109.17)  1.187 ms 54.239.109.91 (54.239.109.91)  1.318 ms
+ 8  ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.344 ms  1.475 ms ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.453 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.128 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.547 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.698 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.238 ms  2.456 ms  3.880 ms
+11  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.398 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.419 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.222 ms
+12  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.269 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  2.876 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.598 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.000 ms  24.026 ms be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  7.866 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  24.080 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.841 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.531 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.699 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.672 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.978 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.846 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  42.680 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.134 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.500 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.395 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  53.218 ms
+18  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.502 ms  83.516 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  82.771 ms
+19  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  83.218 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.748 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.416 ms
+20  154.24.42.226 (154.24.42.226)  84.109 ms 154.24.42.222 (154.24.42.222)  84.638 ms 154.24.42.226 (154.24.42.226)  83.450 ms
+21  154.24.42.222 (154.24.42.222)  84.645 ms 154.24.42.226 (154.24.42.226)  84.241 ms  83.926 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.979 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.971 ms  84.397 ms
+23  38.122.90.58 (38.122.90.58)  83.898 ms  83.501 ms  84.112 ms
+24  38.122.90.58 (38.122.90.58)  86.216 ms 104.200.154.65 (104.200.154.65)  84.323 ms  84.143 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.4 (216.182.229.4)  1.063 ms 216.182.229.6 (216.182.229.6)  1.435 ms 216.182.229.0 (216.182.229.0)  1.319 ms
+ 2  100.64.9.231 (100.64.9.231)  2.008 ms 100.64.2.75 (100.64.2.75)  1.321 ms 100.64.9.23 (100.64.9.23)  1.438 ms
+ 3  100.64.0.74 (100.64.0.74)  1.061 ms 100.64.0.230 (100.64.0.230)  1.302 ms 100.64.0.240 (100.64.0.240)  1.340 ms
+ 4  100.64.16.165 (100.64.16.165)  0.696 ms 100.64.16.197 (100.64.16.197)  0.639 ms 100.64.16.163 (100.64.16.163)  0.667 ms
+ 5  205.251.245.169 (205.251.245.169)  1.724 ms  1.725 ms  1.784 ms
+ 6  54.239.108.228 (54.239.108.228)  28.577 ms 54.239.109.142 (54.239.109.142)  17.269 ms 54.239.108.58 (54.239.108.58)  14.710 ms
+ 7  54.239.108.111 (54.239.108.111)  1.168 ms 54.239.109.123 (54.239.109.123)  1.353 ms 54.239.108.37 (54.239.108.37)  1.210 ms
+ 8  dca-edge-20.inet.qwest.net (67.133.224.193)  1.708 ms ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.662 ms  1.768 ms
+ 9  ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.449 ms ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.395 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  39.387 ms
+10  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.839 ms ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  7.418 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.008 ms
+11  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.383 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.277 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  3.088 ms
+12  hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.713 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.567 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.293 ms
+13  be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.866 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.665 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.157 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.331 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.245 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.932 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.215 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.295 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.370 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.990 ms  51.921 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.358 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.970 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.311 ms  81.700 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.239 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  65.165 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.125 ms
+19  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.386 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.744 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.100 ms
+20  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.962 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  84.823 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.141 ms
+21  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.103 ms 154.24.42.226 (154.24.42.226)  83.575 ms 154.24.42.222 (154.24.42.222)  85.371 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.867 ms  85.153 ms 38.122.90.58 (38.122.90.58)  84.156 ms
+23  38.122.90.58 (38.122.90.58)  85.554 ms  84.760 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  86.552 ms
+24  104.200.154.65 (104.200.154.65)  84.201 ms  83.906 ms  83.132 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.612 ms 216.182.229.10 (216.182.229.10)  1.578 ms  1.573 ms
+ 2  100.64.2.127 (100.64.2.127)  1.385 ms 100.64.9.123 (100.64.9.123)  1.191 ms 100.64.9.247 (100.64.9.247)  1.551 ms
+ 3  100.64.0.252 (100.64.0.252)  1.567 ms 100.64.0.180 (100.64.0.180)  1.445 ms 100.64.0.24 (100.64.0.24)  2.013 ms
+ 4  100.64.16.21 (100.64.16.21)  0.635 ms 100.64.16.211 (100.64.16.211)  0.614 ms 100.64.16.103 (100.64.16.103)  0.632 ms
+ 5  205.251.245.175 (205.251.245.175)  1.499 ms  1.350 ms 205.251.245.169 (205.251.245.169)  1.673 ms
+ 6  54.239.109.108 (54.239.109.108)  13.882 ms 54.239.109.142 (54.239.109.142)  16.777 ms 54.239.110.22 (54.239.110.22)  25.508 ms
+ 7  54.239.108.141 (54.239.108.141)  1.275 ms 54.239.108.137 (54.239.108.137)  1.154 ms 54.239.109.117 (54.239.109.117)  1.260 ms
+ 8  ae-4.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.45)  1.556 ms ae-16.r05.asbnva02.us.bb.gin.ntt.net (168.143.232.49)  1.507 ms dca-edge-20.inet.qwest.net (67.133.224.193)  1.670 ms
+ 9  ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.693 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.088 ms  2.431 ms
+10  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.305 ms * be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.422 ms
+11  hu0-11-0-0.ccr41.dca01.atlas.cogentco.com (154.54.3.134)  2.369 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  2.357 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.284 ms
+12  hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.518 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.356 ms hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.963 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.899 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  22.743 ms  22.733 ms
+14  be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.961 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.615 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.158 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.490 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.452 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  25.289 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.917 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.441 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  42.996 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.227 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.644 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.374 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.530 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  63.957 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.940 ms
+19  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.283 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.541 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.558 ms
+20  154.24.42.226 (154.24.42.226)  83.297 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.297 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.203 ms
+21  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  85.743 ms 154.24.42.226 (154.24.42.226)  83.630 ms  84.479 ms
+22  38.122.90.58 (38.122.90.58)  84.410 ms 154.24.42.222 (154.24.42.222)  86.931 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.913 ms
+23  104.200.154.65 (104.200.154.65)  83.239 ms 38.122.90.58 (38.122.90.58)  85.439 ms  84.443 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.0 (216.182.229.0)  1.460 ms 216.182.229.12 (216.182.229.12)  1.183 ms 216.182.229.0 (216.182.229.0)  1.425 ms
+ 2  100.64.2.147 (100.64.2.147)  1.548 ms 100.64.9.109 (100.64.9.109)  1.404 ms 100.64.2.191 (100.64.2.191)  1.162 ms
+ 3  100.64.0.74 (100.64.0.74)  1.440 ms 100.64.0.2 (100.64.0.2)  1.814 ms 100.64.0.60 (100.64.0.60)  1.854 ms
+ 4  100.64.16.83 (100.64.16.83)  0.669 ms 100.64.16.69 (100.64.16.69)  0.676 ms 100.64.16.217 (100.64.16.217)  0.663 ms
+ 5  205.251.245.175 (205.251.245.175)  1.428 ms  1.427 ms 205.251.245.169 (205.251.245.169)  1.619 ms
+ 6  54.239.108.126 (54.239.108.126)  14.144 ms  13.231 ms 54.239.109.6 (54.239.109.6)  4.012 ms
+ 7  54.239.108.37 (54.239.108.37)  1.189 ms 54.239.108.213 (54.239.108.213)  2.630 ms 54.239.109.53 (54.239.109.53)  2.098 ms
+ 8  ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.290 ms dca2-edge-02.inet.qwest.net (72.165.86.89)  1.649 ms ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.446 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  3.232 ms dcp-brdr-04.inet.qwest.net (67.14.28.34)  10.419 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.555 ms
+10  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.425 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.447 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.671 ms
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.159 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.512 ms be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.618 ms
+12  hu0-10-0-1.ccr42.dca01.atlas.cogentco.com (154.54.25.198)  2.213 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  3.289 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  2.666 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.052 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.026 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.301 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.827 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  38.961 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.823 ms
+15  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  26.668 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.378 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  25.835 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.651 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.821 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  42.673 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.163 ms  63.211 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  63.271 ms
+18  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.326 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  65.297 ms be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.241 ms
+19  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.969 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  82.832 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.296 ms
+20  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.867 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.229 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.757 ms
+21  154.24.42.226 (154.24.42.226)  83.457 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  86.136 ms 154.24.42.226 (154.24.42.226)  82.971 ms
+22  38.122.90.58 (38.122.90.58)  84.230 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.902 ms 38.122.90.58 (38.122.90.58)  84.156 ms
+23  38.122.90.58 (38.122.90.58)  84.277 ms  85.011 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  87.011 ms
+24  104.200.154.65 (104.200.154.65)  83.413 ms  83.968 ms  84.352 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.4 (216.182.229.4)  0.915 ms 216.182.229.2 (216.182.229.2)  0.910 ms 216.182.229.12 (216.182.229.12)  1.056 ms
+ 2  100.64.2.3 (100.64.2.3)  1.862 ms 100.64.9.67 (100.64.9.67)  1.869 ms 100.64.9.249 (100.64.9.249)  1.286 ms
+ 3  100.64.0.224 (100.64.0.224)  1.846 ms 100.64.0.248 (100.64.0.248)  1.843 ms 100.64.0.0 (100.64.0.0)  1.248 ms
+ 4  100.64.16.7 (100.64.16.7)  0.559 ms 100.64.16.213 (100.64.16.213)  3.511 ms 100.64.16.145 (100.64.16.145)  0.580 ms
+ 5  205.251.245.169 (205.251.245.169)  1.821 ms  1.817 ms  1.606 ms
+ 6  54.239.109.74 (54.239.109.74)  21.340 ms 54.239.109.142 (54.239.109.142)  11.000 ms 54.239.108.160 (54.239.108.160)  9.135 ms
+ 7  54.239.108.177 (54.239.108.177)  1.202 ms 54.239.108.169 (54.239.108.169)  1.342 ms 54.239.109.17 (54.239.109.17)  1.648 ms
+ 8  ae-11.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.25)  1.397 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.252 ms dca2-edge-01.inet.qwest.net (67.133.224.205)  1.255 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.240 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.821 ms  1.918 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  3.739 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.997 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.482 ms
+11  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.249 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.212 ms hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.394 ms
+12  hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.384 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.252 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.098 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.011 ms be2057.ccr42.jfk02.atlas.cogentco.com (154.54.80.177)  8.851 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.155 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.543 ms  23.894 ms  23.121 ms
+15  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.477 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.904 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.122 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.411 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  52.788 ms  52.297 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  61.253 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.439 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.231 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  85.003 ms be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  83.255 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.279 ms
+19  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  82.476 ms  82.534 ms be2243.rcr12.sea05.atlas.cogentco.com (154.54.6.186)  84.647 ms
+20  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  86.203 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.985 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.026 ms
+21  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.715 ms 154.24.42.226 (154.24.42.226)  83.492 ms 154.24.42.222 (154.24.42.222)  84.986 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.004 ms  85.292 ms 154.24.42.222 (154.24.42.222)  86.966 ms
+23  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.855 ms 38.122.90.58 (38.122.90.58)  84.671 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.879 ms
+24  104.200.154.65 (104.200.154.65)  83.161 ms  83.655 ms  83.053 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.0 (216.182.229.0)  1.021 ms 216.182.229.2 (216.182.229.2)  1.395 ms 216.182.229.14 (216.182.229.14)  1.308 ms
+ 2  100.64.2.91 (100.64.2.91)  0.970 ms 100.64.9.119 (100.64.9.119)  1.420 ms 100.64.9.215 (100.64.9.215)  1.290 ms
+ 3  100.64.0.226 (100.64.0.226)  1.458 ms 100.64.0.142 (100.64.0.142)  1.195 ms 100.64.0.28 (100.64.0.28)  1.436 ms
+ 4  100.64.16.141 (100.64.16.141)  3.735 ms 100.64.16.97 (100.64.16.97)  0.574 ms 100.64.16.15 (100.64.16.15)  0.601 ms
+ 5  205.251.245.175 (205.251.245.175)  1.366 ms  1.411 ms  1.408 ms
+ 6  54.239.109.244 (54.239.109.244)  26.911 ms 54.239.108.92 (54.239.108.92)  55.751 ms 54.239.108.228 (54.239.108.228)  15.985 ms
+ 7  54.239.108.175 (54.239.108.175)  1.146 ms 54.239.109.157 (54.239.109.157)  1.325 ms 54.239.108.169 (54.239.108.169)  1.215 ms
+ 8  ae-24.r06.asbnva02.us.bb.gin.ntt.net (168.143.232.73)  1.437 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.452 ms dca2-edge-02.inet.qwest.net (72.165.86.89)  1.807 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.38)  10.262 ms  2.167 ms ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.405 ms
+10  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  2.412 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.578 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.575 ms
+11  be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  3.124 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.295 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.215 ms
+12  be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  7.607 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  3.235 ms hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  2.728 ms
+13  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.823 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.661 ms  23.849 ms
+14  be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  22.537 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.172 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.589 ms
+15  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.667 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.636 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.547 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.296 ms  51.102 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.047 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.893 ms  62.402 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.711 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.682 ms  82.474 ms  83.121 ms
+19  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  85.147 ms  85.054 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.686 ms
+20  te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.690 ms  83.515 ms 154.24.42.226 (154.24.42.226)  83.519 ms
+21  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.641 ms 154.24.42.222 (154.24.42.222)  85.109 ms 154.24.42.226 (154.24.42.226)  86.052 ms
+22  154.24.42.222 (154.24.42.222)  87.504 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.984 ms 38.122.90.58 (38.122.90.58)  84.546 ms
+23  38.122.90.58 (38.122.90.58)  85.039 ms  84.559 ms  84.792 ms
+24  104.200.154.65 (104.200.154.65)  84.109 ms 38.122.90.58 (38.122.90.58)  87.546 ms 104.200.154.65 (104.200.154.65)  84.249 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  1.162 ms  1.185 ms 216.182.229.10 (216.182.229.10)  0.963 ms
+ 2  100.64.2.125 (100.64.2.125)  2.058 ms 100.64.9.165 (100.64.9.165)  1.326 ms 100.64.2.49 (100.64.2.49)  0.944 ms
+ 3  100.64.0.36 (100.64.0.36)  1.631 ms 100.64.0.42 (100.64.0.42)  1.643 ms 100.64.0.10 (100.64.0.10)  1.661 ms
+ 4  100.64.16.229 (100.64.16.229)  0.525 ms 100.64.16.199 (100.64.16.199)  0.576 ms 100.64.16.89 (100.64.16.89)  1.482 ms
+ 5  205.251.245.175 (205.251.245.175)  1.716 ms 205.251.245.169 (205.251.245.169)  3.228 ms  3.224 ms
+ 6  54.239.110.22 (54.239.110.22)  24.916 ms 54.239.108.160 (54.239.108.160)  2.420 ms 54.239.109.74 (54.239.109.74)  10.756 ms
+ 7  54.239.109.223 (54.239.109.223)  1.453 ms 54.239.108.73 (54.239.108.73)  1.197 ms 54.239.109.223 (54.239.109.223)  1.444 ms
+ 8  ae-16.r05.asbnva02.us.bb.gin.ntt.net (168.143.232.49)  1.347 ms *  1.509 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.673 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.512 ms  1.494 ms
+10  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.940 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.316 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.176 ms
+11  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.084 ms be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  2.537 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.288 ms
+12  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.129 ms  23.011 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  3.062 ms
+13  be2056.ccr41.jfk02.atlas.cogentco.com (154.54.44.217)  7.798 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  25.134 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  22.747 ms
+14  be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  25.814 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  39.853 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.467 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.002 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.907 ms  39.355 ms
+16  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  60.747 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  51.429 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  60.976 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.251 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.852 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.095 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.081 ms  83.411 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  64.022 ms
+19  te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.473 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.035 ms  84.467 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  85.196 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.185 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  84.046 ms
+21  154.24.42.222 (154.24.42.222)  84.884 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  87.068 ms 154.24.42.226 (154.24.42.226)  82.747 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.143 ms  85.792 ms 38.122.90.58 (38.122.90.58)  84.562 ms
+23  104.200.154.65 (104.200.154.65)  83.320 ms 38.122.90.58 (38.122.90.58)  84.520 ms  85.198 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.2 (216.182.229.2)  0.929 ms 216.182.229.0 (216.182.229.0)  1.122 ms 216.182.229.8 (216.182.229.8)  1.068 ms
+ 2  100.64.2.135 (100.64.2.135)  2.052 ms 100.64.2.239 (100.64.2.239)  1.048 ms 100.64.9.189 (100.64.9.189)  1.833 ms
+ 3  100.64.0.162 (100.64.0.162)  1.626 ms 100.64.0.176 (100.64.0.176)  1.615 ms 100.64.0.86 (100.64.0.86)  1.442 ms
+ 4  100.64.16.69 (100.64.16.69)  0.534 ms 100.64.16.195 (100.64.16.195)  0.561 ms 100.64.16.67 (100.64.16.67)  0.612 ms
+ 5  205.251.245.175 (205.251.245.175)  1.399 ms 205.251.245.169 (205.251.245.169)  1.575 ms  1.576 ms
+ 6  54.239.110.56 (54.239.110.56)  15.328 ms 54.239.109.74 (54.239.109.74)  16.338 ms 54.239.108.126 (54.239.108.126)  2.017 ms
+ 7  54.239.108.103 (54.239.108.103)  1.189 ms 54.239.108.39 (54.239.108.39)  1.386 ms 54.239.108.41 (54.239.108.41)  1.207 ms
+ 8  dca2-edge-01.inet.qwest.net (67.133.224.205)  1.664 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.273 ms dca2-edge-02.inet.qwest.net (65.126.19.89)  1.834 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  2.543 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.475 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  11.447 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.232 ms  2.197 ms  2.412 ms
+11  be2177.ccr22.dca01.atlas.cogentco.com (154.54.41.206)  3.634 ms ae-1.r06.nycmny01.us.bb.gin.ntt.net (129.250.4.149)  7.218 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.883 ms
+12  hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  2.621 ms be3037.ccr21.jfk10.atlas.cogentco.com (154.54.12.145)  9.065 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  3.097 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  22.954 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  24.295 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  24.015 ms
+14  * be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.010 ms be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  26.014 ms
+15  * be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  744.159 ms *
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.537 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.515 ms be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.423 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.262 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  710.422 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.878 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  724.911 ms  725.568 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  64.606 ms
+19  te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  83.135 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  83.208 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  84.120 ms
+20  154.24.42.222 (154.24.42.222)  84.950 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  82.807 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.673 ms
+21  154.24.42.226 (154.24.42.226)  84.579 ms  83.390 ms 154.24.42.222 (154.24.42.222)  85.284 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.666 ms 38.122.90.58 (38.122.90.58)  84.392 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.358 ms
+23  38.122.90.58 (38.122.90.58)  84.433 ms 104.200.154.65 (104.200.154.65)  82.647 ms 38.122.90.58 (38.122.90.58)  84.801 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.8 (216.182.229.8)  1.250 ms 216.182.229.10 (216.182.229.10)  1.256 ms 216.182.229.8 (216.182.229.8)  1.249 ms
+ 2  100.64.9.35 (100.64.9.35)  0.952 ms 100.64.9.199 (100.64.9.199)  1.225 ms 100.64.9.83 (100.64.9.83)  1.374 ms
+ 3  100.64.0.34 (100.64.0.34)  1.100 ms 100.64.0.194 (100.64.0.194)  1.358 ms 100.64.0.108 (100.64.0.108)  1.762 ms
+ 4  100.64.16.223 (100.64.16.223)  0.541 ms 100.64.16.129 (100.64.16.129)  0.585 ms 100.64.16.159 (100.64.16.159)  0.602 ms
+ 5  205.251.245.169 (205.251.245.169)  1.623 ms  2.465 ms 205.251.245.175 (205.251.245.175)  1.316 ms
+ 6  54.239.109.6 (54.239.109.6)  30.639 ms 54.239.109.40 (54.239.109.40)  25.488 ms 54.239.110.22 (54.239.110.22)  28.527 ms
+ 7  54.239.109.195 (54.239.109.195)  1.296 ms 54.239.108.245 (54.239.108.245)  1.140 ms 54.239.108.203 (54.239.108.203)  1.263 ms
+ 8  dca2-edge-01.inet.qwest.net (65.120.78.81)  1.116 ms ae-23.r06.asbnva02.us.bb.gin.ntt.net (168.143.228.37)  1.413 ms ae-16.r05.asbnva02.us.bb.gin.ntt.net (168.143.232.49)  2.589 ms
+ 9  be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.848 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.577 ms be3050.ccr41.iad02.atlas.cogentco.com (154.54.12.249)  1.690 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.876 ms  2.601 ms  2.559 ms
+11  be2112.mpd22.dca01.atlas.cogentco.com (154.54.5.234)  3.181 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.212 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.956 ms
+12  hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  3.066 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.142 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  2.846 ms
+13  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  22.698 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.748 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.712 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  24.142 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  38.863 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.314 ms
+15  be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.376 ms  40.599 ms  39.857 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.389 ms  51.233 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  61.206 ms
+17  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  54.673 ms  54.304 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.705 ms
+18  be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  83.313 ms  83.506 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.730 ms
+19  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.793 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  84.502 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.515 ms
+20  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  86.779 ms 154.24.42.226 (154.24.42.226)  83.325 ms te0-0-2-0.rcr12.sea03.atlas.cogentco.com (154.54.41.146)  82.387 ms
+21  154.24.42.222 (154.24.42.222)  85.715 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  84.926 ms 154.24.42.226 (154.24.42.226)  83.247 ms
+22  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.375 ms 38.122.90.58 (38.122.90.58)  83.998 ms  83.554 ms
+23  38.122.90.58 (38.122.90.58)  83.316 ms  83.586 ms  83.382 ms
+24  104.200.154.65 (104.200.154.65)  83.860 ms  83.248 ms  83.809 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.8 (216.182.229.8)  1.748 ms 216.182.229.14 (216.182.229.14)  1.379 ms 216.182.229.8 (216.182.229.8)  1.715 ms
+ 2  100.64.9.187 (100.64.9.187)  1.369 ms 100.64.9.81 (100.64.9.81)  1.524 ms 100.64.9.15 (100.64.9.15)  1.841 ms
+ 3  100.64.0.22 (100.64.0.22)  1.089 ms 100.64.0.182 (100.64.0.182)  1.465 ms 100.64.0.242 (100.64.0.242)  1.115 ms
+ 4  100.64.16.129 (100.64.16.129)  0.608 ms 100.64.16.27 (100.64.16.27)  0.648 ms 100.64.16.151 (100.64.16.151)  0.757 ms
+ 5  205.251.245.169 (205.251.245.169)  2.564 ms 205.251.245.175 (205.251.245.175)  1.495 ms  1.525 ms
+ 6  54.239.108.228 (54.239.108.228)  15.823 ms 54.239.108.92 (54.239.108.92)  8.256 ms 54.239.109.244 (54.239.109.244)  21.031 ms
+ 7  54.239.110.39 (54.239.110.39)  1.411 ms 54.239.108.69 (54.239.108.69)  0.997 ms 54.239.110.35 (54.239.110.35)  1.276 ms
+ 8  ae-11.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.25)  1.364 ms dca2-edge-02.inet.qwest.net (65.126.19.89)  1.659 ms dca2-edge-01.inet.qwest.net (72.165.86.73)  1.185 ms
+ 9  dcp-brdr-04.inet.qwest.net (67.14.28.34)  4.977 ms dcp-brdr-04.inet.qwest.net (67.14.28.38)  2.450 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.566 ms
+10  be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  2.302 ms ae-8.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.148)  26.380 ms be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.222 ms
+11  hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.273 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.910 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.075 ms
+12  hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  2.565 ms hu0-11-0-1.ccr42.dca01.atlas.cogentco.com (154.54.27.18)  4.282 ms hu0-10-0-0.ccr42.dca01.atlas.cogentco.com (154.54.7.158)  2.735 ms
+13  be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.940 ms be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.383 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  22.756 ms
+14  be2482.ccr21.cle04.atlas.cogentco.com (154.54.27.157)  26.083 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  23.482 ms  24.842 ms
+15  be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  40.472 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.291 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  40.757 ms
+16  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  52.134 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  62.562 ms be2157.ccr22.mci01.atlas.cogentco.com (154.54.6.117)  42.862 ms
+17  be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  63.088 ms  62.687 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  82.015 ms
+18  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  63.371 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  81.813 ms be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  83.457 ms
+19  be2083.ccr21.sea01.atlas.cogentco.com (154.54.0.249)  82.378 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  83.027 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.425 ms
+20  154.24.42.222 (154.24.42.222)  86.235 ms te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  85.311 ms te0-0-2-0.rcr11.sea03.atlas.cogentco.com (154.54.41.142)  83.417 ms
+21  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  83.885 ms 154.24.42.222 (154.24.42.222)  86.244 ms 154.24.42.226 (154.24.42.226)  82.767 ms
+22  te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.626 ms  85.486 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  85.116 ms
+23  38.122.90.58 (38.122.90.58)  85.127 ms  84.903 ms 104.200.154.65 (104.200.154.65)  82.376 ms
+traceroute to 104.200.154.65 (104.200.154.65), 30 hops max, 60 byte packets
+ 1  216.182.229.6 (216.182.229.6)  0.905 ms 216.182.229.2 (216.182.229.2)  1.321 ms 216.182.229.0 (216.182.229.0)  1.495 ms
+ 2  100.64.2.225 (100.64.2.225)  1.594 ms 100.64.2.3 (100.64.2.3)  1.056 ms 100.64.9.229 (100.64.9.229)  1.329 ms
+ 3  100.64.0.108 (100.64.0.108)  1.836 ms 100.64.0.74 (100.64.0.74)  1.835 ms 100.64.0.68 (100.64.0.68)  1.858 ms
+ 4  100.64.16.223 (100.64.16.223)  0.594 ms 100.64.16.77 (100.64.16.77)  0.617 ms 100.64.16.143 (100.64.16.143)  0.657 ms
+ 5  205.251.245.175 (205.251.245.175)  1.377 ms 205.251.245.169 (205.251.245.169)  1.591 ms 205.251.245.175 (205.251.245.175)  1.782 ms
+ 6  54.239.108.160 (54.239.108.160)  3.164 ms 54.239.110.56 (54.239.110.56)  24.429 ms 54.239.108.160 (54.239.108.160)  14.646 ms
+ 7  54.239.109.119 (54.239.109.119)  1.389 ms 54.239.109.193 (54.239.109.193)  1.395 ms 54.239.108.143 (54.239.108.143)  1.188 ms
+ 8  dca2-edge-01.inet.qwest.net (67.133.224.205)  1.180 ms ae-10.r05.asbnva02.us.bb.gin.ntt.net (168.143.191.17)  1.544 ms dca2-edge-02.inet.qwest.net (67.133.224.193)  1.719 ms
+ 9  ae-3.r22.asbnva02.us.bb.gin.ntt.net (129.250.6.112)  1.264 ms  1.286 ms ae-12.r05.asbnva02.us.bb.gin.ntt.net (129.250.7.28)  1.367 ms
+10  be3045.ccr41.iad02.atlas.cogentco.com (154.54.11.129)  2.209 ms  2.147 ms be2176.ccr21.dca01.atlas.cogentco.com (154.54.41.54)  2.386 ms
+11  hu0-11-0-0.ccr42.dca01.atlas.cogentco.com (154.54.24.222)  2.241 ms be2113.mpd21.dca01.atlas.cogentco.com (154.54.6.170)  3.189 ms hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  2.260 ms
+12  hu0-11-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.26)  3.094 ms hu0-10-0-1.ccr41.dca01.atlas.cogentco.com (154.54.7.14)  2.762 ms hu0-10-0-0.ccr41.dca01.atlas.cogentco.com (154.54.1.14)  3.259 ms
+13  be2484.ccr21.cle04.atlas.cogentco.com (154.54.29.221)  23.837 ms be2486.ccr22.cle04.atlas.cogentco.com (154.54.30.161)  23.962 ms be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.606 ms
+14  be2351.ccr41.ord01.atlas.cogentco.com (154.54.44.85)  23.053 ms  22.748 ms be2156.ccr21.mci01.atlas.cogentco.com (154.54.6.85)  39.544 ms
+15  be2130.ccr22.den01.atlas.cogentco.com (154.54.26.121)  50.988 ms be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  50.824 ms be2185.ccr42.ord01.atlas.cogentco.com (154.54.43.177)  25.106 ms
+16  be2128.ccr21.den01.atlas.cogentco.com (154.54.25.173)  51.280 ms  51.687 ms  51.964 ms
+17  be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  63.092 ms be2127.ccr21.slc01.atlas.cogentco.com (154.54.25.70)  63.532 ms be2126.ccr21.slc01.atlas.cogentco.com (154.54.25.66)  62.962 ms
+18  be2084.ccr22.sea01.atlas.cogentco.com (154.54.0.253)  82.264 ms be2085.ccr21.sea02.atlas.cogentco.com (154.54.2.197)  84.049 ms  83.572 ms
+19  be2481.rcr11.sea05.atlas.cogentco.com (154.54.25.130)  84.517 ms  85.076 ms  85.014 ms
+20  te0-0-2-3.rcr12.sea03.atlas.cogentco.com (154.54.1.209)  85.038 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  84.969 ms 154.24.42.226 (154.24.42.226)  83.289 ms
+21  154.24.42.222 (154.24.42.222)  84.955 ms te0-0-2-3.rcr11.sea03.atlas.cogentco.com (154.54.1.185)  86.886 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  84.941 ms
+22  38.122.90.58 (38.122.90.58)  84.563 ms te0-0-2-0.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.38)  85.237 ms 38.122.90.58 (38.122.90.58)  83.996 ms
+23  te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.774 ms 38.122.90.58 (38.122.90.58)  84.979 ms te0-0-2-3.nr11.b022847-1.sea03.atlas.cogentco.com (154.24.11.42)  86.511 ms
+24  104.200.154.65 (104.200.154.65)  82.730 ms  82.572 ms  83.609 ms

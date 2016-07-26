@@ -1,0 +1,3 @@
+traceroute to 218.54.77.88 (218.54.77.88), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  9.806 ms * *
+ 2  * * *

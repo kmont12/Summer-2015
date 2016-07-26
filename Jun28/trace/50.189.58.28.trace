@@ -1,0 +1,20 @@
+traceroute to 50.189.58.28 (50.189.58.28), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 64.15.2.70 (64.15.2.70)  18.821 ms  19.710 ms
+ 7  64.15.0.198 (64.15.0.198)  43.297 ms  43.734 ms  44.149 ms
+ 8  c-eth-0-3-0-pe05.350ecermak.il.ibone.comcast.net (68.86.86.38)  39.934 ms  41.184 ms  40.460 ms
+ 9  he-2-0-0-0-cr01.350ecermak.il.ibone.comcast.net (68.86.86.33)  42.213 ms  41.691 ms  42.688 ms
+10  be-7922-ar01.woburn.ma.boston.comcast.net (68.86.91.6)  54.343 ms  53.301 ms  53.797 ms
+11  he-0-15-0-0-ar01.needham.ma.boston.comcast.net (69.139.221.201)  49.049 ms  49.515 ms *
+12  be-49-sur01.springfield.ma.boston.comcast.net (68.85.69.14)  53.671 ms  54.316 ms  54.949 ms
+13  68.85.185.50 (68.85.185.50)  51.771 ms te-1-0-0-ten03.springfield.ma.boston.comcast.net (68.85.185.182)  52.401 ms  52.910 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  *

@@ -1,0 +1,11 @@
+traceroute to 59.46.164.222 (59.46.164.222), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  17.908 ms  19.194 ms  21.165 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  31.253 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  34.658 ms  35.364 ms
+ 5  65.19.119.209 (65.19.119.209)  20.101 ms 64.15.7.57 (64.15.7.57)  26.996 ms 65.19.119.197 (65.19.119.197)  33.044 ms
+ 6  451be0ea.cst.lightpath.net (65.19.120.234)  35.925 ms * 451be0de.cst.lightpath.net (65.19.120.222)  34.516 ms
+ 7  * * *
+ 8  ae-2-70.edge2.SanJose3.Level3.net (4.69.152.81)  165.118 ms ae-3-80.edge2.SanJose3.Level3.net (4.69.152.145)  162.162 ms *
+ 9  ae-3-80.edge2.SanJose3.Level3.net (4.69.152.145)  161.550 ms ae-1-60.edge2.SanJose3.Level3.net (4.69.152.17)  167.587 ms ae-3-80.edge2.SanJose3.Level3.net (4.69.152.145)  156.669 ms
+10  4.53.210.114 (4.53.210.114)  158.122 ms  158.077 ms CHINA-TELEC.edge2.SanJose3.Level3.net (4.53.210.206)  156.080 ms

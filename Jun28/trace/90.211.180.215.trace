@@ -1,0 +1,16 @@
+traceroute to 90.211.180.215 (90.211.180.215), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  451be0ea.cst.lightpath.net (65.19.120.234)  35.156 ms * 64.15.0.86 (64.15.0.86)  25.928 ms
+ 7  * * *
+ 8  ae-237-3613.edge6.London1.Level3.net (4.69.166.81)  101.595 ms  100.648 ms ae-239-3615.edge6.London1.Level3.net (4.69.166.89)  102.269 ms
+ 9  ae-237-3613.edge6.London1.Level3.net (4.69.166.81)  99.238 ms  102.921 ms ae-239-3615.edge6.London1.Level3.net (4.69.166.89)  106.057 ms
+10  unknown.Level3.net (212.113.9.54)  108.269 ms  108.807 ms  109.331 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  *

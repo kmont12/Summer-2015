@@ -1,0 +1,18 @@
+traceroute to 24.13.92.159 (24.13.92.159), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 64.15.3.226 (64.15.3.226)  16.962 ms  17.982 ms
+ 7  * * *
+ 8  he-1-14-0-0-cr01.newyork.ny.ibone.comcast.net (68.86.87.109)  19.729 ms  19.104 ms  20.220 ms
+ 9  be-10206-cr01.350ecermak.il.ibone.comcast.net (68.86.86.226)  38.071 ms  38.546 ms  36.973 ms
+10  be-7922-ar01.area4.il.chicago.comcast.net (68.86.91.166)  41.934 ms  42.954 ms  42.440 ms
+11  te-0-0-0-1-sur03.elmhurst.il.chicago.comcast.net (69.139.185.190)  39.002 ms  39.484 ms  42.050 ms
+12  te-6-1-acr14.elmhurst.il.chicago.comcast.net (162.151.35.30)  41.432 ms te-6-0-acr14.elmhurst.il.chicago.comcast.net (162.151.35.26)  36.100 ms  43.010 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  *

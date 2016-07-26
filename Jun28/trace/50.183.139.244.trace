@@ -1,0 +1,31 @@
+traceroute to 50.183.139.244 (50.183.139.244), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  13.192 ms  13.902 ms  14.359 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  16.886 ms  17.058 ms  17.231 ms
+ 5  64.15.7.41 (64.15.7.41)  15.470 ms  16.162 ms  16.603 ms
+ 6  64.15.2.70 (64.15.2.70)  17.511 ms  13.155 ms  13.776 ms
+ 7  64.15.0.198 (64.15.0.198)  52.370 ms  54.838 ms  56.029 ms
+ 8  c-eth-0-3-0-pe05.350ecermak.il.ibone.comcast.net (68.86.86.38)  54.957 ms  55.005 ms  54.359 ms
+ 9  he-2-1-0-0-cr01.350ecermak.il.ibone.comcast.net (68.86.86.37)  54.844 ms he-2-0-0-0-cr01.350ecermak.il.ibone.comcast.net (68.86.86.33)  54.879 ms he-2-1-0-0-cr01.350ecermak.il.ibone.comcast.net (68.86.86.37)  46.655 ms
+10  be-10617-cr02.denver.co.ibone.comcast.net (68.86.85.170)  60.763 ms  60.765 ms  64.048 ms
+11  et-9-3-0-0-ar01.aurora.co.denver.comcast.net (68.86.93.154)  72.461 ms  73.308 ms  74.568 ms
+12  ae-0-0-sur02.greeley.co.denver.comcast.net (68.86.103.98)  62.195 ms  62.818 ms  62.385 ms
+13  te-6-0-acr03.greeley.co.denver.comcast.net (68.85.220.202)  61.367 ms  62.640 ms  61.903 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

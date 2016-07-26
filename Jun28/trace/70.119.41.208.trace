@@ -1,0 +1,31 @@
+traceroute to 70.119.41.208 (70.119.41.208), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  18.947 ms  19.578 ms  19.876 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  33.943 ms * *
+ 5  * * *
+ 6  * * *
+ 7  * 64.15.0.196 (64.15.0.196)  23.519 ms *
+ 8  * * *
+ 9  bu-ether38.asbnva1611w-bcr00.tbone.rr.com (66.109.1.112)  62.872 ms  62.897 ms bu-ether28.asbnva1611w-bcr00.tbone.rr.com (107.14.17.203)  60.937 ms
+10  bu-ether12.atlngamq47w-bcr01.tbone.rr.com (66.109.6.32)  61.662 ms  62.753 ms  61.800 ms
+11  bu-ether11.atlngamq46w-bcr00.tbone.rr.com (66.109.6.34)  62.765 ms bu-ether21.atlngamq46w-bcr00.tbone.rr.com (107.14.19.8)  61.733 ms bu-ether11.atlngamq46w-bcr00.tbone.rr.com (66.109.6.34)  66.253 ms
+12  bu-ether22.hstqtx0209w-bcr00.tbone.rr.com (66.109.1.44)  61.669 ms bu-ether12.hstqtx0209w-bcr00.tbone.rr.com (66.109.6.36)  61.591 ms  61.643 ms
+13  66.109.6.109 (66.109.6.109)  65.725 ms  124.544 ms  127.544 ms
+14  agg1.dllbtxlb02r.texas.rr.com (24.175.49.9)  134.403 ms  134.335 ms  134.409 ms
+15  agg1.plantxmp02r.texas.rr.com (24.175.36.185)  131.793 ms  130.455 ms  133.251 ms
+16  agg1.plantxmp02h.texas.rr.com (24.175.50.40)  150.230 ms  150.209 ms *
+17  * 24.164.209.130 (24.164.209.130)  124.104 ms  50.035 ms
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

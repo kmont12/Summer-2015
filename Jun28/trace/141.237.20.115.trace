@@ -1,0 +1,5 @@
+traceroute to 141.237.20.115 (141.237.20.115), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  27.917 ms * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  40.600 ms  41.051 ms  41.881 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  44.241 ms  44.619 ms

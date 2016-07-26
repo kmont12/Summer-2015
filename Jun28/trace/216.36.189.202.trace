@@ -1,0 +1,17 @@
+traceroute to 216.36.189.202 (216.36.189.202), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  17.544 ms  17.630 ms  17.726 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  19.478 ms  19.925 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  20.790 ms
+ 5  65.19.119.213 (65.19.119.213)  23.462 ms  24.517 ms  24.947 ms
+ 6  451be0de.cst.lightpath.net (65.19.120.222)  27.731 ms  18.626 ms 64.15.0.86 (64.15.0.86)  18.181 ms
+ 7  * * *
+ 8  be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  23.018 ms 154.54.40.29 (154.54.40.29)  19.501 ms be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  24.687 ms
+ 9  be2106.ccr21.alb02.atlas.cogentco.com (154.54.3.50)  28.900 ms  28.080 ms be2107.ccr22.alb02.atlas.cogentco.com (154.54.3.94)  26.882 ms
+10  be2107.ccr22.alb02.atlas.cogentco.com (154.54.3.94)  25.665 ms  24.367 ms be2436.ccr21.yyz02.atlas.cogentco.com (66.28.4.30)  36.153 ms
+11  te0-0-2-0.rcr13.b011027-3.yyz02.atlas.cogentco.com (66.28.4.166)  34.379 ms  33.561 ms be2437.ccr22.yyz02.atlas.cogentco.com (66.28.4.198)  38.477 ms
+12  Westman.demarc.cogentco.com (38.104.158.118)  62.077 ms  62.068 ms te0-0-2-0.rcr13.b011027-3.yyz02.atlas.cogentco.com (66.28.4.166)  102.542 ms
+13  vlan425.towerswitch.bdn.westmancom.com (216.36.129.94)  118.077 ms  115.346 ms *
+14  vlan425.towerswitch.bdn.westmancom.com (216.36.129.94)  102.592 ms *  79.209 ms
+15  * * *
+16  * *

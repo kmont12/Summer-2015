@@ -1,0 +1,11 @@
+traceroute to 41.162.29.20 (41.162.29.20), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  16.163 ms  17.385 ms  18.475 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  21.688 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  22.314 ms  22.964 ms
+ 5  65.19.119.213 (65.19.119.213)  20.250 ms  20.974 ms 64.15.7.49 (64.15.7.49)  19.351 ms
+ 6  64.15.2.74 (64.15.2.74)  23.591 ms  15.961 ms  20.054 ms
+ 7  * * *
+ 8  ae-1-51.edge1.NewYork2.Level3.net (4.69.138.194)  21.502 ms ae-2-52.edge1.NewYork2.Level3.net (4.69.138.226)  33.824 ms ae-3-80.edge2.Washington4.Level3.net (4.69.149.144)  35.035 ms
+ 9  ae-1-51.edge1.NewYork2.Level3.net (4.69.138.194)  33.622 ms ae-1-60.edge2.Washington4.Level3.net (4.69.149.16)  34.343 ms ae-4-90.edge2.Washington4.Level3.net (4.69.149.208)  134.597 ms
+10  ix-21-0.tcore2.AEQ-Ashburn.as6453.net (216.6.87.65)  131.663 ms

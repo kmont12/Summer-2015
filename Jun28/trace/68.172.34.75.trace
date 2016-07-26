@@ -1,0 +1,279 @@
+traceroute to 68.172.34.75 (68.172.34.75), 30 hops max, 60 byte packetstraceroute to 68.172.34.75 (68.172.34.75), 30 hops max, 60 byte packetstraceroute to 68.172.34.75 (68.172.34.75), 30 hops max, 60 byte packetstraceroute to 68.172.34.75 (68.172.34.75), 30 hops max, 60 byte packetstraceroute to 68.172.34.75 (68.172.34.75), 30 hops max, 60 byte packetstraceroute to 68.172.34.75 (68.172.34.75), 30 hops max, 60 byte packetstraceroute to 68.172.34.75 (68.172.34.75), 30 hops max, 60 byte packetstraceroute to 68.172.34.75 (68.172.34.75), 30 hops max, 60 byte packets
+ 1  router.asus.com (192.168.1.1)  1.111 mstraceroute to 68.172.34.75 (68.172.34.75), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 1  * * *
+ 2  * * *
+ 1  * *
+ 1  * * *
+ 2  * * *
+ 2  * * * *
+ 1  * * *
+ 2  *
+ 1  * * * * *
+ 2  * * *
+ 1  * * *
+ 2  * * *
+ 1  * * * * *
+ 2  *
+ 2  * * * * *
+ 3  67.59.229.205 (67.59.229.205)  15.075 ms  15.572 ms  15.976 ms
+ 3  67.59.229.205 (67.59.229.205)  22.552 ms  22.979 ms  23.334 ms
+ 3  67.59.229.205 (67.59.229.205)  13.321 ms  13.642 ms  24.400 ms
+ 3  67.59.229.205 (67.59.229.205)  22.238 ms  23.032 ms  23.689 ms
+ 3  67.59.229.205 (67.59.229.205)  25.378 ms  25.697 ms  25.988 ms
+ 3  67.59.229.205 (67.59.229.205)  18.994 ms  19.629 ms  19.941 ms
+ 3  67.59.229.205 (67.59.229.205)  13.900 ms  14.179 ms  14.446 ms
+ 3  67.59.229.205 (67.59.229.205)  23.091 ms  23.321 ms *
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  18.751 ms  19.098 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  25.211 ms  25.480 ms  25.733 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  29.304 ms  29.627 ms  29.960 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  28.577 ms  29.441 ms  29.724 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  26.669 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  22.448 ms  22.981 ms  23.751 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  20.679 ms
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  24.767 ms  25.002 ms  25.239 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  17.477 ms
+ 5  65.19.119.213 (65.19.119.213)  24.892 ms
+ 5  65.19.119.193 (65.19.119.193)  27.738 ms  28.279 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  26.856 ms  34.434 ms
+ 5  64.15.7.49 (64.15.7.49)  28.227 ms
+ 5  64.15.7.57 (64.15.7.57)  20.524 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  21.138 ms
+ 5  65.19.119.213 (65.19.119.213)  25.711 ms
+ 5  65.19.119.213 (65.19.119.213)  16.517 ms * 65.19.119.209 (65.19.119.209)  24.581 ms 64.15.7.49 (64.15.7.49)  28.812 ms
+ 5  64.15.7.33 (64.15.7.33)  38.762 ms 65.19.119.193 (65.19.119.193)  27.579 ms 64.15.7.41 (64.15.7.41)  21.048 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  20.892 ms 64.15.7.41 (64.15.7.41)  24.257 ms 64.15.7.57 (64.15.7.57)  18.215 ms 65.19.119.213 (65.19.119.213)  28.325 ms
+ 6  r1-gig1-0-0.in.nycmnyzr.cv.net (64.15.0.30)  32.959 ms  36.659 ms  37.292 ms
+ 7  * 64.15.7.49 (64.15.7.49)  26.414 ms 64.15.7.33 (64.15.7.33)  27.884 ms 64.15.7.57 (64.15.7.57)  20.774 ms
+ 5  65.19.119.213 (65.19.119.213)  24.222 ms 65.19.119.197 (65.19.119.197)  24.484 ms
+ 6  r1-gig1-0-0.in.nycmnyzr.cv.net (64.15.0.30)  19.360 ms  36.246 ms  36.586 ms
+ 6  r1-gig1-0-0.in.nycmnyzr.cv.net (64.15.0.30)  28.816 ms 0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  26.126 ms  28.108 ms
+ 6  r1-gig1-0-0.in.nycmnyzr.cv.net (64.15.0.30)  30.229 ms 64.15.7.57 (64.15.7.57)  36.528 ms
+ 6  64.15.3.250 (64.15.3.250)  23.936 ms  28.142 ms  27.739 ms 65.19.119.209 (65.19.119.209)  24.690 ms
+ 6  64.15.3.250 (64.15.3.250)  25.444 ms
+ 7  0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  32.833 ms  31.132 ms  32.859 ms
+ 8  bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  31.285 ms  29.952 ms 64.15.3.238 (64.15.3.238)  26.151 ms 64.15.3.238 (64.15.3.238)  31.797 ms
+ 6  64.15.3.238 (64.15.3.238)  37.779 ms  30.609 ms  28.489 ms
+ 7  0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  26.403 ms  26.119 ms  25.233 ms r1-gig1-0-0.in.nycmnyzr.cv.net (64.15.0.30)  27.335 ms  27.621 ms 65.19.119.213 (65.19.119.213)  24.435 ms
+ 8  bu-ether27.nycmny837aw-bcr00.tbone.rr.com (107.14.17.219)  30.573 ms  31.422 ms  30.930 ms bu-ether27.nycmny837aw-bcr00.tbone.rr.com (107.14.17.219)  28.965 ms r1-gig1-0-0.in.nycmnyzr.cv.net (64.15.0.30)  26.232 ms 64.15.3.250 (64.15.3.250)  31.897 ms
+ 7  0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  26.621 ms  27.276 ms  26.266 ms
+ 8  bu-ether27.nycmny837aw-bcr00.tbone.rr.com (107.14.17.219)  26.570 ms  25.695 ms
+ 7  0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  25.585 ms  27.570 ms  27.052 ms
+ 6  64.15.3.250 (64.15.3.250)  24.898 ms
+ 7  0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  27.030 ms  28.218 ms  28.159 ms
+ 7  0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  28.751 ms  31.555 ms  30.432 ms
+ 9  be41.albynyyf00r.nyroc.rr.com (107.14.19.27)  55.541 ms *  35.748 ms
+ 8  bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  29.984 ms  40.647 ms bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  24.945 ms
+ 8  bu-ether27.nycmny837aw-bcr00.tbone.rr.com (107.14.17.219)  27.896 ms  27.117 ms 64.15.3.238 (64.15.3.238)  50.089 ms  51.910 ms
+ 8  bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  35.193 ms
+ 9  be5.albynyyf00r.nyroc.rr.com (66.109.6.75)  32.534 ms  33.864 ms
+ 8  bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  33.316 ms  31.972 ms  33.178 ms bu-ether27.nycmny837aw-bcr00.tbone.rr.com (107.14.17.219)  38.299 ms
+ 9  be42.albynyyf00r.nyroc.rr.com (107.14.19.101)  30.418 ms bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  27.684 ms
+ 9  *
+ 7  0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  36.641 ms *  47.309 ms bu-ether27.nycmny837aw-bcr00.tbone.rr.com (107.14.17.219)  28.702 ms be42.albynyyf00r.nyroc.rr.com (107.14.19.101)  34.216 ms
+10  agg32.esyrnydr02r.northeast.rr.com (24.58.48.114)  37.687 ms  36.494 ms  34.917 ms
+ 9  be43.albynyyf00r.nyroc.rr.com (107.14.19.103)  52.013 ms *
+ 9  be41.albynyyf00r.nyroc.rr.com (107.14.19.27)  40.350 ms be41.albynyyf00r.nyroc.rr.com (107.14.19.27)  30.872 ms be42.albynyyf00r.nyroc.rr.com (107.14.19.101)  23.975 ms
+ 8  bu-ether27.nycmny837aw-bcr00.tbone.rr.com (107.14.17.219)  47.351 ms bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  30.137 ms
+10  agg32.esyrnydr02r.northeast.rr.com (24.58.48.114)  44.274 ms  45.391 ms  45.219 ms be5.albynyyf00r.nyroc.rr.com (66.109.6.75)  31.831 ms be43.albynyyf00r.nyroc.rr.com (107.14.19.103)  38.376 ms be43.albynyyf00r.nyroc.rr.com (107.14.19.103)  52.102 ms be41.albynyyf00r.nyroc.rr.com (107.14.19.27)  22.947 ms bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  47.928 ms
+11  agg1.oswgny0102h.northeast.rr.com (24.58.48.115)  49.665 ms  48.203 ms  49.072 ms
+ 9  be41.albynyyf00r.nyroc.rr.com (107.14.19.27)  38.450 ms  38.385 ms  49.052 ms
+11  agg1.oswgny0102h.northeast.rr.com (24.58.48.115)  60.870 ms  60.805 ms  60.742 ms
+10  agg32.esyrnydr02r.northeast.rr.com (24.58.48.114)  35.638 ms  35.583 ms  33.008 ms be41.albynyyf00r.nyroc.rr.com (107.14.19.27)  32.998 ms
+10  agg32.esyrnydr02r.northeast.rr.com (24.58.48.114)  53.095 ms  52.352 ms  52.110 ms
+10  agg32.esyrnydr02r.northeast.rr.com (24.58.48.114)  31.253 ms  28.011 ms  31.845 ms bu-ether27.nycmny837aw-bcr00.tbone.rr.com (107.14.17.219)  44.548 ms
+10  agg32.esyrnydr02r.northeast.rr.com (24.58.48.114)  68.408 ms * *
+11  *
+12  eth6-0.oswgny0101m.nyroc.rr.com (24.24.18.110)  59.635 ms  63.038 ms  59.843 ms
+13  * * *
+14  * * *
+15  * *
+11  agg1.oswgny0102h.northeast.rr.com (24.58.48.115)  47.571 ms  46.917 ms  45.502 ms
+10  agg32.esyrnydr02r.northeast.rr.com (24.58.48.114)  34.433 ms  33.364 ms  32.613 ms
+11  agg1.oswgny0102h.northeast.rr.com (24.58.48.115)  65.667 ms  66.080 ms  66.122 ms
+11  agg1.oswgny0102h.northeast.rr.com (24.58.48.115)  132.044 ms  131.783 ms  132.068 ms
+ 9  be42.albynyyf00r.nyroc.rr.com (107.14.19.101)  45.353 ms agg1.oswgny0102h.northeast.rr.com (24.58.48.115)  69.844 ms  67.403 ms
+ 3  67.59.229.205 (67.59.229.205)  21.725 ms  22.051 ms  22.381 ms
+12  eth6-0.oswgny0101m.nyroc.rr.com (24.24.18.110)  47.931 ms  60.160 ms  60.614 ms
+13  * * *
+14  * * *
+15  * * *
+11  agg1.oswgny0102h.northeast.rr.com (24.58.48.115)  45.716 ms  71.197 ms  68.047 ms
+12  eth6-0.oswgny0101m.nyroc.rr.com (24.24.18.110)  60.041 ms  55.124 ms  54.681 ms
+13  * * *
+14  * * *
+15  * * *
+16  *
+12  eth6-0.oswgny0101m.nyroc.rr.com (24.24.18.110)  42.055 ms  45.594 ms  48.076 ms
+13  * * *
+14  * * *
+15  * * be41.albynyyf00r.nyroc.rr.com (107.14.19.27)  44.624 ms
+12  eth6-0.oswgny0101m.nyroc.rr.com (24.24.18.110)  62.913 ms *  59.583 ms
+13  * * *
+14  * * *
+ 4  rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  41.770 ms
+12  eth6-0.oswgny0101m.nyroc.rr.com (24.24.18.110)  61.419 ms  71.943 ms  70.764 ms
+13  * * *
+14  * * *
+15  * * *
+12  eth6-0.oswgny0101m.nyroc.rr.com (24.24.18.110)  59.643 ms  60.203 ms  60.744 ms
+13  * * *
+14  * * *
+15  * * *
+16  * be43.albynyyf00r.nyroc.rr.com (107.14.19.103)  44.631 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  34.236 ms
+10  agg32.esyrnydr02r.northeast.rr.com (24.58.48.114)  34.634 ms  35.408 ms  36.139 ms
+11  agg1.oswgny0102h.northeast.rr.com (24.58.48.115)  161.119 ms  163.404 ms  162.300 ms
+12  eth6-0.oswgny0101m.nyroc.rr.com (24.24.18.110)  48.239 ms  48.364 ms  49.170 ms
+13  * * *
+14  * * *
+15  * * *
+16  * rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  45.949 ms
+ 5  65.19.119.193 (65.19.119.193)  27.259 ms 64.15.7.49 (64.15.7.49)  39.703 ms 65.19.119.209 (65.19.119.209)  28.222 ms
+ 6  64.15.3.238 (64.15.3.238)  46.192 ms *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * * 64.15.0.30 (64.15.0.30)  27.960 ms * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+ *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+ * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+ 64.15.3.250 (64.15.3.250)  27.411 ms
+ 7  0.xe-6-0-0.pr1.nyc20.tbone.rr.com (66.109.9.133)  26.120 ms  23.979 ms  23.320 ms
+ 8  bu-ether17.nycmny837aw-bcr00.tbone.rr.com (107.14.17.217)  30.325 ms  26.666 ms *
+ 9  be5.albynyyf00r.nyroc.rr.com (66.109.6.75)  68.801 ms be42.albynyyf00r.nyroc.rr.com (107.14.19.101)  49.609 ms *
+10  agg32.esyrnydr02r.northeast.rr.com (24.58.48.114)  65.560 ms  64.573 ms  63.714 ms
+11  agg1.oswgny0102h.northeast.rr.com (24.58.48.115)  68.680 ms *  63.998 ms
+12  eth6-0.oswgny0101m.nyroc.rr.com (24.24.18.110)  48.952 ms  60.357 ms  59.619 ms
+13  * * *
+14  * * *
+15  * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+ *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+ * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

@@ -1,0 +1,11 @@
+traceroute to 117.21.164.36 (117.21.164.36), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.205 (67.59.229.205)  38.787 ms  39.597 ms  40.459 ms
+ 4  ool-4353f689.dyn.optonline.net (67.83.246.137)  45.863 ms rtr1-ge1-14.mhe.prnynj.cv.net (67.83.246.129)  45.075 ms ool-4353f689.dyn.optonline.net (67.83.246.137)  46.918 ms
+ 5  * * 64.15.7.57 (64.15.7.57)  41.154 ms
+ 6  64.15.2.70 (64.15.2.70)  47.976 ms  24.770 ms 451be0de.cst.lightpath.net (65.19.120.222)  25.252 ms
+ 7  * * *
+ 8  ae-2-70.edge2.SanJose3.Level3.net (4.69.152.81)  97.546 ms ae-1-60.edge2.SanJose3.Level3.net (4.69.152.17)  94.300 ms ae-2-70.edge2.SanJose3.Level3.net (4.69.152.81)  94.901 ms
+ 9  ae-2-70.edge2.SanJose3.Level3.net (4.69.152.81)  86.167 ms * ae-1-60.edge2.SanJose3.Level3.net (4.69.152.17)  98.457 ms
+10  * *

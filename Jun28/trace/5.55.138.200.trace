@@ -1,0 +1,13 @@
+traceroute to 5.55.138.200 (5.55.138.200), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  54.196 ms  54.851 ms  56.134 ms
+ 4  rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  60.380 ms  61.003 ms *
+ 5  * 64.15.7.33 (64.15.7.33)  57.887 ms 64.15.7.49 (64.15.7.49)  62.483 ms
+ 6  * 451be0de.cst.lightpath.net (65.19.120.222)  49.591 ms 64.15.2.74 (64.15.2.74)  47.331 ms
+ 7  te0-3-0-6.rcr21.ewr02.atlas.cogentco.com (154.54.11.77)  57.293 ms *  52.225 ms
+ 8  be2324.ccr41.jfk02.atlas.cogentco.com (154.54.47.17)  49.800 ms  49.359 ms *
+ 9  * be2630.ccr42.jfk02.atlas.cogentco.com (154.54.27.122)  30.891 ms be2490.ccr42.lon13.atlas.cogentco.com (154.54.42.86)  103.490 ms
+10  * * *
+11  * be2261.ccr41.fra03.atlas.cogentco.com (154.54.37.30)  120.387 ms be2194.ccr41.ams03.atlas.cogentco.com (130.117.50.242)  104.510 ms
+12  be2229.ccr22.muc01.atlas.cogentco.com (154.54.38.58)  120.836 ms be2262.ccr42.fra03.atlas.cogentco.com (154.54.37.34)  118.632 ms  117.877 ms

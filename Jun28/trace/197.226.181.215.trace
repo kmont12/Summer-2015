@@ -1,0 +1,18 @@
+traceroute to 197.226.181.215 (197.226.181.215), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  67.59.229.197 (67.59.229.197)  20.012 ms  21.817 ms  21.918 ms
+ 4  ool-4353f68d.dyn.optonline.net (67.83.246.141)  25.406 ms rtr2-ge1-14.mhe.prnynj.cv.net (67.83.246.133)  25.234 ms ool-4353f68d.dyn.optonline.net (67.83.246.141)  25.460 ms
+ 5  64.15.7.33 (64.15.7.33)  25.073 ms 65.19.119.193 (65.19.119.193)  25.281 ms *
+ 6  * 451be0de.cst.lightpath.net (65.19.120.222)  17.037 ms 64.15.2.74 (64.15.2.74)  14.933 ms
+ 7  rtr7-ge2-1.in.nycmnyzr.cv.net (64.15.0.106)  22.175 ms  23.311 ms  23.333 ms
+ 8  ash-bb1-link.telia.net (213.248.68.33)  21.370 ms  22.053 ms ash-b2-link.telia.net (213.248.96.137)  22.075 ms
+ 9  ash-bb3-link.telia.net (213.155.130.87)  35.734 ms ash-bb3-link.telia.net (80.91.248.156)  23.472 ms ash-bb3-link.telia.net (80.91.248.158)  19.600 ms
+10  213.155.135.153 (213.155.135.153)  90.088 ms las-b21-link.telia.net (213.248.80.8)  94.733 ms las-b21-link.telia.net (62.115.137.39)  96.375 ms
+11  las-b3-link.telia.net (62.115.140.253)  97.374 ms las-b3-link.telia.net (213.155.130.127)  94.475 ms las-b3-link.telia.net (213.155.134.77)  94.487 ms
+12  telekommalaysia-ic-301285-las-b3.c.telia.net (62.115.32.6)  280.029 ms  272.631 ms  266.894 ms
+13  * * *
+14  1.9.244.166 (1.9.244.166)  340.034 ms  335.889 ms  347.680 ms
+15  tengig1-3-ve.telecomplus.net (196.20.254.150)  360.439 ms  340.560 ms  352.954 ms
+16  196.20.255.165 (196.20.255.165)  347.566 ms  361.758 ms *
+17  197.226.181.215 (197.226.181.215)  361.682 ms  348.862 ms  354.854 ms

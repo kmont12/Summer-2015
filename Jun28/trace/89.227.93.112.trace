@@ -1,0 +1,16 @@
+traceroute to 89.227.93.112 (89.227.93.112), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * 451be0de.cst.lightpath.net (65.19.120.222)  51.226 ms 64.15.2.74 (64.15.2.74)  47.210 ms
+ 7  * te0-3-1-6.rcr21.ewr02.atlas.cogentco.com (154.54.11.205)  52.677 ms te0-4-0-6.rcr21.ewr02.atlas.cogentco.com (154.54.11.245)  53.290 ms
+ 8  be2601.rcr24.jfk01.atlas.cogentco.com (154.54.40.49)  56.799 ms  54.668 ms be2325.ccr42.jfk02.atlas.cogentco.com (154.54.47.29)  55.358 ms
+ 9  be2490.ccr42.lon13.atlas.cogentco.com (154.54.42.86)  111.260 ms  114.546 ms be2632.ccr42.jfk02.atlas.cogentco.com (154.54.28.90)  51.923 ms
+10  154.54.39.114 (154.54.39.114)  120.656 ms be2497.ccr41.par01.atlas.cogentco.com (154.54.39.66)  116.310 ms  115.238 ms
+11  be2308.ccr21.par04.atlas.cogentco.com (154.54.73.230)  119.265 ms  119.886 ms *
+12  nc-numericable.demarc.cogentco.com (149.6.164.102)  268.535 ms  160.064 ms be2309.ccr21.par04.atlas.cogentco.com (154.54.73.242)  171.256 ms
+13  nc-numericable.demarc.cogentco.com (149.6.164.102)  163.219 ms * *
+14  * * 112.93-227-89.dsl.completel.net (89.227.93.112)  243.467 ms
+15  112.93-227-89.dsl.completel.net (89.227.93.112)  3229.792 ms !H *  220.254 ms
